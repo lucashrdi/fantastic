@@ -1,0 +1,120 @@
+
+```{r}
+# Prepare environment
+library(readr)
+library(readxl)
+library(tidyr)
+library(dplyr)
+rm(list = ls())
+# You can check the directory with getwd() and set it with setwd("path")
+```
+
+```{r}
+# Set current season
+current_season <- "2024/2025"
+```
+
+```{r}
+# Take matches
+old <- read.csv("csv/matches.csv")
+
+# Read new excel format
+raw <- read_excel("calendari/mru_2425.xlsx", sheet = 2) # Change file name accordingly
+left <- raw[, c(1:8)]
+right <- raw[, c(9:16)]
+colnames(left) <- colnames(right) <-
+  c("matchday", "team1", "score1", "score2", "team2", "res", "goal1", "goal2")
+temp <- rbind(left, right)
+temp <- temp %>% filter(!is.na(res))
+temp$matchday <- as.numeric(temp$matchday)
+temp <- temp[order(temp[, 1]), ]
+
+# Create matches table
+new <- data.frame(
+  matchday = temp$matchday,
+  team1 = temp$team1,
+  team2 = temp$team2,
+  score1 = temp$score1,
+  score2 = temp$score2,
+  goal1 = temp$goal1,
+  goal2 = temp$goal2,
+  res = temp$res,
+  season = current_season
+)
+
+# Merge matches tables
+matches <- rbind(old, new)
+
+# Download csv
+file_path <- file.path(getwd(), "/csv/matches.csv")
+write.csv(matches, file = file_path, row.names = FALSE)
+```
+
+
+```{r}
+# Update stats
+stats <- read.csv("csv/stats.csv")
+update <- read_excel("update.xlsx") #Change name accordingly
+colnames(update) <- update[1,]
+update <- update[-1,]
+
+update <- cbind(update, c(current_season))
+colnames(update) <- c("id", "pos", "name", "team", "matches",
+                     "MV", "FMV", "goals", "allowed", "saved",
+                     "penalties", "scored", "missed", "assist",
+                     "yellow", "red", "own", "season")
+
+# Merge
+stats <- rbind(stats, update)
+
+# Download csv
+file_path <- file.path(getwd(), "/csv/stats.csv")
+write.csv(stats, file = file_path, row.names = FALSE)
+```
+
+```{r}
+# Update players
+players <- data.frame(
+  id = unique(stats$id),
+  name = NA, p = c(0), d = c(0), c = c(0), a = c(0)
+)
+
+for (row in (1:nrow(players))) {
+  temp <- stats %>% filter(id == players$id[row])
+  if (length(unique(temp$name) == 1)) {
+    players$name[row] <- unique(temp$name)[1]
+  } else {
+    print(c(row, length(unique(temp$name))))
+  }
+  players$p[row] <- sum(unique(temp$pos) == "P")
+  players$d[row] <- sum(unique(temp$pos) == "D")
+  players$c[row] <- sum(unique(temp$pos) == "C")
+  players$a[row] <- sum(unique(temp$pos) == "A")
+}
+
+# Download csv
+file_path <- file.path(getwd(), "/csv/players.csv")
+write.csv(players, file = file_path, row.names = FALSE)
+```
+
+```{r}
+# Update teams
+teams <- read.csv("csv/teams.csv")
+
+# Take team names from matches
+names <- matches %>% filter(matches$season == current_season)
+names <- c(names$team1, names$team2)
+names <- unique(names)
+
+# Combine them
+add <- cbind(NA, c(current_season), names)
+colnames(add) <- colnames(teams)
+teams <- rbind(teams, add)
+
+file_path <- file.path(getwd(), "/csv/teams.csv")
+write.csv(teams, file = file_path, row.names = FALSE)
+```
+
+```{r}
+# Update squads
+```

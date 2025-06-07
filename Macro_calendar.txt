@@ -1,0 +1,17 @@
+function main(workbook: ExcelScript.Workbook) {
+	// Add a new worksheet
+	let foglio2 = workbook.addWorksheet();
+	let selectedSheet = workbook.getActiveWorksheet();
+	// Paste to range A1 on foglio2 from extended range obtained by extending down from range 4:4 on selectedSheet
+foglio2.getRange("A1").copyFrom(selectedSheet.getRange("4:4").getExtendedRange(ExcelScript.KeyboardDirection.down), ExcelScript.RangeCopyType.all, false, false);
+	// Insert at range A:A on foglio2, move existing cells right
+	foglio2.getRange("A:A").insert(ExcelScript.InsertShiftDirection.right);
+	// Set range A1:A5 on foglio2
+	foglio2.getRange("A1:A5").setFormulas([["NA"],["=LEFT(B1,SEARCH(\"G\",B1)-3)"],["=LEFT(B1,SEARCH(\"G\",B1)-3)"],["=LEFT(B1,SEARCH(\"G\",B1)-3)"],["=LEFT(B1,SEARCH(\"G\",B1)-3)"]]);
+	// Auto fill range
+	foglio2.getRange("A1:A5").autoFill("A1:A85", ExcelScript.AutoFillType.fillDefault);
+	// Paste to range G1:G5 on foglio2 from range A1:A5 on foglio2
+	foglio2.getRange("G1:G5").copyFrom(foglio2.getRange("A1:A5"), ExcelScript.RangeCopyType.all, false, false);
+	// Auto fill range
+	foglio2.getRange("G1:G5").autoFill("G1:G85", ExcelScript.AutoFillType.fillDefault);
+}
