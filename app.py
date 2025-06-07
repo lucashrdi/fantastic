@@ -311,7 +311,9 @@ def head_to_head():
                            matrix=matrix,
                            comparison=comparison)
 
-
+@app.route("/")
+def homepage():
+    return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
