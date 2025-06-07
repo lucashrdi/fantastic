@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Standings</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+</head>
+<body>
+    <h1>Classifica</h1>
+
+    <form method="POST">
+        <label>From:</label>
+        <select name="season_from">
+            {% for season in seasons %}
+            <option value="{{ season }}" {% if season == selected_from %}selected{% endif %}>{{ season }}</option>
+            {% endfor %}
+        </select>
+
+        <label>To:</label>
+        <select name="season_to">
+            {% for season in seasons %}
+            <option value="{{ season }}" {% if season == selected_to %}selected{% endif %}>{{ season }}</option>
+            {% endfor %}
+        </select>
+
+        <label>Classifica per:</label>
+        <select name="group_by">
+            <option value="team" {% if group_by == "team" %}selected{% endif %}>Squadra</option>
+            <option value="coach" {% if group_by == "coach" %}selected{% endif %}>Allenatore</option>
+        </select>
+
+        <input type="submit" value="Mostra Classifica">
+    </form>
+
+    <table id="standingsTable" class="display">
+        <thead>
+            <tr>
+                <th>Team</th>
+                <th>MP</th>
+                <th>W</th>
+                <th>D</th>
+                <th>L</th>
+                <th>GF</th>
+                <th>GA</th>
+                <th>GD</th>
+                <th>Pts</th>
+                <th>Avg Pts</th>
+                <th>FP</th>
+                <th>Avg FP</th>
+                <th>FP W</th>
+                <th>FP D</th>
+                <th>FP L</th>
+                <th>FP For</th>
+                <th>FP Against</th>
+                <th>FP Diff</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for team in standings %}
+            <tr>
+                <td>{{ team.Team }}</td>
+                <td>{{ team.MP }}</td>
+                <td>{{ team.W }}</td>
+                <td>{{ team.D }}</td>
+                <td>{{ team.L }}</td>
+                <td>{{ team.GF }}</td>
+                <td>{{ team.GA }}</td>
+                <td>{{ team.GD }}</td>
+                <td>{{ team.Pts }}</td>
+                <td>{{ "%.2f"|format(team.AvgPts or 0) }}</td>
+                <td>{{ team.FP }}</td>
+                <td>{{ "%.2f"|format(team.AvgFP or 0) }}</td>
+                <td>{{ team.FPW }}</td>
+                <td>{{ team.FPD }}</td>
+                <td>{{ team.FPL }}</td>
+                <td>{{ team.FPFor }}</td>
+                <td>{{ team.FPAgainst }}</td>
+                <td>{{ team.FPDiff }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <script>
+        $(document).ready(function () {
+            $('#standingsTable').DataTable({
+                "order": [[8, "desc"]],  // Default sort by Pts
+                "pageLength": 100,
+                "stateSave": true,
+                "columnDefs": [
+                    { "targets": [9, 11, 12, 13, 14, 15, 16, 17], "visible": false } // Hide columns by default
+                ],
+                dom: 'Bfrtip',
+                buttons: [
+                    {
+                        extend: 'colvis',
+                        collectionLayout: 'fixed two-column',
+                        text: 'Seleziona colonne'
+                    }
+                ]
+            });
+        });
+    </script>
+
+    <button id="togglePlot">Mostra/Nascondi Grafico</button>
+    <div id="plot" style="display:none; margin-top: 30px; width: 100%;"></div>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        const plotData = {{ plot_data | tojson }};
+        const traces = plotData.map(team => ({
+            x: team.x,
+            y: team.y,
+            mode: 'lines',
+            name: team.name
+        }));
+
+        document.getElementById("togglePlot").addEventListener("click", function () {
+            const plotDiv = document.getElementById("plot");
+            if (plotDiv.style.display === "none") {
+                Plotly.newPlot("plot", traces, {
+                    title: 'Andamento punti',
+                    xaxis: { title: 'Giornata' },
+                    yaxis: { title: 'Punti cumulativi' },
+                    autosize: true,
+                    margin: { l: 50, r: 20, t: 50, b: 80 },
+                }, {responsive: true});
+                plotDiv.style.display = "block";
+            } else {
+                plotDiv.style.display = "none";
+            }
+        });
+    </script>
+
+</body>
+</html>
