@@ -53,22 +53,22 @@ write.csv(matches, file = file_path, row.names = FALSE)
 
 ```{r}
 # Update stats
-stats <- read.csv("csv/stats.csv")
-update <- read_excel("update.xlsx") #Change name accordingly
-colnames(update) <- update[1,]
-update <- update[-1,]
+stats <- read.csv("mru/csv/stats.csv")
+update <- read_excel("mru/update.xlsx") #Change name accordingly
+colnames(update) <- update[1, ]
+update <- update[-1, ]
 
 update <- cbind(update, c(current_season))
 colnames(update) <- c("id", "pos", "name", "team", "matches",
-                     "MV", "FMV", "goals", "allowed", "saved",
-                     "penalties", "scored", "missed", "assist",
-                     "yellow", "red", "own", "season")
+                      "MV", "FMV", "goals", "allowed", "saved",
+                      "penalties", "scored", "missed", "assist",
+                      "yellow", "red", "own", "season")
 
 # Merge
 stats <- rbind(stats, update)
 
 # Download csv
-file_path <- file.path(getwd(), "/csv/stats.csv")
+file_path <- file.path(getwd(), "mru/csv/stats.csv")
 write.csv(stats, file = file_path, row.names = FALSE)
 ```
 
@@ -93,7 +93,7 @@ for (row in (1:nrow(players))) {
 }
 
 # Download csv
-file_path <- file.path(getwd(), "/csv/players.csv")
+file_path <- file.path(getwd(), "mru/csv/players.csv")
 write.csv(players, file = file_path, row.names = FALSE)
 ```
 
