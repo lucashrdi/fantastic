@@ -1,0 +1,292 @@
+
+```{r}
+# Prepare environment
+library(readr)
+library(readxl)
+library(tidyr)
+library(dplyr)
+rm(list = ls())
+```
+
+```{r}
+# Create Coaches table (alphabetical order within a year?)
+mru_coaches <- data.frame(
+  id = c(11, 12, 13, 14, 15, 16, 17, 18,
+         21, 22,
+         41,
+         51),
+  names = c(
+            "Sacc", "Alby", "Albe", "Cos", "Gullo", "Pasol", "Jack", "Pape",
+            "Fu", "Scalco",
+            "Teo",
+            "Ricky")
+)
+View(mru_coaches)
+```
+
+```{r}
+# Create Teams table
+mru_teams <- read_excel("mru_teams.xlsx", sheet = 1)
+mru_teams_spread <- mru_teams %>% spread(key = season, value = team, fill = NA)
+
+View(mru_teams)
+```
+
+```{r}
+# Create Season table
+mru_seasons <- data.frame(
+  id = c(1:6),
+  season = sort(unique(mru_teams$season))
+)
+
+View(mru_seasons)
+```
+
+```{r}
+# Create scores table
+mru_scores <- data.frame(
+  goals = c(seq(0, 14), "add"),
+  min = c(0, seq(66, 122, 4)),
+  max = c(seq(66, 122, 4), 999.5) - 0.5
+)
+
+View(mru_scores)
+```
+
+```{r}
+# Create F1 tables
+mru_f1 <- data.frame(
+  pos8 = c((1:8), 0, 0, 0, 0),
+  points8 = c(25, 18, 15, 12, 10, 8, 4, 2, 0, 0, 0, 0),
+  pos10 = c((1:10), 0, 0),
+  points10 = c(25, 18, 15, 12, 10, 8, 6, 4, 2, 1, 0, 0),
+  pos12 = c(1:12),
+  points12 = c(25, 18, 15, 12, 10, 8, 6, 4, 3, 2, 1, 0)
+)
+
+View(mru_f1)
+```
+
+```{r}
+# Create Franchise table
+temp <- data.frame(
+                   coach = mru_teams$coach,
+                   years = mru_teams$season,
+                   team = mru_teams$team,
+                   coach_id = NA, team_id = NA, id = NA)
+temp <- temp[order(temp[, 2]), ]
+
+for (row in (1:nrow(temp))) {
+  sub <- filter(temp, coach == temp$coach[row])
+  temp$coach_id[row] <- mru_coaches$id[which(temp$coach[row] == mru_coaches$names)]
+  temp$team_id[row] <- which(temp$team[row] == unique(sub$team))
+  temp$id[row] <- temp$coach_id[row] * 100 + temp$team_id[row]
+}
+temp <- temp[order(temp[, 6]), ]
+
+mru_franchise <- data.frame(
+  id = unique(temp$id),
+  team = unique(temp$team)
+)
+
+View(mru_franchise)
+```
+
+```{r}
+# Create Squad table
+excel <- read_excel("mru_teams.xlsx", sheet = 2)
+
+mru_squad <- excel[, c(1, 2, 3, 4)]
+mru_squad <- cbind(mru_squad, matrix(colnames(excel)[2], length(excel[, 1]), 1))
+colnames(mru_squad) <- c("coach", "player", "price", "pos", "season")
+
+for (season in (2:6)) {
+  temp <- excel[, c(1, (3 * season - 1), (3 * season), (3 * season + 1))]
+  temp <- cbind(temp,
+                matrix(colnames(excel)[3 * season - 1], length(excel[, 1]), 1))
+  colnames(temp) <- c("coach", "player", "price", "pos", "season")
+  mru_squad <- rbind(mru_squad, temp)
+}
+
+mru_squad <- mru_squad %>% filter(!is.na(pos))
+mru_squad <- merge(mru_squad, mru_teams, by = c("coach", "season"))
+mru_squad <- mru_squad[, c("coach", "team", "season", "player", "price", "pos")]
+
+View(mru_squad)
+```
+
+```{r}
+# Create Stats table
+mru_stats <- read_excel("players.xlsx", sheet = 2)
+colnames(mru_stats) <- c("id", "pos", "name", "team", "matches",
+                         "MV", "FMV", "goals", "allowed", "saved",
+                         "penalties", "scored", "missed", "assist",
+                         "yellow", "red", "own", "season")
+
+for (year in (3:7)) {
+  temp <- read_excel("players.xlsx", sheet = year)
+  colnames(temp) <- c("id", "pos", "name", "team", "matches",
+                      "MV", "FMV", "goals", "allowed", "saved",
+                      "penalties", "scored", "missed", "assist",
+                      "yellow", "red", "own", "season")
+  mru_stats <- rbind(mru_stats, temp)
+}
+
+View(mru_stats)
+```
+
+```{r}
+# Create Bonus table (add id?)
+mru_bonus <- data.frame(
+  event = colnames(mru_stats)[8:17],
+  points = c(3, -1, 3, 0, 3, -3, 1, -0.5, -1, -2) # check OG
+)
+
+View(mru_bonus)
+```
+
+```{r}
+# Create Players table
+mru_players <- data.frame(
+  id = unique(mru_stats$id),
+  name = NA, p = c(0), d = c(0), c = c(0), a = c(0)
+)
+
+for (row in (1:nrow(mru_players))) {
+  temp <- mru_stats %>% filter(id == mru_players$id[row])
+  if (length(unique(temp$name) == 1)) {
+    mru_players$name[row] <- unique(temp$name)[1]
+  } else {
+    print(c(row, length(unique(temp$name))))
+  }
+  mru_players$p[row] <- sum(unique(temp$pos) == "P")
+  mru_players$d[row] <- sum(unique(temp$pos) == "D")
+  mru_players$c[row] <- sum(unique(temp$pos) == "C")
+  mru_players$a[row] <- sum(unique(temp$pos) == "A")
+}
+
+View(mru_players)
+```
+
+```{r}
+# Read old excel format (2020/2021 and 2021/2022)
+old <- read_excel("mru_2022.xlsx", sheet = 2) 
+old <- old[, -1]
+mru_matches1 <- old[, c(1:11)]
+colnames(mru_matches1) <- c("matchday", "null1", "null2", "coach1", "coach2",
+                            "score1", "score2", "goal1", "goal2", "res", "season")
+for (coach in (2:11)) {
+  temp <- old[, c((11 * (coach - 1) + 1):(11 * coach))]
+  colnames(temp) <- c("matchday", "null1", "null2", "coach1", "coach2",
+                      "score1", "score2", "goal1", "goal2", "res", "season")
+  mru_matches1 <- rbind(mru_matches1, temp)
+}
+mru_matches1 <- mru_matches1 %>% filter(!is.na(res))
+
+mru_matches1 <- mru_matches1[, -(2:3)]
+mru_matches1 <- mru_matches1[!duplicated(mru_matches1), ]
+```
+
+```{r}
+# Create matches table (2020/2021 and 2021/2022)
+mru_matches1 <- merge(mru_matches1, mru_teams,
+                      by.x = c("coach1", "season"),
+                      by.y = c("coach", "season"),
+                      sort = FALSE)
+colnames(mru_matches1)[ncol(mru_matches1)] <- "team1"
+mru_matches1 <- merge(mru_matches1, mru_teams,
+                      by.x = c("coach2", "season"),
+                      by.y = c("coach", "season"),
+                      sort = FALSE)
+colnames(mru_matches1)[ncol(mru_matches1)] <- "team2"
+mru_matches1 <- mru_matches1[, c("matchday", "team1", "team2", "score1", "score2", "goal1", "goal2", "res", "season")]
+```
+
+```{r}
+# Read new excel format (2022/2023)
+raw <- read_excel("mru_2223.xlsx", sheet = 2)
+left <- raw[, c(1:8)]
+right <- raw[, c(9:16)]
+colnames(left) <- colnames(right) <-
+  c("matchday", "team1", "score1", "score2", "team2", "res", "goal1", "goal2")
+temp <- rbind(left, right)
+temp <- temp %>% filter(!is.na(res))
+temp$matchday <- as.numeric(temp$matchday)
+temp <- temp[order(temp[, 1]), ]
+```
+
+```{r}
+# Create matches table (2022/2023)
+mru_matches2 <- data.frame(
+  matchday = temp$matchday,
+  team1 = temp$team1,
+  team2 = temp$team2,
+  score1 = temp$score1,
+  score2 = temp$score2,
+  goal1 = temp$goal1,
+  goal2 = temp$goal2,
+  res = temp$res,
+  season = "2022/2023"
+)
+```
+
+```{r}
+# Read new excel format (2023/2024)
+raw <- read_excel("mru_2324.xlsx", sheet = 2)
+left <- raw[, c(1:8)]
+right <- raw[, c(9:16)]
+colnames(left) <- colnames(right) <-
+  c("matchday", "team1", "score1", "score2", "team2", "res", "goal1", "goal2")
+temp <- rbind(left, right)
+temp <- temp %>% filter(!is.na(res))
+temp$matchday <- as.numeric(temp$matchday)
+temp <- temp[order(temp[, 1]), ]
+```
+
+```{r}
+# Create matches table (2023/2024)
+mru_matches3 <- data.frame(
+  matchday = temp$matchday,
+  team1 = temp$team1,
+  team2 = temp$team2,
+  score1 = temp$score1,
+  score2 = temp$score2,
+  goal1 = temp$goal1,
+  goal2 = temp$goal2,
+  res = temp$res,
+  season = "2023/2024"
+)
+```
+
+```{r}
+# Merge matches tables
+mru_matches <- rbind(mru_matches1, mru_matches2, mru_matches3)
+
+View(mru_matches)
+```
+
+```{r}
+# Safe csv
+file_path <- file.path(getwd(), "/csv/bonus.csv")
+write.csv(mru_bonus, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/coaches.csv")
+write.csv(mru_coaches, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/franchise.csv")
+write.csv(mru_franchise, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/matches.csv")
+write.csv(mru_matches, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/f1.csv")
+write.csv(mru_f1, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/players.csv")
+write.csv(mru_players, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/scores.csv")
+write.csv(mru_scores, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/seasons.csv")
+write.csv(mru_seasons, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/squad.csv")
+write.csv(mru_squad, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/stats.csv")
+write.csv(mru_stats, file = file_path, row.names = FALSE)
+file_path <- file.path(getwd(), "/csv/teams.csv")
+write.csv(mru_teams, file = file_path, row.names = FALSE)
+```

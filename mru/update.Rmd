@@ -111,10 +111,31 @@ add <- cbind(NA, c(current_season), names)
 colnames(add) <- colnames(teams)
 teams <- rbind(teams, add)
 
+# Download csv
 file_path <- file.path(getwd(), "/csv/teams.csv")
 write.csv(teams, file = file_path, row.names = FALSE)
 ```
 
 ```{r}
 # Update squads
+# Old approach, it works but i want to change it
+squad <- read.csv("mru/csv/squad.csv")
+excel <- read_excel("mru_teams.xlsx", sheet = 2) # Check name
+teams <- read.csv("mru/csv/teams.csv")
+
+# Only take last season and add season column
+excel <- excel[, c(1, 2, 3, 4)]
+excel <- cbind(excel, c(current_season))
+colnames(excel) <- c("coach", "player", "price", "pos", "season")
+
+# Filter for active teams and add team name
+excel <- excel %>% filter(!is.na(pos))
+excel <- merge(excel, teams, by = c("coach", "season"))
+
+# Merge the files
+squad <- rbind(squad, excel)
+
+# Download csv
+file_path <- file.path(getwd(), "mru/csv/squad.csv")
+write.csv(squad, file = file_path, row.names = FALSE)
 ```
