@@ -128,6 +128,16 @@ excel <- excel[, c(1, 2, 3, 4)]
 excel <- cbind(excel, c(current_season))
 colnames(excel) <- c("coach", "player", "price", "pos", "season")
 
+# Add players' id
+stats <- read.csv("mru/csv/stats.csv")
+ids <- stats[, c(1, 3)]
+ids <- ids %>% distinct()
+colnames(ids) <- c("id", "player")
+excel$rowid <- seq_len(nrow(excel))
+excel <- merge(excel, ids, by = "player", all.x = TRUE)
+excel <- excel[order(excel$rowid), ]
+excel$rowid <- NULL
+
 # Filter for active teams and add team name
 excel <- excel %>% filter(!is.na(pos))
 excel <- merge(excel, teams, by = c("coach", "season"))

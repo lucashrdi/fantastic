@@ -1,1651 +1,1651 @@
-"coach","team","season","player","price","pos"
-"Albe","Aston Pirla","2018/2019","Consigli",NA,"P"
-"Albe","Aston Pirla","2018/2019","Olsen",NA,"P"
-"Albe","Aston Pirla","2018/2019",NA,NA,"P"
-"Albe","Aston Pirla","2018/2019","Malcuit",NA,"D"
-"Albe","Aston Pirla","2018/2019","Mancini",NA,"D"
-"Albe","Aston Pirla","2018/2019","Marlon",NA,"D"
-"Albe","Aston Pirla","2018/2019","De Vrij",NA,"D"
-"Albe","Aston Pirla","2018/2019","Murillo",NA,"D"
-"Albe","Aston Pirla","2018/2019","Ghoulam",NA,"D"
-"Albe","Aston Pirla","2018/2019","Conti",NA,"D"
-"Albe","Aston Pirla","2018/2019","Castagne/Cionek",NA,"D"
-"Albe","Aston Pirla","2018/2019","Matuidi",NA,"C"
-"Albe","Aston Pirla","2018/2019","Dzemaili",NA,"C"
-"Albe","Aston Pirla","2018/2019","Milinkovic-Savic",NA,"C"
-"Albe","Aston Pirla","2018/2019","Ruiz",NA,"C"
-"Albe","Aston Pirla","2018/2019","Joao Pedro",NA,"C"
-"Albe","Aston Pirla","2018/2019","Khedira",NA,"C"
-"Albe","Aston Pirla","2018/2019","Berardi",NA,"C"
-"Albe","Aston Pirla","2018/2019","Kucka/Linetty",NA,"C"
-"Albe","Aston Pirla","2018/2019","Boateng",NA,"A"
-"Albe","Aston Pirla","2018/2019","Gervinho",NA,"A"
-"Albe","Aston Pirla","2018/2019","Mandzukic",NA,"A"
-"Albe","Aston Pirla","2018/2019","Barrow",NA,"A"
-"Albe","Aston Pirla","2018/2019","Mirallas",NA,"A"
-"Albe","Aston Pirla","2018/2019","Higuain","160","A"
-"Albe","Aston Pirla","2019/2020","Strakosha",NA,"P"
-"Albe","Aston Pirla","2019/2020","Musso",NA,"P"
-"Albe","Aston Pirla","2019/2020",NA,NA,"P"
-"Albe","Aston Pirla","2019/2020","Florenzi",NA,"D"
-"Albe","Aston Pirla","2019/2020","Duarte",NA,"D"
-"Albe","Aston Pirla","2019/2020","Musacchio",NA,"D"
-"Albe","Aston Pirla","2019/2020","Romagnoli",NA,"D"
-"Albe","Aston Pirla","2019/2020","Ferrari G.",NA,"D"
-"Albe","Aston Pirla","2019/2020","Klavan",NA,"D"
-"Albe","Aston Pirla","2019/2020","Darmian",NA,"D"
-"Albe","Aston Pirla","2019/2020","Radu",NA,"D"
-"Albe","Aston Pirla","2019/2020","Pastore",NA,"C"
-"Albe","Aston Pirla","2019/2020","Papu Gomez",NA,"C"
-"Albe","Aston Pirla","2019/2020","Calhanoglu",NA,"C"
-"Albe","Aston Pirla","2019/2020","Malinovskyi",NA,"C"
-"Albe","Aston Pirla","2019/2020","Pasalic",NA,"C"
-"Albe","Aston Pirla","2019/2020","Zaccagni",NA,"C"
-"Albe","Aston Pirla","2019/2020","Bonaventura",NA,"C"
-"Albe","Aston Pirla","2019/2020","Valoti",NA,"C"
-"Albe","Aston Pirla","2019/2020","Karamoh",NA,"A"
-"Albe","Aston Pirla","2019/2020","Piatek",NA,"A"
-"Albe","Aston Pirla","2019/2020","Muriel",NA,"A"
-"Albe","Aston Pirla","2019/2020","Barrow",NA,"A"
-"Albe","Aston Pirla","2019/2020","Rebic",NA,"A"
-"Albe","Aston Pirla","2019/2020","Ilicic",NA,"A"
-"Albe","Aston Pirla","2020/2021","Silvestri","9","P"
-"Albe","Aston Pirla","2020/2021","Musso","9","P"
-"Albe","Aston Pirla","2020/2021","Cragno","5","P"
-"Albe","Aston Pirla","2020/2021","Hernandez T.","46","D"
-"Albe","Aston Pirla","2020/2021","Cuadrado","19","D"
-"Albe","Aston Pirla","2020/2021","Spinazzola","15","D"
-"Albe","Aston Pirla","2020/2021","Ibanez","7","D"
-"Albe","Aston Pirla","2020/2021","Romero","5","D"
-"Albe","Aston Pirla","2020/2021","Lirola","1","D"
-"Albe","Aston Pirla","2020/2021","Stryger Larsen","1","D"
-"Albe","Aston Pirla","2020/2021","Hickey","3","D"
-"Albe","Aston Pirla","2020/2021","Papu Gomez","60","C"
-"Albe","Aston Pirla","2020/2021","Luis Alberto","47","C"
-"Albe","Aston Pirla","2020/2021","Ramsey","13","C"
-"Albe","Aston Pirla","2020/2021","Lazovic","5","C"
-"Albe","Aston Pirla","2020/2021","Freuler","1","C"
-"Albe","Aston Pirla","2020/2021","Tonali","1","C"
-"Albe","Aston Pirla","2020/2021","Gojak","1","C"
-"Albe","Aston Pirla","2020/2021","Vulic","1","C"
-"Albe","Aston Pirla","2020/2021","Ibrahimovic","230","A"
-"Albe","Aston Pirla","2020/2021","Kalinic","3","A"
-"Albe","Aston Pirla","2020/2021","Lasagna","1","A"
-"Albe","Aston Pirla","2020/2021","Corneilus","5","A"
-"Albe","Aston Pirla","2020/2021","Pavoletti","1","A"
-"Albe","Aston Pirla","2020/2021","Sau","1","A"
-"Albe","Aston Pirla","2021/2022","Handanovic","39","P"
-"Albe","Aston Pirla","2021/2022","Radu I.","4","P"
-"Albe","Aston Pirla","2021/2022","Terracciano","1","P"
-"Albe","Aston Pirla","2021/2022","Mancini","28","D"
-"Albe","Aston Pirla","2021/2022","Danilo","11","D"
-"Albe","Aston Pirla","2021/2022","Kjaer","8","D"
-"Albe","Aston Pirla","2021/2022","Djimsiti","6","D"
-"Albe","Aston Pirla","2021/2022","Smalling","8","D"
-"Albe","Aston Pirla","2021/2022","Izzo","2","D"
-"Albe","Aston Pirla","2021/2022","Magnani","1","D"
-"Albe","Aston Pirla","2021/2022","Udogie","1","D"
-"Albe","Aston Pirla","2021/2022","Ruiz","20","C"
-"Albe","Aston Pirla","2021/2022","Diaz B.","31","C"
-"Albe","Aston Pirla","2021/2022","Mckennie","13","C"
-"Albe","Aston Pirla","2021/2022","Maggiore","7","C"
-"Albe","Aston Pirla","2021/2022","Bonaventura","11","C"
-"Albe","Aston Pirla","2021/2022","Saelemaekers","6","C"
-"Albe","Aston Pirla","2021/2022","Vignato","3","C"
-"Albe","Aston Pirla","2021/2022","Koopmeiners","6","C"
-"Albe","Aston Pirla","2021/2022","Vlahovic","157","A"
-"Albe","Aston Pirla","2021/2022","Giroud","74","A"
-"Albe","Aston Pirla","2021/2022","Morata","50","A"
-"Albe","Aston Pirla","2021/2022","Sanabria","1","A"
-"Albe","Aston Pirla","2021/2022","Pussetto","11","A"
-"Albe","Aston Pirla","2021/2022","Defrel","1","A"
-"Albe","Aston Pirla","2022/2023","Luiz Maximiano","11","P"
-"Albe","Aston Pirla","2022/2023","Vicario","3","P"
-"Albe","Aston Pirla","2022/2023","Radu I.","4","P"
-"Albe","Aston Pirla","2022/2023","Tomori","18","D"
-"Albe","Aston Pirla","2022/2023","Kalulu","18","D"
-"Albe","Aston Pirla","2022/2023","Singo","16","D"
-"Albe","Aston Pirla","2022/2023","Rodrigo Becao","5","D"
-"Albe","Aston Pirla","2022/2023","Ibanez","7","D"
-"Albe","Aston Pirla","2022/2023","Schuurs","11","D"
-"Albe","Aston Pirla","2022/2023","De Silvestri","3","D"
-"Albe","Aston Pirla","2022/2023","Celik","1","D"
-"Albe","Aston Pirla","2022/2023","Malinovskyi","22","C"
-"Albe","Aston Pirla","2022/2023","Pogba","22","C"
-"Albe","Aston Pirla","2022/2023","De Ketelaere","54","C"
-"Albe","Aston Pirla","2022/2023","Kostic","44","C"
-"Albe","Aston Pirla","2022/2023","Verdi","3","C"
-"Albe","Aston Pirla","2022/2023","Cataldi","1","C"
-"Albe","Aston Pirla","2022/2023","Rabiot","1","C"
-"Albe","Aston Pirla","2022/2023","Tonali","15","C"
-"Albe","Aston Pirla","2022/2023","Arnautovic","100","A"
-"Albe","Aston Pirla","2022/2023","Di Maria","70","A"
-"Albe","Aston Pirla","2022/2023","Pedro","4","A"
-"Albe","Aston Pirla","2022/2023","Henry","46","A"
-"Albe","Aston Pirla","2022/2023","Cabral","5","A"
-"Albe","Aston Pirla","2022/2023","Ibrahimovic","1","A"
-"Albe","Aston Pirla","2023/2024","Sportiello","1","P"
-"Albe","Aston Pirla","2023/2024","Mirante","1","P"
-"Albe","Aston Pirla","2023/2024","Maignan","51","P"
-"Albe","Aston Pirla","2023/2024","Biraghi","13","D"
-"Albe","Aston Pirla","2023/2024","Monterisi","1","D"
-"Albe","Aston Pirla","2023/2024","Parisi","4","D"
-"Albe","Aston Pirla","2023/2024","Scalvini","7","D"
-"Albe","Aston Pirla","2023/2024","De Winter","1","D"
-"Albe","Aston Pirla","2023/2024","Terracciano F.","1","D"
-"Albe","Aston Pirla","2023/2024","Bijol","7","D"
-"Albe","Aston Pirla","2023/2024","Thiaw","10","D"
-"Albe","Aston Pirla","2023/2024","Zielinski","28","C"
-"Albe","Aston Pirla","2023/2024","Bonaventura","24","C"
-"Albe","Aston Pirla","2023/2024","Strootman","1","C"
-"Albe","Aston Pirla","2023/2024","Aouar","17","C"
-"Albe","Aston Pirla","2023/2024","Maldini","1","C"
-"Albe","Aston Pirla","2023/2024","Volpato","1","C"
-"Albe","Aston Pirla","2023/2024","Iling Junior","1","C"
-"Albe","Aston Pirla","2023/2024","Reijnders","20","C"
-"Albe","Aston Pirla","2023/2024","Petagna","13","A"
-"Albe","Aston Pirla","2023/2024","Bonazzoli","26","A"
-"Albe","Aston Pirla","2023/2024","Zapata D.","47","A"
-"Albe","Aston Pirla","2023/2024","Zirkzee","13","A"
-"Albe","Aston Pirla","2023/2024","Kaio Jorge","1","A"
-"Albe","Aston Pirla","2023/2024","Kvaratskhelia","204","A"
-"Alby","Zoggiathebest99 Team","2018/2019","Donnarumma G.",NA,"P"
-"Alby","Zoggiathebest99 Team","2018/2019","Donnarumma A.",NA,"P"
-"Alby","Zoggiathebest99 Team","2018/2019",NA,NA,"P"
-"Alby","Zoggiathebest99 Team","2018/2019","D'ambrosio",NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019","Acerbi",NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019","Florenzi",NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019","N'Koulou",NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019","Pezzella Ger.",NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2018/2019","Benassi",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","De Paul",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Baselli",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Lucas Leiva",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Mandragora",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Lulic",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Biglia",NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019",NA,NA,"C"
-"Alby","Zoggiathebest99 Team","2018/2019","Dzeko",NA,"A"
-"Alby","Zoggiathebest99 Team","2018/2019","Zapata D.",NA,"A"
-"Alby","Zoggiathebest99 Team","2018/2019","Simeone",NA,"A"
-"Alby","Zoggiathebest99 Team","2018/2019","Palacio",NA,"A"
-"Alby","Zoggiathebest99 Team","2018/2019","Ljajic",NA,"A"
-"Alby","Zoggiathebest99 Team","2018/2019","Campbell",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020","Olsen",NA,"P"
-"Alby","Zoggiathebest99 Team","2019/2020","Consigli",NA,"P"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"P"
-"Alby","Zoggiathebest99 Team","2019/2020","Smalling",NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020","Djimsiti",NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020","Mancini",NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020","Bonucci",NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2019/2020","Rabiot",NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020","Matuidi",NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020","Candreva",NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020","Mkhitaryan",NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020","Verdi",NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"C"
-"Alby","Zoggiathebest99 Team","2019/2020","Martinez L.",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020","Simeone",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020","Higuain",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020","Defrel",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020","Orsolini",NA,"A"
-"Alby","Zoggiathebest99 Team","2019/2020",NA,NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Ospina",NA,"P"
-"Alby","Zoggiathebest99 Team","2020/2021","Sepe",NA,"P"
-"Alby","Zoggiathebest99 Team","2020/2021","Meret",NA,"P"
-"Alby","Zoggiathebest99 Team","2020/2021","De Silvestri",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Dimarco",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Milenkovic",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","De Vrij",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Zappacosta",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Glik",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Maehle",NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021",NA,NA,"D"
-"Alby","Zoggiathebest99 Team","2020/2021","Barak",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Pereyra",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Milinkovic-Savic",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Barella",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Kucka",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Perisic",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Bonaventura",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Saponara",NA,"C"
-"Alby","Zoggiathebest99 Team","2020/2021","Lukaku",NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Quagliarella",NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Morata",NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Pedro",NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Caprari",NA,"A"
-"Alby","Zoggiathebest99 Team","2020/2021","Iago Falque",NA,"A"
-"Alby","Zoggiathebest99 Team","2021/2022","Szczesny","35","P"
-"Alby","Zoggiathebest99 Team","2021/2022","Pinsoglio","1","P"
-"Alby","Zoggiathebest99 Team","2021/2022","Perin","1","P"
-"Alby","Zoggiathebest99 Team","2021/2022","Ferrari G.","7","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Manolas","8","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Palomino","8","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Hysaj","3","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Godin","2","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Singo","2","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Romagnoli","1","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Martinez Quarta","1","D"
-"Alby","Zoggiathebest99 Team","2021/2022","Calhanoglu","45","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Zaccagni","24","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Zaniolo","54","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Mandragora","1","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Vidal","9","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Callejon","2","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Bandinelli","1","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Obi","1","C"
-"Alby","Zoggiathebest99 Team","2021/2022","Osimhen","133","A"
-"Alby","Zoggiathebest99 Team","2021/2022","Dzeko","73","A"
-"Alby","Zoggiathebest99 Team","2021/2022","Kean","41","A"
-"Alby","Zoggiathebest99 Team","2021/2022","Sanchez","1","A"
-"Alby","Zoggiathebest99 Team","2021/2022","Pedro","16","A"
-"Alby","Zoggiathebest99 Team","2021/2022","Scamacca","30","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Musso","30","P"
-"Alby","Zoggiathebest99 Team","2022/2023","Consigli","3","P"
-"Alby","Zoggiathebest99 Team","2022/2023","Sportiello","1","P"
-"Alby","Zoggiathebest99 Team","2022/2023","Cuadrado","42","D"
-"Alby","Zoggiathebest99 Team","2022/2023","De Vrij","18","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Zappacosta","13","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Colley","5","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Dimarco","16","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Acerbi","1","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Lazaro","1","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Soppy","2","D"
-"Alby","Zoggiathebest99 Team","2022/2023","Barella","56","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Mkhitaryan","13","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Lazovic","7","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Soriano","17","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Mckennie","13","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Miranchuk","8","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Ricci S.","3","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Vecino","1","C"
-"Alby","Zoggiathebest99 Team","2022/2023","Lukaku","195","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Lozano","20","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Bonazzoli","21","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Lasagna","7","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Shomurodov","1","A"
-"Alby","Zoggiathebest99 Team","2022/2023","Djuric","1","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Perin","1","P"
-"Alby","Zoggiathebest99 Team","2023/2024","Szczesny","40","P"
-"Alby","Zoggiathebest99 Team","2023/2024","Consigli","1","P"
-"Alby","Zoggiathebest99 Team","2023/2024","Alex Sandro","1","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Cuadrado","12","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Bastoni","10","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Kolasinac","9","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Pellegrini Lu.","1","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Augello","1","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Gatti","1","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Schuurs","17","D"
-"Alby","Zoggiathebest99 Team","2023/2024","Pogba","7","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Barella","34","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Pessina","11","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Frattesi","28","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Malinovskyi","16","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Coulibaly L.","1","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Ndoye","5","C"
-"Alby","Zoggiathebest99 Team","2023/2024","De Ketelaere","5","C"
-"Alby","Zoggiathebest99 Team","2023/2024","Immobile","184","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Deulofeu","10","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Caputo","33","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Arnautovic","66","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Azmoun","1","A"
-"Alby","Zoggiathebest99 Team","2023/2024","Lucca","5","A"
-"Cos","Joe Gage FC","2018/2019","Handanovic",NA,"P"
-"Cos","Joe Gage FC","2018/2019",NA,NA,"P"
-"Cos","Joe Gage FC","2018/2019",NA,NA,"P"
-"Cos","Joe Gage FC","2018/2019","Ansaldi",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Izzo",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Albiol",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Koulibaly",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Juan Jesus",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Luiz Felipe",NA,"D"
-"Cos","Joe Gage FC","2018/2019","Gagliolo",NA,"D"
-"Cos","Joe Gage FC","2018/2019",NA,NA,"D"
-"Cos","Joe Gage FC","2018/2019","Hamsik",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Correa",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Giaccherini",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Krunic",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Castro",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Ilicic",NA,"C"
-"Cos","Joe Gage FC","2018/2019","Ramirez",NA,"C"
-"Cos","Joe Gage FC","2018/2019",NA,NA,"C"
-"Cos","Joe Gage FC","2018/2019","Schick",NA,"A"
-"Cos","Joe Gage FC","2018/2019","Belotti",NA,"A"
-"Cos","Joe Gage FC","2018/2019","Keita B.",NA,"A"
-"Cos","Joe Gage FC","2018/2019","Politano",NA,"A"
-"Cos","Joe Gage FC","2018/2019","El Shaarawy",NA,"A"
-"Cos","Joe Gage FC","2018/2019","Milik",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Sirigu",NA,"P"
-"Cos","Joe Gage FC","2019/2020","Gabriel",NA,"P"
-"Cos","Joe Gage FC","2019/2020",NA,NA,"P"
-"Cos","Joe Gage FC","2019/2020","Nkoulou",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Lyanco",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Zappacosta",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Murillo",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Kjaer",NA,"D"
-"Cos","Joe Gage FC","2019/2020","De Vrij",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Biraghi",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Acerbi",NA,"D"
-"Cos","Joe Gage FC","2019/2020","Barella",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Allan",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Ribery",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Veloso",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Ramirez",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Nainggolan",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Baselli",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Obaing",NA,"C"
-"Cos","Joe Gage FC","2019/2020","Pazzini",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Milik",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Sanchez",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Lozano",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Destro",NA,"A"
-"Cos","Joe Gage FC","2019/2020","Llorente",NA,"A"
-"Cos","Joe Gage FC","2020/2021","Handanovic","32","P"
-"Cos","Joe Gage FC","2020/2021","Skorupski","1","P"
-"Cos","Joe Gage FC","2020/2021","Radu I.","1","P"
-"Cos","Joe Gage FC","2020/2021","Acerbi","14","D"
-"Cos","Joe Gage FC","2020/2021","Kolarov","13","D"
-"Cos","Joe Gage FC","2020/2021","Bastoni","17","D"
-"Cos","Joe Gage FC","2020/2021","Nkoulou","5","D"
-"Cos","Joe Gage FC","2020/2021","Colley","4","D"
-"Cos","Joe Gage FC","2020/2021","Izzo","4","D"
-"Cos","Joe Gage FC","2020/2021","Pezzella Ger.","2","D"
-"Cos","Joe Gage FC","2020/2021","Skriniar","2","D"
-"Cos","Joe Gage FC","2020/2021","Castrovilli","21","C"
-"Cos","Joe Gage FC","2020/2021","Miranchuk","16","C"
-"Cos","Joe Gage FC","2020/2021","Ramirez","14","C"
-"Cos","Joe Gage FC","2020/2021","Ruiz","24","C"
-"Cos","Joe Gage FC","2020/2021","Verdi","3","C"
-"Cos","Joe Gage FC","2020/2021","Linetty","1","C"
-"Cos","Joe Gage FC","2020/2021","Nandez","1","C"
-"Cos","Joe Gage FC","2020/2021","Pereira","1","C"
-"Cos","Joe Gage FC","2020/2021","Martinez L.","192","A"
-"Cos","Joe Gage FC","2020/2021","Dzeko","76","A"
-"Cos","Joe Gage FC","2020/2021","Osimhen","52","A"
-"Cos","Joe Gage FC","2020/2021","Sanchez","46","A"
-"Cos","Joe Gage FC","2020/2021","Keita B.","2","A"
-"Cos","Joe Gage FC","2020/2021","Majoral","1","A"
-"Cos","Joe Gage FC","2021/2022","Dragowski","28","P"
-"Cos","Joe Gage FC","2021/2022","Vicario","1","P"
-"Cos","Joe Gage FC","2021/2022","Belec","1","P"
-"Cos","Joe Gage FC","2021/2022","De Vrij","18","D"
-"Cos","Joe Gage FC","2021/2022","Hateboer","10","D"
-"Cos","Joe Gage FC","2021/2022","Lazzari","25","D"
-"Cos","Joe Gage FC","2021/2022","Maehle","18","D"
-"Cos","Joe Gage FC","2021/2022","Dimarco","7","D"
-"Cos","Joe Gage FC","2021/2022","Ampadu","2","D"
-"Cos","Joe Gage FC","2021/2022","Maksimovic","1","D"
-"Cos","Joe Gage FC","2021/2022","Nastasic","2","D"
-"Cos","Joe Gage FC","2021/2022","Felipe Anderson","43","C"
-"Cos","Joe Gage FC","2021/2022","Castrovilli","16","C"
-"Cos","Joe Gage FC","2021/2022","Nandez","12","C"
-"Cos","Joe Gage FC","2021/2022","Verdi","1","C"
-"Cos","Joe Gage FC","2021/2022","Svanberg","1","C"
-"Cos","Joe Gage FC","2021/2022","Praet","1","C"
-"Cos","Joe Gage FC","2021/2022","Torreira","1","C"
-"Cos","Joe Gage FC","2021/2022","Kovalenko","1","C"
-"Cos","Joe Gage FC","2021/2022","Muriel","170","A"
-"Cos","Joe Gage FC","2021/2022","Arnautovic","84","A"
-"Cos","Joe Gage FC","2021/2022","Quagliarella","36","A"
-"Cos","Joe Gage FC","2021/2022","Cutrone","2","A"
-"Cos","Joe Gage FC","2021/2022","Henry","14","A"
-"Cos","Joe Gage FC","2021/2022","Brekalo","1","A"
-"Cos","Joe Gage FC","2022/2023","Handanovic","37","P"
-"Cos","Joe Gage FC","2022/2023","Di Gregorio","1","P"
-"Cos","Joe Gage FC","2022/2023","Padelli","1","P"
-"Cos","Joe Gage FC","2022/2023","Skriniar","30","D"
-"Cos","Joe Gage FC","2022/2023","Milenkovic","13","D"
-"Cos","Joe Gage FC","2022/2023","Lazzari","17","D"
-"Cos","Joe Gage FC","2022/2023","Vojvoda","5","D"
-"Cos","Joe Gage FC","2022/2023","Casale","1","D"
-"Cos","Joe Gage FC","2022/2023","Masina","4","D"
-"Cos","Joe Gage FC","2022/2023","Ferrari G.","2","D"
-"Cos","Joe Gage FC","2022/2023","Marlon","1","D"
-"Cos","Joe Gage FC","2022/2023","Felipe Anderson","33","C"
-"Cos","Joe Gage FC","2022/2023","Zaccagni","31","C"
-"Cos","Joe Gage FC","2022/2023","Vlasic","24","C"
-"Cos","Joe Gage FC","2022/2023","Djuricic","2","C"
-"Cos","Joe Gage FC","2022/2023","Dominguez","1","C"
-"Cos","Joe Gage FC","2022/2023","Asllani","1","C"
-"Cos","Joe Gage FC","2022/2023","Winks","1","C"
-"Cos","Joe Gage FC","2022/2023","Radonjic","20","C"
-"Cos","Joe Gage FC","2022/2023","Martinez L.","191","A"
-"Cos","Joe Gage FC","2022/2023","Beto","14","A"
-"Cos","Joe Gage FC","2022/2023","Gonzalez N.","38","A"
-"Cos","Joe Gage FC","2022/2023","Dessers","16","A"
-"Cos","Joe Gage FC","2022/2023","Destro","4","A"
-"Cos","Joe Gage FC","2022/2023","Satriano","1","A"
-"Cos","Joe Gage FC","2023/2024","Falcone","1","P"
-"Cos","Joe Gage FC","2023/2024","Provedel","34","P"
-"Cos","Joe Gage FC","2023/2024","Martinez Jo.","1","P"
-"Cos","Joe Gage FC","2023/2024","Izzo","2","D"
-"Cos","Joe Gage FC","2023/2024","D'ambrosio","5","D"
-"Cos","Joe Gage FC","2023/2024","Buongiorno","5","D"
-"Cos","Joe Gage FC","2023/2024","Pavard","19","D"
-"Cos","Joe Gage FC","2023/2024","Zappa","1","D"
-"Cos","Joe Gage FC","2023/2024","Mazzocchi","7","D"
-"Cos","Joe Gage FC","2023/2024","Perez N.","3","D"
-"Cos","Joe Gage FC","2023/2024","Hien","1","D"
-"Cos","Joe Gage FC","2023/2024","Saponara","1","C"
-"Cos","Joe Gage FC","2023/2024","Renato Sanches","1","C"
-"Cos","Joe Gage FC","2023/2024","Guendouzi","8","C"
-"Cos","Joe Gage FC","2023/2024","Nandez","1","C"
-"Cos","Joe Gage FC","2023/2024","Ikone'","2","C"
-"Cos","Joe Gage FC","2023/2024","Koopmeiners","33","C"
-"Cos","Joe Gage FC","2023/2024","Vlasic","19","C"
-"Cos","Joe Gage FC","2023/2024","Colpani","23","C"
-"Cos","Joe Gage FC","2023/2024","Sanabria","36","A"
-"Cos","Joe Gage FC","2023/2024","Thauvin","1","A"
-"Cos","Joe Gage FC","2023/2024","Sanchez","15","A"
-"Cos","Joe Gage FC","2023/2024","Kouame'","1","A"
-"Cos","Joe Gage FC","2023/2024","Osimhen","263","A"
-"Cos","Joe Gage FC","2023/2024","Luvumbo","6","A"
-"Fu","AC Ciughina","2019/2020","Alfonso",NA,"P"
-"Fu","AC Ciughina","2019/2020",NA,NA,"P"
-"Fu","AC Ciughina","2019/2020",NA,NA,"P"
-"Fu","AC Ciughina","2019/2020","Vavro",NA,"D"
-"Fu","AC Ciughina","2019/2020","Izzo",NA,"D"
-"Fu","AC Ciughina","2019/2020","Pisacane",NA,"D"
-"Fu","AC Ciughina","2019/2020","Cistana",NA,"D"
-"Fu","AC Ciughina","2019/2020","Pellegrini Lu.",NA,"D"
-"Fu","AC Ciughina","2019/2020","Pezzella Ger.",NA,"D"
-"Fu","AC Ciughina","2019/2020","Tonelli",NA,"D"
-"Fu","AC Ciughina","2019/2020",NA,NA,"D"
-"Fu","AC Ciughina","2019/2020","Schone",NA,"C"
-"Fu","AC Ciughina","2019/2020","Saponara",NA,"C"
-"Fu","AC Ciughina","2019/2020","Kessie",NA,"C"
-"Fu","AC Ciughina","2019/2020","Hernani",NA,"C"
-"Fu","AC Ciughina","2019/2020","Bentancur",NA,"C"
-"Fu","AC Ciughina","2019/2020","Costa",NA,"C"
-"Fu","AC Ciughina","2019/2020","Veretout",NA,"C"
-"Fu","AC Ciughina","2019/2020","Borini",NA,"C"
-"Fu","AC Ciughina","2019/2020","Dzeko",NA,"A"
-"Fu","AC Ciughina","2019/2020","Politano",NA,"A"
-"Fu","AC Ciughina","2019/2020","Dybala",NA,"A"
-"Fu","AC Ciughina","2019/2020","Lapadula",NA,"A"
-"Fu","AC Ciughina","2019/2020","Lasagna",NA,"A"
-"Fu","AC Ciughina","2019/2020","Carles Perez",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Mirante",NA,"P"
-"Fu","Hakimi Raikkonen","2020/2021","Consigli",NA,"P"
-"Fu","Hakimi Raikkonen","2020/2021","Pau Lopez",NA,"P"
-"Fu","Hakimi Raikkonen","2020/2021","Hakimi",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Di Lorenzo",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Danilo",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Muldur",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Hysaj",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Darmian",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Bruno Alves",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Biraghi",NA,"D"
-"Fu","Hakimi Raikkonen","2020/2021","Pereiro",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Mkhitaryan",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Politano",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Kulusevski",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Callejon",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","M. Lopez",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Gagliardini",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Vecino",NA,"C"
-"Fu","Hakimi Raikkonen","2020/2021","Dybala",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Caputo",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Ribery",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Muriel",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Ilicic",NA,"A"
-"Fu","Hakimi Raikkonen","2020/2021","Galabinov",NA,"A"
-"Fu","Stame Vecino Utd","2021/2022","Audero","18","P"
-"Fu","Stame Vecino Utd","2021/2022","Consigli","13","P"
-"Fu","Stame Vecino Utd","2021/2022","Skorupski","6","P"
-"Fu","Stame Vecino Utd","2021/2022","Alex Sandro","9","D"
-"Fu","Stame Vecino Utd","2021/2022","Dumfries","21","D"
-"Fu","Stame Vecino Utd","2021/2022","Darmian","9","D"
-"Fu","Stame Vecino Utd","2021/2022","Lykogiannis","3","D"
-"Fu","Stame Vecino Utd","2021/2022","Stryger Larsen","2","D"
-"Fu","Stame Vecino Utd","2021/2022","Pezzella Giu.","1","D"
-"Fu","Stame Vecino Utd","2021/2022","Mario Rui","6","D"
-"Fu","Stame Vecino Utd","2021/2022","Dalbert","1","D"
-"Fu","Stame Vecino Utd","2021/2022","Pellegrini Lo.","49","C"
-"Fu","Stame Vecino Utd","2021/2022","Zielinski","43","C"
-"Fu","Stame Vecino Utd","2021/2022","Orsolini","13","C"
-"Fu","Stame Vecino Utd","2021/2022","Messias","9","C"
-"Fu","Stame Vecino Utd","2021/2022","Skov Olsen","1","C"
-"Fu","Stame Vecino Utd","2021/2022","Sottil","1","C"
-"Fu","Stame Vecino Utd","2021/2022","Sensi","1","C"
-"Fu","Stame Vecino Utd","2021/2022","Vecino","1","C"
-"Fu","Stame Vecino Utd","2021/2022","Abraham","142","A"
-"Fu","Stame Vecino Utd","2021/2022","Lozano","24","A"
-"Fu","Stame Vecino Utd","2021/2022","Correa","84","A"
-"Fu","Stame Vecino Utd","2021/2022","Mayoral","3","A"
-"Fu","Stame Vecino Utd","2021/2022","Shomurodov","39","A"
-"Fu","Stame Vecino Utd","2021/2022","Ounas","1","A"
-"Fu","AF Antastica","2022/2023","Meret","15","P"
-"Fu","AF Antastica","2022/2023","Onana","8","P"
-"Fu","AF Antastica","2022/2023","Sirigu","1","P"
-"Fu","AF Antastica","2022/2023","Calabria","11","D"
-"Fu","AF Antastica","2022/2023","Spinazzola","19","D"
-"Fu","AF Antastica","2022/2023","Alex Sandro","5","D"
-"Fu","AF Antastica","2022/2023","Hateboer","5","D"
-"Fu","AF Antastica","2022/2023","Florenzi","4","D"
-"Fu","AF Antastica","2022/2023","Bianchetti","1","D"
-"Fu","AF Antastica","2022/2023","Gunter","1","D"
-"Fu","AF Antastica","2022/2023","Kjaer","1","D"
-"Fu","AF Antastica","2022/2023","Kvaratskhelia","62","C"
-"Fu","AF Antastica","2022/2023","Ikone'","17","C"
-"Fu","AF Antastica","2022/2023","Diaz B.","11","C"
-"Fu","AF Antastica","2022/2023","Cristante","4","C"
-"Fu","AF Antastica","2022/2023","Sottil","8","C"
-"Fu","AF Antastica","2022/2023","Saelemaekers","1","C"
-"Fu","AF Antastica","2022/2023","Zalewski","1","C"
-"Fu","AF Antastica","2022/2023","Lopez M.","1","C"
-"Fu","AF Antastica","2022/2023","Berardi","32","A"
-"Fu","AF Antastica","2022/2023","Abraham","218","A"
-"Fu","AF Antastica","2022/2023","Belotti","4","A"
-"Fu","AF Antastica","2022/2023","Dzeko","18","A"
-"Fu","AF Antastica","2022/2023","Petagna","12","A"
-"Fu","AF Antastica","2022/2023","Barrow","1","A"
-"Fu","AF Antastica","2023/2024","Milinkovic-Savic V.","17","P"
-"Fu","AF Antastica","2023/2024","Musso","15","P"
-"Fu","AF Antastica","2023/2024","Montipo'","10","P"
-"Fu","AF Antastica","2023/2024","De Vrij","5","D"
-"Fu","AF Antastica","2023/2024","Acerbi","5","D"
-"Fu","AF Antastica","2023/2024","Zappacosta","14","D"
-"Fu","AF Antastica","2023/2024","Milenkovic","5","D"
-"Fu","AF Antastica","2023/2024","Darmian","5","D"
-"Fu","AF Antastica","2023/2024","Erlic","1","D"
-"Fu","AF Antastica","2023/2024","Bakker","11","D"
-"Fu","AF Antastica","2023/2024","Bastoni S.","3","D"
-"Fu","AF Antastica","2023/2024","Pellegrini Lo.","20","C"
-"Fu","AF Antastica","2023/2024","Pasalic","10","C"
-"Fu","AF Antastica","2023/2024","Calhanoglu","23","C"
-"Fu","AF Antastica","2023/2024","Mkhitaryan","10","C"
-"Fu","AF Antastica","2023/2024","Fagioli","2","C"
-"Fu","AF Antastica","2023/2024","Ilic","3","C"
-"Fu","AF Antastica","2023/2024","Radonjic","2","C"
-"Fu","AF Antastica","2023/2024","Harroui","11","C"
-"Fu","AF Antastica","2023/2024","Pinamonti","22","A"
-"Fu","AF Antastica","2023/2024","Simeone","1","A"
-"Fu","AF Antastica","2023/2024","Martinez L.","245","A"
-"Fu","AF Antastica","2023/2024","Colombo","13","A"
-"Fu","AF Antastica","2023/2024","Castellanos","3","A"
-"Fu","AF Antastica","2023/2024","Krstovic","11","A"
-"Gullo","Deportivo la Carogna","2018/2019","Ospina",NA,"P"
-"Gullo","Deportivo la Carogna","2018/2019","Karnezis",NA,"P"
-"Gullo","Deportivo la Carogna","2018/2019","Meret",NA,"P"
-"Gullo","Deportivo la Carogna","2018/2019","Kolarov",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Ceppitelli",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Masiello",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Toloi",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Colley",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Manolas",NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019",NA,NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019",NA,NA,"D"
-"Gullo","Deportivo la Carogna","2018/2019","Candreva",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","De Roon",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Verdi",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Veretout",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Nainggolan",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Barak",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Pastore",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Berisha V.",NA,"C"
-"Gullo","Deportivo la Carogna","2018/2019","Antenucci",NA,"A"
-"Gullo","Deportivo la Carogna","2018/2019","Callejon",NA,"A"
-"Gullo","Deportivo la Carogna","2018/2019","Petagna",NA,"A"
-"Gullo","Deportivo la Carogna","2018/2019","Icardi",NA,"A"
-"Gullo","Deportivo la Carogna","2018/2019","Di Francesco",NA,"A"
-"Gullo","Deportivo la Carogna","2018/2019","Pjaca",NA,"A"
-"Gullo","Deportivo la Carogna","2019/2020","Sportiello",NA,"P"
-"Gullo","Deportivo la Carogna","2019/2020",NA,NA,"P"
-"Gullo","Deportivo la Carogna","2019/2020",NA,NA,"P"
-"Gullo","Deportivo la Carogna","2019/2020","Ceppitelli",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Kolarov","44","D"
-"Gullo","Deportivo la Carogna","2019/2020","Rodriguez R.",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Calabria",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Ghoulam",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Asamoah",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Samir",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Cacciatore",NA,"D"
-"Gullo","Deportivo la Carogna","2019/2020","Soriano",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Bernardeschi",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Perotti",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Jankto",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Linetty",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Ruiz",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Callejon",NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020",NA,NA,"C"
-"Gullo","Deportivo la Carogna","2019/2020","Lukaku","220","A"
-"Gullo","Deportivo la Carogna","2019/2020","Pinamonti",NA,"A"
-"Gullo","Deportivo la Carogna","2019/2020","Babacar",NA,"A"
-"Gullo","Deportivo la Carogna","2019/2020","Castillejo",NA,"A"
-"Gullo","Deportivo la Carogna","2019/2020","Okaka",NA,"A"
-"Gullo","Deportivo la Carogna","2019/2020","Di Francesco",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Audero",NA,"P"
-"Gullo","Sbocca Juniors","2020/2021","Perin",NA,"P"
-"Gullo","Sbocca Juniors","2020/2021",NA,NA,"P"
-"Gullo","Sbocca Juniors","2020/2021","D'ambrosio",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Caldirola",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Romagnoli",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Chiellini",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Gagliolo",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Bonucci",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Faraoni",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Toloi",NA,"D"
-"Gullo","Sbocca Juniors","2020/2021","Zaccagni",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Malinovskyi",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Nainggolan",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Zaniolo",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Pellegrini Lo.",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Locatelli",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Vidal","40","C"
-"Gullo","Sbocca Juniors","2020/2021","Bentancur",NA,"C"
-"Gullo","Sbocca Juniors","2020/2021","Immobile",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Vlahovic",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Simeone",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Insigne",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Mertens",NA,"A"
-"Gullo","Sbocca Juniors","2020/2021","Correa",NA,"A"
-"Gullo","Sbocca Juniors","2021/2022","Rui Patricio","34","P"
-"Gullo","Sbocca Juniors","2021/2022","Fuzato","1","P"
-"Gullo","Sbocca Juniors","2021/2022","Boer","1","P"
-"Gullo","Sbocca Juniors","2021/2022","Cuadrado","45","D"
-"Gullo","Sbocca Juniors","2021/2022","Faraoni","14","D"
-"Gullo","Sbocca Juniors","2021/2022","Bremer","8","D"
-"Gullo","Sbocca Juniors","2021/2022","Chiellini","7","D"
-"Gullo","Sbocca Juniors","2021/2022","Yoshida","3","D"
-"Gullo","Sbocca Juniors","2021/2022","Chiriches","1","D"
-"Gullo","Sbocca Juniors","2021/2022","Odriozola","5","D"
-"Gullo","Sbocca Juniors","2021/2022","Ismajli","1","D"
-"Gullo","Sbocca Juniors","2021/2022","Malinovskyi","40","C"
-"Gullo","Sbocca Juniors","2021/2022","Pasalic","12","C"
-"Gullo","Sbocca Juniors","2021/2022","Barak","23","C"
-"Gullo","Sbocca Juniors","2021/2022","Locatelli","20","C"
-"Gullo","Sbocca Juniors","2021/2022","Damsgaard","24","C"
-"Gullo","Sbocca Juniors","2021/2022","Perisic","30","C"
-"Gullo","Sbocca Juniors","2021/2022","Bajrami","8","C"
-"Gullo","Sbocca Juniors","2021/2022","Pobega","2","C"
-"Gullo","Sbocca Juniors","2021/2022","Ibrahimovic","81","A"
-"Gullo","Sbocca Juniors","2021/2022","Joao Pedro","91","A"
-"Gullo","Sbocca Juniors","2021/2022","Nzola","1","A"
-"Gullo","Sbocca Juniors","2021/2022","Simy","40","A"
-"Gullo","Sbocca Juniors","2021/2022","Gyasi","1","A"
-"Gullo","Sbocca Juniors","2021/2022","Simeone","4","A"
-"Gullo","Sbocca Juniors","2022/2023","Montipo'","10","P"
-"Gullo","Sbocca Juniors","2022/2023","Silvestri","3","P"
-"Gullo","Sbocca Juniors","2022/2023","Provedel","20","P"
-"Gullo","Sbocca Juniors","2022/2023","Bastoni","19","D"
-"Gullo","Sbocca Juniors","2022/2023","Smalling","17","D"
-"Gullo","Sbocca Juniors","2022/2023","Udogie","19","D"
-"Gullo","Sbocca Juniors","2022/2023","Biraghi","16","D"
-"Gullo","Sbocca Juniors","2022/2023","Mancini","7","D"
-"Gullo","Sbocca Juniors","2022/2023","Erlic","10","D"
-"Gullo","Sbocca Juniors","2022/2023","Mario Rui","5","D"
-"Gullo","Sbocca Juniors","2022/2023","Ismajli","1","D"
-"Gullo","Sbocca Juniors","2022/2023","Milinkovic-Savic","71","C"
-"Gullo","Sbocca Juniors","2022/2023","Bonaventura","23","C"
-"Gullo","Sbocca Juniors","2022/2023","Brozovic","15","C"
-"Gullo","Sbocca Juniors","2022/2023","Ilic","5","C"
-"Gullo","Sbocca Juniors","2022/2023","Sensi","3","C"
-"Gullo","Sbocca Juniors","2022/2023","Maggiore","6","C"
-"Gullo","Sbocca Juniors","2022/2023","Makengo","1","C"
-"Gullo","Sbocca Juniors","2022/2023","Matic","2","C"
-"Gullo","Sbocca Juniors","2022/2023","Zapata D.","117","A"
-"Gullo","Sbocca Juniors","2022/2023","Caprari","13","A"
-"Gullo","Sbocca Juniors","2022/2023","Jovic","67","A"
-"Gullo","Sbocca Juniors","2022/2023","Sanabria","42","A"
-"Gullo","Sbocca Juniors","2022/2023","Milik","3","A"
-"Gullo","Sbocca Juniors","2022/2023","Success","1","A"
-"Gullo","Sbocca Juniors","2023/2024","Audero","1","P"
-"Gullo","Sbocca Juniors","2023/2024","Di Gennaro","1","P"
-"Gullo","Sbocca Juniors","2023/2024","Sommer","41","P"
-"Gullo","Sbocca Juniors","2023/2024","Toloi","1","D"
-"Gullo","Sbocca Juniors","2023/2024","Rodriguez R.","1","D"
-"Gullo","Sbocca Juniors","2023/2024","Danilo","26","D"
-"Gullo","Sbocca Juniors","2023/2024","Rrahmani","20","D"
-"Gullo","Sbocca Juniors","2023/2024","Mari'","1","D"
-"Gullo","Sbocca Juniors","2023/2024","Bradaric","1","D"
-"Gullo","Sbocca Juniors","2023/2024","Baschirotto","7","D"
-"Gullo","Sbocca Juniors","2023/2024","Natan","4","D"
-"Gullo","Sbocca Juniors","2023/2024","De Roon","2","C"
-"Gullo","Sbocca Juniors","2023/2024","Lazovic","5","C"
-"Gullo","Sbocca Juniors","2023/2024","Pulisic","52","C"
-"Gullo","Sbocca Juniors","2023/2024","Zambo Anguissa","9","C"
-"Gullo","Sbocca Juniors","2023/2024","Arthur","1","C"
-"Gullo","Sbocca Juniors","2023/2024","Bajrami","12","C"
-"Gullo","Sbocca Juniors","2023/2024","Ederson D.s.","3","C"
-"Gullo","Sbocca Juniors","2023/2024","Kamada","25","C"
-"Gullo","Sbocca Juniors","2023/2024","Belotti","3","A"
-"Gullo","Sbocca Juniors","2023/2024","Kean","1","A"
-"Gullo","Sbocca Juniors","2023/2024","Lukaku","199","A"
-"Gullo","Sbocca Juniors","2023/2024","Barrow","1","A"
-"Gullo","Sbocca Juniors","2023/2024","Gonzalez N.","80","A"
-"Gullo","Sbocca Juniors","2023/2024","Mota","1","A"
-"Jack","Fanta Figa","2018/2019","Berisha",NA,"P"
-"Jack","Fanta Figa","2018/2019","Sorrentino",NA,"P"
-"Jack","Fanta Figa","2018/2019",NA,NA,"P"
-"Jack","Fanta Figa","2018/2019","Vrsaljko",NA,"D"
-"Jack","Fanta Figa","2018/2019","Mario Rui",NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019",NA,NA,"D"
-"Jack","Fanta Figa","2018/2019","Luis Alberto",NA,"C"
-"Jack","Fanta Figa","2018/2019","Perisic",NA,"C"
-"Jack","Fanta Figa","2018/2019","Kurtic",NA,"C"
-"Jack","Fanta Figa","2018/2019",NA,NA,"C"
-"Jack","Fanta Figa","2018/2019",NA,NA,"C"
-"Jack","Fanta Figa","2018/2019",NA,NA,"C"
-"Jack","Fanta Figa","2018/2019",NA,NA,"C"
-"Jack","Fanta Figa","2018/2019",NA,NA,"C"
-"Jack","Fanta Figa","2018/2019","Quagliarella",NA,"A"
-"Jack","Fanta Figa","2018/2019","Caputo",NA,"A"
-"Jack","Fanta Figa","2018/2019","Insigne",NA,"A"
-"Jack","Fanta Figa","2018/2019","Stepinski",NA,"A"
-"Jack","Fanta Figa","2018/2019","Mertens",NA,"A"
-"Jack","Fanta Figa","2018/2019","Iago Falque",NA,"A"
-"Jack","Fanta Figa","2019/2020","Ospina",NA,"P"
-"Jack","Fanta Figa","2019/2020",NA,NA,"P"
-"Jack","Fanta Figa","2019/2020",NA,NA,"P"
-"Jack","Fanta Figa","2019/2020","Chancellor",NA,"D"
-"Jack","Fanta Figa","2019/2020","Gagliolo",NA,"D"
-"Jack","Fanta Figa","2019/2020","Bocchetti",NA,"D"
-"Jack","Fanta Figa","2019/2020","Gosens",NA,"D"
-"Jack","Fanta Figa","2019/2020","Godin",NA,"D"
-"Jack","Fanta Figa","2019/2020","Ghiglione",NA,"D"
-"Jack","Fanta Figa","2019/2020","D'ambrosio",NA,"D"
-"Jack","Fanta Figa","2019/2020","Bonifazi",NA,"D"
-"Jack","Fanta Figa","2019/2020","Duncan",NA,"C"
-"Jack","Fanta Figa","2019/2020","Sensi",NA,"C"
-"Jack","Fanta Figa","2019/2020","Kulusevski",NA,"C"
-"Jack","Fanta Figa","2019/2020","Kurtic",NA,"C"
-"Jack","Fanta Figa","2019/2020","Ramsey",NA,"C"
-"Jack","Fanta Figa","2019/2020","Castrovilli",NA,"C"
-"Jack","Fanta Figa","2019/2020","Traore Hj",NA,"C"
-"Jack","Fanta Figa","2019/2020","Lucas Leiva",NA,"C"
-"Jack","Fanta Figa","2019/2020","Kouame'",NA,"A"
-"Jack","Fanta Figa","2019/2020","Zaza",NA,"A"
-"Jack","Fanta Figa","2019/2020","Gervinho",NA,"A"
-"Jack","Fanta Figa","2019/2020","Zapata D.",NA,"A"
-"Jack","Fanta Figa","2019/2020","Joao Pedro",NA,"A"
-"Jack","Fanta Figa","2019/2020",NA,NA,"A"
-"Jack","Fanta Figa","2020/2021","Donnarumma G.",NA,"P"
-"Jack","Fanta Figa","2020/2021","Tatarusanu",NA,"P"
-"Jack","Fanta Figa","2020/2021","Cordaz",NA,"P"
-"Jack","Fanta Figa","2020/2021","Gosens",NA,"D"
-"Jack","Fanta Figa","2020/2021","Young",NA,"D"
-"Jack","Fanta Figa","2020/2021","Smalling",NA,"D"
-"Jack","Fanta Figa","2020/2021","Gunter",NA,"D"
-"Jack","Fanta Figa","2020/2021","Ayhan",NA,"D"
-"Jack","Fanta Figa","2020/2021","Letizia",NA,"D"
-"Jack","Fanta Figa","2020/2021","Ferrari G.",NA,"D"
-"Jack","Fanta Figa","2020/2021","Karsdorp",NA,"D"
-"Jack","Fanta Figa","2020/2021","Candreva",NA,"C"
-"Jack","Fanta Figa","2020/2021","Kessie",NA,"C"
-"Jack","Fanta Figa","2020/2021","Zielinski",NA,"C"
-"Jack","Fanta Figa","2020/2021","Pasalic",NA,"C"
-"Jack","Fanta Figa","2020/2021","Kurtic",NA,"C"
-"Jack","Fanta Figa","2020/2021","Cyprien",NA,"C"
-"Jack","Fanta Figa","2020/2021","Soriano",NA,"C"
-"Jack","Fanta Figa","2020/2021",NA,NA,"C"
-"Jack","Fanta Figa","2020/2021","Zapata D.",NA,"A"
-"Jack","Fanta Figa","2020/2021","Joao Pedro",NA,"A"
-"Jack","Fanta Figa","2020/2021","Caicedo",NA,"A"
-"Jack","Fanta Figa","2020/2021","Kouame'",NA,"A"
-"Jack","Fanta Figa","2020/2021","Lapadula",NA,"A"
-"Jack","Fanta Figa","2020/2021","Rafael Leao",NA,"A"
-"Jack","SS FelLazio","2021/2022","Maignan","32","P"
-"Jack","SS FelLazio","2021/2022","Plizzari","1","P"
-"Jack","SS FelLazio","2021/2022","Tatarusanu","1","P"
-"Jack","SS FelLazio","2021/2022","Skriniar","29","D"
-"Jack","SS FelLazio","2021/2022","Karsdorp","15","D"
-"Jack","SS FelLazio","2021/2022","Di Lorenzo","13","D"
-"Jack","SS FelLazio","2021/2022","Colley","8","D"
-"Jack","SS FelLazio","2021/2022","Florenzi","10","D"
-"Jack","SS FelLazio","2021/2022","Amian","1","D"
-"Jack","SS FelLazio","2021/2022","Ceppitelli","1","D"
-"Jack","SS FelLazio","2021/2022","Ghiglione","1","D"
-"Jack","SS FelLazio","2021/2022","Milinkovic-Savic","53","C"
-"Jack","SS FelLazio","2021/2022","Barella","39","C"
-"Jack","SS FelLazio","2021/2022","Traore Hj","12","C"
-"Jack","SS FelLazio","2021/2022","Strootman","1","C"
-"Jack","SS FelLazio","2021/2022","Demme","1","C"
-"Jack","SS FelLazio","2021/2022","Ekdal","1","C"
-"Jack","SS FelLazio","2021/2022","Tonali","7","C"
-"Jack","SS FelLazio","2021/2022","Coutibaly M.","1","C"
-"Jack","SS FelLazio","2021/2022","Martinez L.","168","A"
-"Jack","SS FelLazio","2021/2022","Politano","8","A"
-"Jack","SS FelLazio","2021/2022","Boga","6","A"
-"Jack","SS FelLazio","2021/2022","Gonzalez N.","57","A"
-"Jack","SS FelLazio","2021/2022","Deulofeu","12","A"
-"Jack","SS FelLazio","2021/2022","Carles Perez","1","A"
-"Jack","SS FelLazio","2022/2023","Szczesny","41","P"
-"Jack","SS FelLazio","2022/2023","Falcone","1","P"
-"Jack","SS FelLazio","2022/2023","Perin","1","P"
-"Jack","SS FelLazio","2022/2023","Bremer","26","D"
-"Jack","SS FelLazio","2022/2023","Rrahmani","17","D"
-"Jack","SS FelLazio","2022/2023","Bastoni S.","14","D"
-"Jack","SS FelLazio","2022/2023","Parisi","6","D"
-"Jack","SS FelLazio","2022/2023","D'ambrosio","1","D"
-"Jack","SS FelLazio","2022/2023","Kyriakopoulos","6","D"
-"Jack","SS FelLazio","2022/2023","Medel","1","D"
-"Jack","SS FelLazio","2022/2023","Sernicola","1","D"
-"Jack","SS FelLazio","2022/2023","Calhanoglu","52","C"
-"Jack","SS FelLazio","2022/2023","Luis Alberto","32","C"
-"Jack","SS FelLazio","2022/2023","Bajrami","16","C"
-"Jack","SS FelLazio","2022/2023","Tameze","5","C"
-"Jack","SS FelLazio","2022/2023","Pessina","7","C"
-"Jack","SS FelLazio","2022/2023","Gagliardini","1","C"
-"Jack","SS FelLazio","2022/2023","Schouten","1","C"
-"Jack","SS FelLazio","2022/2023","Kovalenko","1","C"
-"Jack","SS FelLazio","2022/2023","Dybala","131","A"
-"Jack","SS FelLazio","2022/2023","Pinamonti","51","A"
-"Jack","SS FelLazio","2022/2023","Correa","13","A"
-"Jack","SS FelLazio","2022/2023","Lookman","48","A"
-"Jack","SS FelLazio","2022/2023","Okereke","10","A"
-"Jack","SS FelLazio","2022/2023","Kouame'","1","A"
-"Pape","Patatinaikos","2018/2019","Sirigu",NA,"P"
-"Pape","Patatinaikos","2018/2019",NA,NA,"P"
-"Pape","Patatinaikos","2018/2019",NA,NA,"P"
-"Pape","Patatinaikos","2018/2019","Milenkovic",NA,"D"
-"Pape","Patatinaikos","2018/2019","Mattiello",NA,"D"
-"Pape","Patatinaikos","2018/2019","Hateboer",NA,"D"
-"Pape","Patatinaikos","2018/2019","Romagnoli",NA,"D"
-"Pape","Patatinaikos","2018/2019","De Silvestri",NA,"D"
-"Pape","Patatinaikos","2018/2019","Helander",NA,"D"
-"Pape","Patatinaikos","2018/2019","Stryger Larsen",NA,"D"
-"Pape","Patatinaikos","2018/2019","Criscito",NA,"D"
-"Pape","Patatinaikos","2018/2019","Barella",NA,"C"
-"Pape","Patatinaikos","2018/2019","Bonaventura",NA,"C"
-"Pape","Patatinaikos","2018/2019","Freuler",NA,"C"
-"Pape","Patatinaikos","2018/2019","Bernardeschi",NA,"C"
-"Pape","Patatinaikos","2018/2019","Pellegrini Lo.",NA,"C"
-"Pape","Patatinaikos","2018/2019",NA,NA,"C"
-"Pape","Patatinaikos","2018/2019",NA,NA,"C"
-"Pape","Patatinaikos","2018/2019",NA,NA,"C"
-"Pape","Patatinaikos","2018/2019","Pavoletti",NA,"A"
-"Pape","Patatinaikos","2018/2019","Immobile",NA,"A"
-"Pape","Patatinaikos","2018/2019","Under",NA,"A"
-"Pape","Patatinaikos","2018/2019","Inglese",NA,"A"
-"Pape","Patatinaikos","2018/2019","Falcinelli",NA,"A"
-"Pape","Patatinaikos","2018/2019","Zaza","Sansone","A"
-"Pape","Patatinaikos","2019/2020","Joronen",NA,"P"
-"Pape","Patatinaikos","2019/2020","Audero",NA,"P"
-"Pape","Patatinaikos","2019/2020","Pau Lopez",NA,"P"
-"Pape","Patatinaikos","2019/2020","Hernandez T.",NA,"D"
-"Pape","Patatinaikos","2019/2020","Alex Sandro",NA,"D"
-"Pape","Patatinaikos","2019/2020","Toloi",NA,"D"
-"Pape","Patatinaikos","2019/2020","Manolas",NA,"D"
-"Pape","Patatinaikos","2019/2020","De Silvestri",NA,"D"
-"Pape","Patatinaikos","2019/2020",NA,NA,"D"
-"Pape","Patatinaikos","2019/2020",NA,NA,"D"
-"Pape","Patatinaikos","2019/2020",NA,NA,"D"
-"Pape","Patatinaikos","2019/2020","De Paul",NA,"C"
-"Pape","Patatinaikos","2019/2020","Milinkovic-Savic",NA,"C"
-"Pape","Patatinaikos","2019/2020","Rog",NA,"C"
-"Pape","Patatinaikos","2019/2020","Ansaldi",NA,"C"
-"Pape","Patatinaikos","2019/2020",NA,NA,"C"
-"Pape","Patatinaikos","2019/2020",NA,NA,"C"
-"Pape","Patatinaikos","2019/2020",NA,NA,"C"
-"Pape","Patatinaikos","2019/2020",NA,NA,"C"
-"Pape","Patatinaikos","2019/2020","Quagliarella",NA,"A"
-"Pape","Patatinaikos","2019/2020","Insigne",NA,"A"
-"Pape","Patatinaikos","2019/2020","Berardi",NA,"A"
-"Pape","Patatinaikos","2019/2020","Petagna",NA,"A"
-"Pape","Patatinaikos","2019/2020","Boateng",NA,"A"
-"Pape","Patatinaikos","2019/2020",NA,NA,"A"
-"Pape","Patatinaikos","2021/2022","Reina","29","P"
-"Pape","Patatinaikos","2021/2022","Silvestri","12","P"
-"Pape","Patatinaikos","2021/2022","Strakosha","1","P"
-"Pape","Patatinaikos","2021/2022","Zappacosta","17","D"
-"Pape","Patatinaikos","2021/2022","Koulibaly","22","D"
-"Pape","Patatinaikos","2021/2022","Calabria","14","D"
-"Pape","Patatinaikos","2021/2022","Spinazzola","7","D"
-"Pape","Patatinaikos","2021/2022","Ansaldi","3","D"
-"Pape","Patatinaikos","2021/2022","De Silvestri","6","D"
-"Pape","Patatinaikos","2021/2022","Vina","12","D"
-"Pape","Patatinaikos","2021/2022","Ibanez","4","D"
-"Pape","Patatinaikos","2021/2022","Chiesa","52","C"
-"Pape","Patatinaikos","2021/2022","Candreva","10","C"
-"Pape","Patatinaikos","2021/2022","Miranchuk","6","C"
-"Pape","Patatinaikos","2021/2022","Ilic","4","C"
-"Pape","Patatinaikos","2021/2022","Pereiro","2","C"
-"Pape","Patatinaikos","2021/2022","Verre","2","C"
-"Pape","Patatinaikos","2021/2022","Cristante","3","C"
-"Pape","Patatinaikos","2021/2022","Lopez M.","1","C"
-"Pape","Patatinaikos","2021/2022","Belotti","77","A"
-"Pape","Patatinaikos","2021/2022","Dybala","134","A"
-"Pape","Patatinaikos","2021/2022","Mertens","24","A"
-"Pape","Patatinaikos","2021/2022","Raspadori","46","A"
-"Pape","Patatinaikos","2021/2022","El Shaarawy","1","A"
-"Pape","Patatinaikos","2021/2022","Bonazzoli","1","A"
-"Pape","Scrotone","2023/2024","Skorupski","9","P"
-"Pape","Scrotone","2023/2024","Rui Patricio","30","P"
-"Pape","Scrotone","2023/2024","Svilar","1","P"
-"Pape","Scrotone","2023/2024","Dimarco","35","D"
-"Pape","Scrotone","2023/2024","Faraoni","7","D"
-"Pape","Scrotone","2023/2024","Martin","2","D"
-"Pape","Scrotone","2023/2024","Smalling","11","D"
-"Pape","Scrotone","2023/2024","Bellanova","5","D"
-"Pape","Scrotone","2023/2024","Casale","5","D"
-"Pape","Scrotone","2023/2024","Olivera","3","D"
-"Pape","Scrotone","2023/2024","Azzi","1","D"
-"Pape","Scrotone","2023/2024","El Shaarawy","8","C"
-"Pape","Scrotone","2023/2024","Luis Alberto","35","C"
-"Pape","Scrotone","2023/2024","Elmas","7","C"
-"Pape","Scrotone","2023/2024","Messias","1","C"
-"Pape","Scrotone","2023/2024","Baldanzi","11","C"
-"Pape","Scrotone","2023/2024","Lovric","10","C"
-"Pape","Scrotone","2023/2024","Ciurria","11","C"
-"Pape","Scrotone","2023/2024","Fabbian","1","C"
-"Pape","Scrotone","2023/2024","Dybala","100","A"
-"Pape","Scrotone","2023/2024","Scamacca","86","A"
-"Pape","Scrotone","2023/2024","Raspadori","6","A"
-"Pape","Scrotone","2023/2024","Dia","90","A"
-"Pape","Scrotone","2023/2024","Lauriente'","20","A"
-"Pape","Scrotone","2023/2024","Karlsson","1","A"
-"Pasol","MVPippe","2018/2019","Strakosha",NA,"P"
-"Pasol","MVPippe","2018/2019",NA,NA,"P"
-"Pasol","MVPippe","2018/2019",NA,NA,"P"
-"Pasol","MVPippe","2018/2019","Palomino",NA,"D"
-"Pasol","MVPippe","2018/2019","Cancelo",NA,"D"
-"Pasol","MVPippe","2018/2019","Rugani",NA,"D"
-"Pasol","MVPippe","2018/2019",NA,NA,"D"
-"Pasol","MVPippe","2018/2019",NA,NA,"D"
-"Pasol","MVPippe","2018/2019",NA,NA,"D"
-"Pasol","MVPippe","2018/2019",NA,NA,"D"
-"Pasol","MVPippe","2018/2019",NA,NA,"D"
-"Pasol","MVPippe","2018/2019","Nzonzi",NA,"C"
-"Pasol","MVPippe","2018/2019","Calhanoglu",NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019",NA,NA,"C"
-"Pasol","MVPippe","2018/2019","Piatek",NA,"A"
-"Pasol","MVPippe","2018/2019","Papu Gomez",NA,"A"
-"Pasol","MVPippe","2018/2019","Dybala",NA,"A"
-"Pasol","MVPippe","2018/2019","La Gumina",NA,"A"
-"Pasol","MVPippe","2018/2019","Kluivert",NA,"A"
-"Pasol","MVPippe","2018/2019",NA,NA,"A"
-"Pasol","MVPippe","2019/2020","Reina",NA,"P"
-"Pasol","MVPippe","2019/2020","Donnarumma G.",NA,"P"
-"Pasol","MVPippe","2019/2020","Radu I.",NA,"P"
-"Pasol","MVPippe","2019/2020","Criscito",NA,"D"
-"Pasol","MVPippe","2019/2020","Tomiyasu",NA,"D"
-"Pasol","MVPippe","2019/2020","Caldara",NA,"D"
-"Pasol","MVPippe","2019/2020","Danilo L.",NA,"D"
-"Pasol","MVPippe","2019/2020","Castagne",NA,"D"
-"Pasol","MVPippe","2019/2020","Danilo",NA,"D"
-"Pasol","MVPippe","2019/2020","Palomino",NA,"D"
-"Pasol","MVPippe","2019/2020",NA,NA,"D"
-"Pasol","MVPippe","2019/2020","Pulgar",NA,"C"
-"Pasol","MVPippe","2019/2020","Pellegrini Lo.",NA,"C"
-"Pasol","MVPippe","2019/2020","Bennacer",NA,"C"
-"Pasol","MVPippe","2019/2020","Pjanic",NA,"C"
-"Pasol","MVPippe","2019/2020","Zielinski",NA,"C"
-"Pasol","MVPippe","2019/2020","Tonali",NA,"C"
-"Pasol","MVPippe","2019/2020","Cuadrado",NA,"C"
-"Pasol","MVPippe","2019/2020",NA,NA,"C"
-"Pasol","MVPippe","2019/2020","Inglese",NA,"A"
-"Pasol","MVPippe","2019/2020","Donnarumma A.",NA,"A"
-"Pasol","MVPippe","2019/2020","Pavoletti",NA,"A"
-"Pasol","MVPippe","2019/2020","Under",NA,"A"
-"Pasol","MVPippe","2019/2020","Mertens",NA,"A"
-"Pasol","MVPippe","2019/2020","Belotti",NA,"A"
-"Pasol","MVPippe","2020/2021","Szczesny","28","P"
-"Pasol","MVPippe","2020/2021","Sirigu","5","P"
-"Pasol","MVPippe","2020/2021","Buffon","3","P"
-"Pasol","MVPippe","2020/2021","Koulibaly","26","D"
-"Pasol","MVPippe","2020/2021","Hateboer","25","D"
-"Pasol","MVPippe","2020/2021","Alex Sandro","11","D"
-"Pasol","MVPippe","2020/2021","Mancini","6","D"
-"Pasol","MVPippe","2020/2021","Djimsiti","2","D"
-"Pasol","MVPippe","2020/2021","Kjaer","6","D"
-"Pasol","MVPippe","2020/2021","Dalot","1","D"
-"Pasol","MVPippe","2020/2021","Demiral","1","D"
-"Pasol","MVPippe","2020/2021","Chiesa","23","C"
-"Pasol","MVPippe","2020/2021","Veretout","24","C"
-"Pasol","MVPippe","2020/2021","Djuricic","17","C"
-"Pasol","MVPippe","2020/2021","Lazzari","8","C"
-"Pasol","MVPippe","2020/2021","Brozovic","1","C"
-"Pasol","MVPippe","2020/2021","Bakayoko","5","C"
-"Pasol","MVPippe","2020/2021","Ricci S.","4","C"
-"Pasol","MVPippe","2020/2021","Saelemaekers","1","C"
-"Pasol","MVPippe","2020/2021","Belotti","108","A"
-"Pasol","MVPippe","2020/2021","Berardi","49","A"
-"Pasol","MVPippe","2020/2021","Rebic","30","A"
-"Pasol","MVPippe","2020/2021","Boga","37","A"
-"Pasol","MVPippe","2020/2021","Lozano","3","A"
-"Pasol","MVPippe","2020/2021","Lammers","1","A"
-"Pasol","HERTA VERNELLO","2021/2022","Cragno","10","P"
-"Pasol","HERTA VERNELLO","2021/2022","Milinkovic-Savic V.","4","P"
-"Pasol","HERTA VERNELLO","2021/2022","Sirigu","5","P"
-"Pasol","HERTA VERNELLO","2021/2022","Molina N.","25","D"
-"Pasol","HERTA VERNELLO","2021/2022","Acerbi","14","D"
-"Pasol","HERTA VERNELLO","2021/2022","De Ligt","10","D"
-"Pasol","HERTA VERNELLO","2021/2022","Biraghi","9","D"
-"Pasol","HERTA VERNELLO","2021/2022","Criscito","4","D"
-"Pasol","HERTA VERNELLO","2021/2022","Zappa","1","D"
-"Pasol","HERTA VERNELLO","2021/2022","Marusic","1","D"
-"Pasol","HERTA VERNELLO","2021/2022","Demiral","2","D"
-"Pasol","HERTA VERNELLO","2021/2022","Luis Alberto","50","C"
-"Pasol","HERTA VERNELLO","2021/2022","Kulusevski","22","C"
-"Pasol","HERTA VERNELLO","2021/2022","Pereyra","26","C"
-"Pasol","HERTA VERNELLO","2021/2022","Pessina","16","C"
-"Pasol","HERTA VERNELLO","2021/2022","De Roon","3","C"
-"Pasol","HERTA VERNELLO","2021/2022","Elmas","5","C"
-"Pasol","HERTA VERNELLO","2021/2022","Krunic","1","C"
-"Pasol","HERTA VERNELLO","2021/2022","Ihattaren","1","C"
-"Pasol","HERTA VERNELLO","2021/2022","Immobile","201","A"
-"Pasol","HERTA VERNELLO","2021/2022","Rebic","8","A"
-"Pasol","HERTA VERNELLO","2021/2022","Ilicic","24","A"
-"Pasol","HERTA VERNELLO","2021/2022","Rafael Leao","46","A"
-"Pasol","HERTA VERNELLO","2021/2022","Petagna","1","A"
-"Pasol","HERTA VERNELLO","2021/2022","Muriqi","1","A"
-"Pasol","HERTA VERNELLO","2022/2023","Gollini","26","P"
-"Pasol","HERTA VERNELLO","2022/2023","Skorupski","4","P"
-"Pasol","HERTA VERNELLO","2022/2023","Cragno","2","P"
-"Pasol","HERTA VERNELLO","2022/2023","Gosens","11","D"
-"Pasol","HERTA VERNELLO","2022/2023","Dodo'","16","D"
-"Pasol","HERTA VERNELLO","2022/2023","Romagnoli","9","D"
-"Pasol","HERTA VERNELLO","2022/2023","Igor","8","D"
-"Pasol","HERTA VERNELLO","2022/2023","Maehle","10","D"
-"Pasol","HERTA VERNELLO","2022/2023","Toloi","5","D"
-"Pasol","HERTA VERNELLO","2022/2023","Nuytinck","1","D"
-"Pasol","HERTA VERNELLO","2022/2023","Olivera","3","D"
-"Pasol","HERTA VERNELLO","2022/2023","Pellegrini Lo.","59","C"
-"Pasol","HERTA VERNELLO","2022/2023","Traore Hj.","6","C"
-"Pasol","HERTA VERNELLO","2022/2023","Politano","16","C"
-"Pasol","HERTA VERNELLO","2022/2023","Ederson D.s.","26","C"
-"Pasol","HERTA VERNELLO","2022/2023","Zambo Anguissa","6","C"
-"Pasol","HERTA VERNELLO","2022/2023","Elmas","3","C"
-"Pasol","HERTA VERNELLO","2022/2023","Marcos Antonio","1","C"
-"Pasol","HERTA VERNELLO","2022/2023","Krunic","1","C"
-"Pasol","HERTA VERNELLO","2022/2023","Immobile","209","A"
-"Pasol","HERTA VERNELLO","2022/2023","Muriel","51","A"
-"Pasol","HERTA VERNELLO","2022/2023","Caputo","6","A"
-"Pasol","HERTA VERNELLO","2022/2023","Alvarez A.","1","A"
-"Pasol","HERTA VERNELLO","2022/2023","Ceesay","17","A"
-"Pasol","HERTA VERNELLO","2022/2023","Cancellieri","1","A"
-"Pasol","HERTA VERNELLO","2023/2024","Radunovic","2","P"
-"Pasol","HERTA VERNELLO","2023/2024","Meret","37","P"
-"Pasol","HERTA VERNELLO","2023/2024","Gollini","1","P"
-"Pasol","HERTA VERNELLO","2023/2024","Calabria","4","D"
-"Pasol","HERTA VERNELLO","2023/2024","Bremer","17","D"
-"Pasol","HERTA VERNELLO","2023/2024","Tomori","13","D"
-"Pasol","HERTA VERNELLO","2023/2024","Kalulu","1","D"
-"Pasol","HERTA VERNELLO","2023/2024","Llorente D.","1","D"
-"Pasol","HERTA VERNELLO","2023/2024","Ebosele","1","D"
-"Pasol","HERTA VERNELLO","2023/2024","Dodo'","12","D"
-"Pasol","HERTA VERNELLO","2023/2024","Posch","17","D"
-"Pasol","HERTA VERNELLO","2023/2024","Krunic","1","C"
-"Pasol","HERTA VERNELLO","2023/2024","Felipe Anderson","49","C"
-"Pasol","HERTA VERNELLO","2023/2024","Locatelli","1","C"
-"Pasol","HERTA VERNELLO","2023/2024","Rovella","1","C"
-"Pasol","HERTA VERNELLO","2023/2024","Chukwueze","25","C"
-"Pasol","HERTA VERNELLO","2023/2024","Musah","1","C"
-"Pasol","HERTA VERNELLO","2023/2024","Ricci S.","7","C"
-"Pasol","HERTA VERNELLO","2023/2024","Ferguson","21","C"
-"Pasol","HERTA VERNELLO","2023/2024","Lapadula","1","A"
-"Pasol","HERTA VERNELLO","2023/2024","Karamoh","1","A"
-"Pasol","HERTA VERNELLO","2023/2024","Rafael Leao","191","A"
-"Pasol","HERTA VERNELLO","2023/2024","Thuram","60","A"
-"Pasol","HERTA VERNELLO","2023/2024","Isaksen","1","A"
-"Pasol","HERTA VERNELLO","2023/2024","Beltran L.","32","A"
-"Ricky","Tigrotto","2022/2023","Rui Patricio","36","P"
-"Ricky","Tigrotto","2022/2023","Sepe","2","P"
-"Ricky","Tigrotto","2022/2023","Svilar","1","P"
-"Ricky","Tigrotto","2022/2023","Dumfries","30","D"
-"Ricky","Tigrotto","2022/2023","Di Lorenzo","16","D"
-"Ricky","Tigrotto","2022/2023","Kim","16","D"
-"Ricky","Tigrotto","2022/2023","Darmian","4","D"
-"Ricky","Tigrotto","2022/2023","Carlos Augusto","1","D"
-"Ricky","Tigrotto","2022/2023","Lucumi'","2","D"
-"Ricky","Tigrotto","2022/2023","Birindelli","8","D"
-"Ricky","Tigrotto","2022/2023","Ebosele","1","D"
-"Ricky","Tigrotto","2022/2023","Pasalic","20","C"
-"Ricky","Tigrotto","2022/2023","Candreva","7","C"
-"Ricky","Tigrotto","2022/2023","Koopmeiners","27","C"
-"Ricky","Tigrotto","2022/2023","Strefezza","20","C"
-"Ricky","Tigrotto","2022/2023","Lobotka","8","C"
-"Ricky","Tigrotto","2022/2023","Lukic","19","C"
-"Ricky","Tigrotto","2022/2023","Vilhena","1","C"
-"Ricky","Tigrotto","2022/2023","Marin","1","C"
-"Ricky","Tigrotto","2022/2023","Osimhen","200","A"
-"Ricky","Tigrotto","2022/2023","Deulofeu","32","A"
-"Ricky","Tigrotto","2022/2023","Dia","1","A"
-"Ricky","Tigrotto","2022/2023","Nzola","20","A"
-"Ricky","Tigrotto","2022/2023","Verde","4","A"
-"Ricky","Tigrotto","2022/2023","Zanimacchia","1","A"
-"Ricky","Tigrotto","2023/2024","Silvestri","4","P"
-"Ricky","Tigrotto","2023/2024","Caprile","1","P"
-"Ricky","Tigrotto","2023/2024","Turati","1","P"
-"Ricky","Tigrotto","2023/2024","Di Lorenzo","40","D"
-"Ricky","Tigrotto","2023/2024","Celik","1","D"
-"Ricky","Tigrotto","2023/2024","Dragusin","2","D"
-"Ricky","Tigrotto","2023/2024","Ebuehi","5","D"
-"Ricky","Tigrotto","2023/2024","Dumfries","30","D"
-"Ricky","Tigrotto","2023/2024","Cambiaso","24","D"
-"Ricky","Tigrotto","2023/2024","Bisseck","1","D"
-"Ricky","Tigrotto","2023/2024","Kristensen","7","D"
-"Ricky","Tigrotto","2023/2024","Candreva","32","C"
-"Ricky","Tigrotto","2023/2024","Klaassen","1","C"
-"Ricky","Tigrotto","2023/2024","Strefezza","27","C"
-"Ricky","Tigrotto","2023/2024","Kostic","11","C"
-"Ricky","Tigrotto","2023/2024","Gudmundsson A.","17","C"
-"Ricky","Tigrotto","2023/2024","Lindstrom","25","C"
-"Ricky","Tigrotto","2023/2024","Rafia","1","C"
-"Ricky","Tigrotto","2023/2024","Folorunsho","1","C"
-"Ricky","Tigrotto","2023/2024","Berardi","160","A"
-"Ricky","Tigrotto","2023/2024","Ngonge","14","A"
-"Ricky","Tigrotto","2023/2024","Almqvist","15","A"
-"Ricky","Tigrotto","2023/2024","Brenner","1","A"
-"Ricky","Tigrotto","2023/2024","Retegui","60","A"
-"Ricky","Tigrotto","2023/2024","Toure' E.","1","A"
-"Sacc","Bayer Leverdure","2018/2019","Szczesny","25","P"
-"Sacc","Bayer Leverdure","2018/2019","Perin","5","P"
-"Sacc","Bayer Leverdure","2018/2019","MIlinkovic-Savic V.","3","P"
-"Sacc","Bayer Leverdure","2018/2019","Skriniar","30","D"
-"Sacc","Bayer Leverdure","2018/2019","Bonucci","19","D"
-"Sacc","Bayer Leverdure","2018/2019","Fazio","17","D"
-"Sacc","Bayer Leverdure","2018/2019","Benatia","16","D"
-"Sacc","Bayer Leverdure","2018/2019","Djourou","3","D"
-"Sacc","Bayer Leverdure","2018/2019","Rodriguez R.","6","D"
-"Sacc","Bayer Leverdure","2018/2019","Klavan","2","D"
-"Sacc","Bayer Leverdure","2018/2019","Calabria","1","D"
-"Sacc","Bayer Leverdure","2018/2019","Costa","35","C"
-"Sacc","Bayer Leverdure","2018/2019","Suso","36","C"
-"Sacc","Bayer Leverdure","2018/2019","Can","19","C"
-"Sacc","Bayer Leverdure","2018/2019","Zielinski","21","C"
-"Sacc","Bayer Leverdure","2018/2019","Parolo","16","C"
-"Sacc","Bayer Leverdure","2018/2019","Ciciretti","7","C"
-"Sacc","Bayer Leverdure","2018/2019","Bakayoko","9","C"
-"Sacc","Bayer Leverdure","2018/2019","Zajc","7","C"
-"Sacc","Bayer Leverdure","2018/2019","Ronaldo","96","A"
-"Sacc","Bayer Leverdure","2018/2019","Lasagna","32","A"
-"Sacc","Bayer Leverdure","2018/2019","Defrel","9","A"
-"Sacc","Bayer Leverdure","2018/2019","Cutrone","16","A"
-"Sacc","Bayer Leverdure","2018/2019","Castillejo","6","A"
-"Sacc","Bayer Leverdure","2018/2019","Martinez L.","50","A"
-"Sacc","Bayer Leverdure","2019/2020","Sepe",NA,"P"
-"Sacc","Bayer Leverdure","2019/2020","Dragowski",NA,"P"
-"Sacc","Bayer Leverdure","2019/2020",NA,NA,"P"
-"Sacc","Bayer Leverdure","2019/2020","Toljan",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Milenkovic",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Luiz Felipe",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Colley",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Bruno Alves",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Romero",NA,"D"
-"Sacc","Bayer Leverdure","2019/2020",NA,NA,"D"
-"Sacc","Bayer Leverdure","2019/2020",NA,NA,"D"
-"Sacc","Bayer Leverdure","2019/2020","Fofana",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Kucka",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Zaniolo",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Suso",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Zmrhal",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Spalek",NA,"C"
-"Sacc","Bayer Leverdure","2019/2020",NA,NA,"C"
-"Sacc","Bayer Leverdure","2019/2020",NA,NA,"C"
-"Sacc","Bayer Leverdure","2019/2020","Immobile",NA,"A"
-"Sacc","Bayer Leverdure","2019/2020","Boga","1","A"
-"Sacc","Bayer Leverdure","2019/2020","Caicedo",NA,"A"
-"Sacc","Bayer Leverdure","2019/2020","Balotelli",NA,"A"
-"Sacc","Bayer Leverdure","2019/2020","Skov Olsen",NA,"A"
-"Sacc","Bayer Leverdure","2019/2020","Iago Falque",NA,"A"
-"Sacc","Bayer Leverdure","2020/2021","Gollini","20","P"
-"Sacc","Bayer Leverdure","2020/2021","Dragowski","8","P"
-"Sacc","Bayer Leverdure","2020/2021","Sportiello","5","P"
-"Sacc","Bayer Leverdure","2020/2021","De Ligt","17","D"
-"Sacc","Bayer Leverdure","2020/2021","Manolas","17","D"
-"Sacc","Bayer Leverdure","2020/2021","Criscito","14","D"
-"Sacc","Bayer Leverdure","2020/2021","Kumbulla","7","D"
-"Sacc","Bayer Leverdure","2020/2021","Palomino","3","D"
-"Sacc","Bayer Leverdure","2020/2021","Tomiyasu","3","D"
-"Sacc","Bayer Leverdure","2020/2021","Bruno Peres","2","D"
-"Sacc","Bayer Leverdure","2020/2021","Vojvoda","1","D"
-"Sacc","Bayer Leverdure","2020/2021","Calhanoglu","40","C"
-"Sacc","Bayer Leverdure","2020/2021","De Paul","18","C"
-"Sacc","Bayer Leverdure","2020/2021","Arthur","8","C"
-"Sacc","Bayer Leverdure","2020/2021","Diaz B.","13","C"
-"Sacc","Bayer Leverdure","2020/2021","De Roon","11","C"
-"Sacc","Bayer Leverdure","2020/2021","Zajc","1","C"
-"Sacc","Bayer Leverdure","2020/2021","Amrabat","3","C"
-"Sacc","Bayer Leverdure","2020/2021","McKennie","1","C"
-"Sacc","Bayer Leverdure","2020/2021","Ronaldo","231","A"
-"Sacc","Bayer Leverdure","2020/2021","Barrow","10","A"
-"Sacc","Bayer Leverdure","2020/2021","Gabbiadini","1","A"
-"Sacc","Bayer Leverdure","2020/2021","Simy","2","A"
-"Sacc","Bayer Leverdure","2020/2021","Deulofeu","12","A"
-"Sacc","Bayer Leverdure","2020/2021","Hauge","1","A"
-"Sacc","Bayer Leverdure","2021/2022","Musso","35","P"
-"Sacc","Bayer Leverdure","2021/2022","Montipo'","3","P"
-"Sacc","Bayer Leverdure","2021/2022","Sportiello","1","P"
-"Sacc","Bayer Leverdure","2021/2022","Hernandez T.","48","D"
-"Sacc","Bayer Leverdure","2021/2022","Bastoni","15","D"
-"Sacc","Bayer Leverdure","2021/2022","Bonucci","10","D"
-"Sacc","Bayer Leverdure","2021/2022","Nuytinck","6","D"
-"Sacc","Bayer Leverdure","2021/2022","Augello","4","D"
-"Sacc","Bayer Leverdure","2021/2022","Toloi","10","D"
-"Sacc","Bayer Leverdure","2021/2022","Vanheusden","1","D"
-"Sacc","Bayer Leverdure","2021/2022","Serpe","1","D"
-"Sacc","Bayer Leverdure","2021/2022","Veretout","53","C"
-"Sacc","Bayer Leverdure","2021/2022","Djuricic","37","C"
-"Sacc","Bayer Leverdure","2021/2022","Lazovic","10","C"
-"Sacc","Bayer Leverdure","2021/2022","Brozovic","14","C"
-"Sacc","Bayer Leverdure","2021/2022","Marin","9","C"
-"Sacc","Bayer Leverdure","2021/2022","Pulgar","1","C"
-"Sacc","Bayer Leverdure","2021/2022","Zambo Anguissa","1","C"
-"Sacc","Bayer Leverdure","2021/2022","Hernani","1","C"
-"Sacc","Bayer Leverdure","2021/2022","Insigne","108","A"
-"Sacc","Bayer Leverdure","2021/2022","Caputo","83","A"
-"Sacc","Bayer Leverdure","2021/2022","Destro","1","A"
-"Sacc","Bayer Leverdure","2021/2022","Caicedo","17","A"
-"Sacc","Bayer Leverdure","2021/2022","Keita B.","16","A"
-"Sacc","Bayer Leverdure","2021/2022","Kaio Jorge","1","A"
-"Sacc","Bayer Leverdure","2022/2023","Maignan","47","P"
-"Sacc","Bayer Leverdure","2022/2023","Dragowski","1","P"
-"Sacc","Bayer Leverdure","2022/2023","Tatarusanu","1","P"
-"Sacc","Bayer Leverdure","2022/2023","Bonucci","9","D"
-"Sacc","Bayer Leverdure","2022/2023","Demiral","7","D"
-"Sacc","Bayer Leverdure","2022/2023","Karsdorp","14","D"
-"Sacc","Bayer Leverdure","2022/2023","Mari'","2","D"
-"Sacc","Bayer Leverdure","2022/2023","Cambiaso","3","D"
-"Sacc","Bayer Leverdure","2022/2023","Mazzocchi","1","D"
-"Sacc","Bayer Leverdure","2022/2023","De Winter","2","D"
-"Sacc","Bayer Leverdure","2022/2023","Gatti","1","D"
-"Sacc","Bayer Leverdure","2022/2023","Barak","25","C"
-"Sacc","Bayer Leverdure","2022/2023","Zielinski","35","C"
-"Sacc","Bayer Leverdure","2022/2023","Pereyra","30","C"
-"Sacc","Bayer Leverdure","2022/2023","Wijnaldum","5","C"
-"Sacc","Bayer Leverdure","2022/2023","Sabiri","16","C"
-"Sacc","Bayer Leverdure","2022/2023","Bennacer","6","C"
-"Sacc","Bayer Leverdure","2022/2023","Saponara","1","C"
-"Sacc","Bayer Leverdure","2022/2023","Adli","2","C"
-"Sacc","Bayer Leverdure","2022/2023","Rafael Leao","206","A"
-"Sacc","Bayer Leverdure","2022/2023","Simeone","3","A"
-"Sacc","Bayer Leverdure","2022/2023","Raspadori","52","A"
-"Sacc","Bayer Leverdure","2022/2023","Rebic","20","A"
-"Sacc","Bayer Leverdure","2022/2023","Boga","8","A"
-"Sacc","Bayer Leverdure","2022/2023","Zirkzee","1","A"
-"Sacc","Al Bacaro","2023/2024","Terracciano","20","P"
-"Sacc","Al Bacaro","2023/2024","Di Gregorio","15","P"
-"Sacc","Al Bacaro","2023/2024","Christensen O.","1","P"
-"Sacc","Al Bacaro","2023/2024","Mario Rui","7","D"
-"Sacc","Al Bacaro","2023/2024","Romagnoli","7","D"
-"Sacc","Al Bacaro","2023/2024","Spinazzola","11","D"
-"Sacc","Al Bacaro","2023/2024","Mina","1","D"
-"Sacc","Al Bacaro","2023/2024","N'dicka","2","D"
-"Sacc","Al Bacaro","2023/2024","Doig","9","D"
-"Sacc","Al Bacaro","2023/2024","Carlos Augusto","11","D"
-"Sacc","Al Bacaro","2023/2024","Pellegrino","1","D"
-"Sacc","Al Bacaro","2023/2024","Zaccagni","53","C"
-"Sacc","Al Bacaro","2023/2024","Gagliardini","1","C"
-"Sacc","Al Bacaro","2023/2024","Mandragora","1","C"
-"Sacc","Al Bacaro","2023/2024","Castillejo","1","C"
-"Sacc","Al Bacaro","2023/2024","Loftus-Cheek","20","C"
-"Sacc","Al Bacaro","2023/2024","Lobotka","6","C"
-"Sacc","Al Bacaro","2023/2024","Lopez M.","1","C"
-"Sacc","Al Bacaro","2023/2024","Samardzic","32","C"
-"Sacc","Al Bacaro","2023/2024","Milik","23","A"
-"Sacc","Al Bacaro","2023/2024","Abraham","1","A"
-"Sacc","Al Bacaro","2023/2024","Vlahovic","192","A"
-"Sacc","Al Bacaro","2023/2024","Nzola","30","A"
-"Sacc","Al Bacaro","2023/2024","Okafor","50","A"
-"Sacc","Al Bacaro","2023/2024","Yildiz","1","A"
-"Scalco","Liverplate","2019/2020","Skorupski",NA,"P"
-"Scalco","Liverplate","2019/2020","Szczesny",NA,"P"
-"Scalco","Liverplate","2019/2020",NA,NA,"P"
-"Scalco","Liverplate","2019/2020","Lirola",NA,"D"
-"Scalco","Liverplate","2019/2020","Marusic",NA,"D"
-"Scalco","Liverplate","2019/2020","Skriniar",NA,"D"
-"Scalco","Liverplate","2019/2020","De Ligt",NA,"D"
-"Scalco","Liverplate","2019/2020","Di Lorenzo",NA,"D"
-"Scalco","Liverplate","2019/2020","Aina",NA,"D"
-"Scalco","Liverplate","2019/2020","Young",NA,"D"
-"Scalco","Liverplate","2019/2020",NA,NA,"D"
-"Scalco","Liverplate","2019/2020","Luis Alberto",NA,"C"
-"Scalco","Liverplate","2019/2020","Kluivert",NA,"C"
-"Scalco","Liverplate","2019/2020","Freuler",NA,"C"
-"Scalco","Liverplate","2019/2020","Berenguer",NA,"C"
-"Scalco","Liverplate","2019/2020","Lazzari",NA,"C"
-"Scalco","Liverplate","2019/2020","Lulic",NA,"C"
-"Scalco","Liverplate","2019/2020","Castro",NA,"C"
-"Scalco","Liverplate","2019/2020","Lazovic",NA,"C"
-"Scalco","Liverplate","2019/2020","Ronaldo",NA,"A"
-"Scalco","Liverplate","2019/2020","Correa",NA,"A"
-"Scalco","Liverplate","2019/2020","Falco",NA,"A"
-"Scalco","Liverplate","2019/2020","Rigoni",NA,"A"
-"Scalco","Liverplate","2019/2020","Pandev",NA,"A"
-"Scalco","Liverplate","2019/2020",NA,NA,"A"
-"Teo","Tettenham","2021/2022","Meret","33","P"
-"Teo","Tettenham","2021/2022","Ospina","4","P"
-"Teo","Tettenham","2021/2022","Berisha","1","P"
-"Teo","Tettenham","2021/2022","Gosens","43","D"
-"Teo","Tettenham","2021/2022","Tomori","12","D"
-"Teo","Tettenham","2021/2022","Milenkovic","12","D"
-"Teo","Tettenham","2021/2022","Bastoni S.","3","D"
-"Teo","Tettenham","2021/2022","Bonifazi","1","D"
-"Teo","Tettenham","2021/2022","Luiz Felipe","1","D"
-"Teo","Tettenham","2021/2022","Zortea","1","D"
-"Teo","Tettenham","2021/2022","Caldara","1","D"
-"Teo","Tettenham","2021/2022","Mkhitaryan","53","C"
-"Teo","Tettenham","2021/2022","Kessie","34","C"
-"Teo","Tettenham","2021/2022","Soriano","25","C"
-"Teo","Tettenham","2021/2022","Freuler","20","C"
-"Teo","Tettenham","2021/2022","Sigurdsson","1","C"
-"Teo","Tettenham","2021/2022","Lucas Leiva","1","C"
-"Teo","Tettenham","2021/2022","Bennacer","1","C"
-"Teo","Tettenham","2021/2022","Bernardeschi","1","C"
-"Teo","Tettenham","2021/2022","Zapata D.","142","A"
-"Teo","Tettenham","2021/2022","Berardi","82","A"
-"Teo","Tettenham","2021/2022","Barrow","1","A"
-"Teo","Tettenham","2021/2022","Pavoletti","4","A"
-"Teo","Tettenham","2021/2022","Gabbiadini","1","A"
-"Teo","Tettenham","2021/2022","Mancuso","16","A"
-"Teo","Tettenham","2022/2023","Berisha","1","P"
-"Teo","Tettenham","2022/2023","Audero","2","P"
-"Teo","Tettenham","2022/2023","Milinkovic-Savic V.","1","P"
-"Teo","Tettenham","2022/2023","Hernandez T.","55","D"
-"Teo","Tettenham","2022/2023","Danilo","11","D"
-"Teo","Tettenham","2022/2023","Faraoni","17","D"
-"Teo","Tettenham","2022/2023","Rodriguez R.","1","D"
-"Teo","Tettenham","2022/2023","Marusic","1","D"
-"Teo","Tettenham","2022/2023","Umtiti","3","D"
-"Teo","Tettenham","2022/2023","Valeri","1","D"
-"Teo","Tettenham","2022/2023","Ostigard","1","D"
-"Teo","Tettenham","2022/2023","Chiesa","14","C"
-"Teo","Tettenham","2022/2023","Frattesi","17","C"
-"Teo","Tettenham","2022/2023","Zaniolo","39","C"
-"Teo","Tettenham","2022/2023","Locatelli","5","C"
-"Teo","Tettenham","2022/2023","Messias","6","C"
-"Teo","Tettenham","2022/2023","Mandragora","1","C"
-"Teo","Tettenham","2022/2023","Ndombele'","7","C"
-"Teo","Tettenham","2022/2023","Zurkovski","1","C"
-"Teo","Tettenham","2022/2023","Vlahovic","195","A"
-"Teo","Tettenham","2022/2023","Giroud","80","A"
-"Teo","Tettenham","2022/2023","Origi","24","A"
-"Teo","Tettenham","2022/2023","Orsolini","6","A"
-"Teo","Tettenham","2022/2023","Ciofani D.","1","A"
-"Teo","Tettenham","2022/2023","Quagliarella","1","A"
-"Teo","Tettenham","2023/2024","Cragno","1","P"
-"Teo","Tettenham","2023/2024","Carnesecchi","18","P"
-"Teo","Tettenham","2023/2024","Ochoa","10","P"
-"Teo","Tettenham","2023/2024","Juan Jesus","1","D"
-"Teo","Tettenham","2023/2024","Lazzari","2","D"
-"Teo","Tettenham","2023/2024","Mancini","5","D"
-"Teo","Tettenham","2023/2024","Hernandez T.","55","D"
-"Teo","Tettenham","2023/2024","Kyriakopoulos","1","D"
-"Teo","Tettenham","2023/2024","Vojvoda","1","D"
-"Teo","Tettenham","2023/2024","Holm","8","D"
-"Teo","Tettenham","2023/2024","Beukema","1","D"
-"Teo","Tettenham","2023/2024","Politano","17","C"
-"Teo","Tettenham","2023/2024","Jankto","1","C"
-"Teo","Tettenham","2023/2024","Orsolini","40","C"
-"Teo","Tettenham","2023/2024","Barak","1","C"
-"Teo","Tettenham","2023/2024","Rabiot","42","C"
-"Teo","Tettenham","2023/2024","Duda","1","C"
-"Teo","Tettenham","2023/2024","Weah","5","C"
-"Teo","Tettenham","2023/2024","Mckennie","1","C"
-"Teo","Tettenham","2023/2024","Caprari","17","A"
-"Teo","Tettenham","2023/2024","Chiesa","79","A"
-"Teo","Tettenham","2023/2024","Jovic","9","A"
-"Teo","Tettenham","2023/2024","Giroud","110","A"
-"Teo","Tettenham","2023/2024","Lookman","40","A"
-"Teo","Tettenham","2023/2024","Cheddira","9","A"
-"Albe","Aston Pirla","2024/2025","Rui Patricio","1","P"
-"Albe","Aston Pirla","2024/2025","Carnesecchi","40","P"
-"Albe","Aston Pirla","2024/2025","Okoye","1","P"
-"Albe","Aston Pirla","2024/2025","Calabria","1","D"
-"Albe","Aston Pirla","2024/2025","Zampano","1","D"
-"Albe","Aston Pirla","2024/2025","Sergi Roberto","6","D"
-"Albe","Aston Pirla","2024/2025","Hernandez T.","46","D"
-"Albe","Aston Pirla","2024/2025","Emerson Royal","10","D"
-"Albe","Aston Pirla","2024/2025","Erlic","2","D"
-"Albe","Aston Pirla","2024/2025","Dodo'","10","D"
-"Albe","Aston Pirla","2024/2025","Coco","7","D"
-"Albe","Aston Pirla","2024/2025","Zambo Anguissa","2","C"
-"Albe","Aston Pirla","2024/2025","Maldini","7","C"
-"Albe","Aston Pirla","2024/2025","Brescianini","24","C"
-"Albe","Aston Pirla","2024/2025","Samardzic","50","C"
-"Albe","Aston Pirla","2024/2025","Aebischer","3","C"
-"Albe","Aston Pirla","2024/2025","Ferguson","20","C"
-"Albe","Aston Pirla","2024/2025","Reijnders","21","C"
-"Albe","Aston Pirla","2024/2025","Conceicao","12","C"
-"Albe","Aston Pirla","2024/2025","Rebic","1","A"
-"Albe","Aston Pirla","2024/2025","Dia","20","A"
-"Albe","Aston Pirla","2024/2025","Vitinha O.","1","A"
-"Albe","Aston Pirla","2024/2025","Yildiz","31","A"
-"Albe","Aston Pirla","2024/2025","Castro S.","5","A"
-"Albe","Aston Pirla","2024/2025","Dovbyk","176","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Reina","1","P"
-"Alby","Zoggiathebest99 Team","2024/2025","Meret","48","P"
-"Alby","Zoggiathebest99 Team","2024/2025","Caprile","1","P"
-"Alby","Zoggiathebest99 Team","2024/2025","Biraghi","10","D"
-"Alby","Zoggiathebest99 Team","2024/2025","De Vrij","5","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Zappacosta","10","D"
-"Alby","Zoggiathebest99 Team","2024/2025","N'Dicka","1","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Bellanova","35","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Kalulu","1","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Tavares N.","1","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Carlos Augusto","11","D"
-"Alby","Zoggiathebest99 Team","2024/2025","Zielinski","32","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Paredes","1","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Zaccagni","60","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Gyasi","3","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Thuram K.","8","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Frendrup","7","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Fazzini","5","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Dele-Bashiru","3","C"
-"Alby","Zoggiathebest99 Team","2024/2025","Belotti","13","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Sanabria","5","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Pinamonti","37","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Lukaku","182","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Arnautovic","1","A"
-"Alby","Zoggiathebest99 Team","2024/2025","Noslin","6","A"
-"Cos","Joe Gage FC","2024/2025","Scuffet","1","P"
-"Cos","Joe Gage FC","2024/2025","De Gea","16","P"
-"Cos","Joe Gage FC","2024/2025","Terracciano","18","P"
-"Cos","Joe Gage FC","2024/2025","Izzo","1","D"
-"Cos","Joe Gage FC","2024/2025","Pavard","24","D"
-"Cos","Joe Gage FC","2024/2025","Miranda J.","6","D"
-"Cos","Joe Gage FC","2024/2025","Ismajli","1","D"
-"Cos","Joe Gage FC","2024/2025","Holm","2","D"
-"Cos","Joe Gage FC","2024/2025","Gila","1","D"
-"Cos","Joe Gage FC","2024/2025","Bijol","11","D"
-"Cos","Joe Gage FC","2024/2025","Gigot","2","D"
-"Cos","Joe Gage FC","2024/2025","Mkhitaryan","20","C"
-"Cos","Joe Gage FC","2024/2025","Guendouzi","13","C"
-"Cos","Joe Gage FC","2024/2025","Busio","1","C"
-"Cos","Joe Gage FC","2024/2025","Kone' M.","1","C"
-"Cos","Joe Gage FC","2024/2025","Vlasic","14","C"
-"Cos","Joe Gage FC","2024/2025","Adli","1","C"
-"Cos","Joe Gage FC","2024/2025","Suslov","8","C"
-"Cos","Joe Gage FC","2024/2025","Richardson","1","C"
-"Cos","Joe Gage FC","2024/2025","Thuram","195","A"
-"Cos","Joe Gage FC","2024/2025","Luvumbo","10","A"
-"Cos","Joe Gage FC","2024/2025","Brenner","1","A"
-"Cos","Joe Gage FC","2024/2025","Castellanos","131","A"
-"Cos","Joe Gage FC","2024/2025","Taremi","18","A"
-"Cos","Joe Gage FC","2024/2025","Tengstedt","1","A"
-"Fu","AF Antastica","2024/2025","Montipo'","1","P"
-"Fu","AF Antastica","2024/2025","Martinez Jo.","6","P"
-"Fu","AF Antastica","2024/2025","Svilar","33","P"
-"Fu","AF Antastica","2024/2025","Acerbi","11","D"
-"Fu","AF Antastica","2024/2025","Darmian","14","D"
-"Fu","AF Antastica","2024/2025","Lazaro","1","D"
-"Fu","AF Antastica","2024/2025","Kyriakopoulos","1","D"
-"Fu","AF Antastica","2024/2025","Tomori","8","D"
-"Fu","AF Antastica","2024/2025","Mazzocchi","1","D"
-"Fu","AF Antastica","2024/2025","Olivera","1","D"
-"Fu","AF Antastica","2024/2025","Valeri","1","D"
-"Fu","AF Antastica","2024/2025","Badelj","1","C"
-"Fu","AF Antastica","2024/2025","Pellegrini Lo.","42","C"
-"Fu","AF Antastica","2024/2025","Politano","26","C"
-"Fu","AF Antastica","2024/2025","Mandragora","1","C"
-"Fu","AF Antastica","2024/2025","Zaniolo","23","C"
-"Fu","AF Antastica","2024/2025","Ilic","9","C"
-"Fu","AF Antastica","2024/2025","Man","46","C"
-"Fu","AF Antastica","2024/2025","Ricci S.","1","C"
-"Fu","AF Antastica","2024/2025","Lapadula","1","A"
-"Fu","AF Antastica","2024/2025","Scamacca","20","A"
-"Fu","AF Antastica","2024/2025","Martinez L.","232","A"
-"Fu","AF Antastica","2024/2025","Piccoli","10","A"
-"Fu","AF Antastica","2024/2025","Djuric","8","A"
-"Fu","AF Antastica","2024/2025","Isaksen","1","A"
-"Gullo","Sambuca Juniors","2024/2025","Perin","1","P"
-"Gullo","Sambuca Juniors","2024/2025","Pinsoglio","1","P"
-"Gullo","Sambuca Juniors","2024/2025","Di Gregorio","50","P"
-"Gullo","Sambuca Juniors","2024/2025","Romagnoli","7","D"
-"Gullo","Sambuca Juniors","2024/2025","Bani","1","D"
-"Gullo","Sambuca Juniors","2024/2025","Mancini","11","D"
-"Gullo","Sambuca Juniors","2024/2025","Bremer","23","D"
-"Gullo","Sambuca Juniors","2024/2025","Martinez Quarta","11","D"
-"Gullo","Sambuca Juniors","2024/2025","Godfrey","1","D"
-"Gullo","Sambuca Juniors","2024/2025","Baschirotto","4","D"
-"Gullo","Sambuca Juniors","2024/2025","Ehizibue","1","D"
-"Gullo","Sambuca Juniors","2024/2025","Lazovic","5","C"
-"Gullo","Sambuca Juniors","2024/2025","Frattesi","27","C"
-"Gullo","Sambuca Juniors","2024/2025","Nicolussi Caviglia","1","C"
-"Gullo","Sambuca Juniors","2024/2025","McTominay","46","C"
-"Gullo","Sambuca Juniors","2024/2025","Messias","2","C"
-"Gullo","Sambuca Juniors","2024/2025","Koopmeiners","56","C"
-"Gullo","Sambuca Juniors","2024/2025","Baldanzi","1","C"
-"Gullo","Sambuca Juniors","2024/2025","Lovric","4","C"
-"Gullo","Sambuca Juniors","2024/2025","Zapata D.","113","A"
-"Gullo","Sambuca Juniors","2024/2025","Cutrone","3","A"
-"Gullo","Sambuca Juniors","2024/2025","Banda","1","A"
-"Gullo","Sambuca Juniors","2024/2025","Lucca","15","A"
-"Gullo","Sambuca Juniors","2024/2025","Retegui","111","A"
-"Gullo","Sambuca Juniors","2024/2025","Benedyczak","1","A"
-"Pape","Fc Scrotone","2024/2025","Audero","2","P"
-"Pape","Fc Scrotone","2024/2025","Milinkovic-Savic V.","22","P"
-"Pape","Fc Scrotone","2024/2025","Suzuki","3","P"
-"Pape","Fc Scrotone","2024/2025","Spinazzola","22","D"
-"Pape","Fc Scrotone","2024/2025","Gosens","17","D"
-"Pape","Fc Scrotone","2024/2025","Mina","2","D"
-"Pape","Fc Scrotone","2024/2025","Parisi","2","D"
-"Pape","Fc Scrotone","2024/2025","Dumfries","18","D"
-"Pape","Fc Scrotone","2024/2025","Posch","4","D"
-"Pape","Fc Scrotone","2024/2025","Idzes","1","D"
-"Pape","Fc Scrotone","2024/2025","Sosa B.","2","D"
-"Pape","Fc Scrotone","2024/2025","Duncan","1","C"
-"Pape","Fc Scrotone","2024/2025","Pasalic","29","C"
-"Pape","Fc Scrotone","2024/2025","Orsolini","46","C"
-"Pape","Fc Scrotone","2024/2025","Pessina","13","C"
-"Pape","Fc Scrotone","2024/2025","Da Cunha","6","C"
-"Pape","Fc Scrotone","2024/2025","Ndoye","3","C"
-"Pape","Fc Scrotone","2024/2025","Tchaouna","2","C"
-"Pape","Fc Scrotone","2024/2025","Tete Morente","1","C"
-"Pape","Fc Scrotone","2024/2025","Dybala","95","A"
-"Pape","Fc Scrotone","2024/2025","Kean","71","A"
-"Pape","Fc Scrotone","2024/2025","Esposito Se.","1","A"
-"Pape","Fc Scrotone","2024/2025","Leao","85","A"
-"Pape","Fc Scrotone","2024/2025","Mosquera","5","A"
-"Pape","Fc Scrotone","2024/2025","Adams C.","42","A"
-"Pasol","Herta Vernello","2024/2025","Sportiello","1","P"
-"Pasol","Herta Vernello","2024/2025","Falcone","1","P"
-"Pasol","Herta Vernello","2024/2025","Maignan","39","P"
-"Pasol","Herta Vernello","2024/2025","Danilo","11","D"
-"Pasol","Herta Vernello","2024/2025","Rrahmani","13","D"
-"Pasol","Herta Vernello","2024/2025","Gallo","1","D"
-"Pasol","Herta Vernello","2024/2025","Angelino","7","D"
-"Pasol","Herta Vernello","2024/2025","Cambiaso","26","D"
-"Pasol","Herta Vernello","2024/2025","Zanoli","1","D"
-"Pasol","Herta Vernello","2024/2025","Beukema","1","D"
-"Pasol","Herta Vernello","2024/2025","Dossena","5","D"
-"Pasol","Herta Vernello","2024/2025","Loftus-Cheek","31","C"
-"Pasol","Herta Vernello","2024/2025","Zurkowski","1","C"
-"Pasol","Herta Vernello","2024/2025","Malinovskyi","9","C"
-"Pasol","Herta Vernello","2024/2025","Fofana Y.","1","C"
-"Pasol","Herta Vernello","2024/2025","Harroui","7","C"
-"Pasol","Herta Vernello","2024/2025","Ederson D.s.","24","C"
-"Pasol","Herta Vernello","2024/2025","Fabbian","22","C"
-"Pasol","Herta Vernello","2024/2025","Payero","1","C"
-"Pasol","Herta Vernello","2024/2025","Caprari","1","A"
-"Pasol","Herta Vernello","2024/2025","Milik","1","A"
-"Pasol","Herta Vernello","2024/2025","Vlahovic","228","A"
-"Pasol","Herta Vernello","2024/2025","Soule'","45","A"
-"Pasol","Herta Vernello","2024/2025","Krstovic","11","A"
-"Pasol","Herta Vernello","2024/2025","Camarda","1","A"
-"Ricky","FC Tigrotto","2024/2025","Provedel","34","P"
-"Ricky","FC Tigrotto","2024/2025","Turati","1","P"
-"Ricky","FC Tigrotto","2024/2025","Mandas","1","P"
-"Ricky","FC Tigrotto","2024/2025","Luperto","5","D"
-"Ricky","FC Tigrotto","2024/2025","Di Lorenzo","37","D"
-"Ricky","FC Tigrotto","2024/2025","Zortea","1","D"
-"Ricky","FC Tigrotto","2024/2025","Vojvoda","1","D"
-"Ricky","FC Tigrotto","2024/2025","Kossounou","9","D"
-"Ricky","FC Tigrotto","2024/2025","Hien","10","D"
-"Ricky","FC Tigrotto","2024/2025","Bisseck","4","D"
-"Ricky","FC Tigrotto","2024/2025","Dorgu","6","D"
-"Ricky","FC Tigrotto","2024/2025","Gaetano","1","C"
-"Ricky","FC Tigrotto","2024/2025","Fagioli","1","C"
-"Ricky","FC Tigrotto","2024/2025","Strefezza","12","C"
-"Ricky","FC Tigrotto","2024/2025","Douglas Luiz","32","C"
-"Ricky","FC Tigrotto","2024/2025","Oristanio","2","C"
-"Ricky","FC Tigrotto","2024/2025","Folorunsho","1","C"
-"Ricky","FC Tigrotto","2024/2025","Neres","50","C"
-"Ricky","FC Tigrotto","2024/2025","Paz N.","3","C"
-"Ricky","FC Tigrotto","2024/2025","Thauvin","13","A"
-"Ricky","FC Tigrotto","2024/2025","Gonzalez N.","27","A"
-"Ricky","FC Tigrotto","2024/2025","Lookman","121","A"
-"Ricky","FC Tigrotto","2024/2025","Pohjanpalo","20","A"
-"Ricky","FC Tigrotto","2024/2025","Dallinga","67","A"
-"Ricky","FC Tigrotto","2024/2025","Bonny","20","A"
-"Sacc","Al Bacaro","2024/2025","Sommer","50","P"
-"Sacc","Al Bacaro","2024/2025","Joronen","1","P"
-"Sacc","Al Bacaro","2024/2025","Vasquez D.","1","P"
-"Sacc","Al Bacaro","2024/2025","Cuadrado","1","D"
-"Sacc","Al Bacaro","2024/2025","Bastoni","25","D"
-"Sacc","Al Bacaro","2024/2025","Varane","1","D"
-"Sacc","Al Bacaro","2024/2025","Buongiorno","20","D"
-"Sacc","Al Bacaro","2024/2025","Gabbia","1","D"
-"Sacc","Al Bacaro","2024/2025","Pavlovic","11","D"
-"Sacc","Al Bacaro","2024/2025","Ruggeri","18","D"
-"Sacc","Al Bacaro","2024/2025","Casale","1","D"
-"Sacc","Al Bacaro","2024/2025","Barella","40","C"
-"Sacc","Al Bacaro","2024/2025","Pulisic","62","C"
-"Sacc","Al Bacaro","2024/2025","Castrovilli","1","C"
-"Sacc","Al Bacaro","2024/2025","Chukwueze","21","C"
-"Sacc","Al Bacaro","2024/2025","Saelemaekers","1","C"
-"Sacc","Al Bacaro","2024/2025","Le Fee","4","C"
-"Sacc","Al Bacaro","2024/2025","Zeroli","1","C"
-"Sacc","Al Bacaro","2024/2025","Bernabe'","25","C"
-"Sacc","Al Bacaro","2024/2025","Jovic","1","A"
-"Sacc","Al Bacaro","2024/2025","Sanchez","12","A"
-"Sacc","Al Bacaro","2024/2025","Cambiaghi","1","A"
-"Sacc","Al Bacaro","2024/2025","Osimhen","2","A"
-"Sacc","Al Bacaro","2024/2025","Kvaratskhelia","175","A"
-"Sacc","Al Bacaro","2024/2025","Okafor","7","A"
-"Teo","Tettenham","2024/2025","Skorupski","16","P"
-"Teo","Tettenham","2024/2025","Gollini","13","P"
-"Teo","Tettenham","2024/2025","Ravaglia F.","1","P"
-"Teo","Tettenham","2024/2025","Dimarco","46","D"
-"Teo","Tettenham","2024/2025","Djimsiti","1","D"
-"Teo","Tettenham","2024/2025","Kolasinac","4","D"
-"Teo","Tettenham","2024/2025","Vasquez","6","D"
-"Teo","Tettenham","2024/2025","Pongracic","3","D"
-"Teo","Tettenham","2024/2025","Gatti","4","D"
-"Teo","Tettenham","2024/2025","Cabal","2","D"
-"Teo","Tettenham","2024/2025","Tchatchoua","1","D"
-"Teo","Tettenham","2024/2025","Freuler","9","C"
-"Teo","Tettenham","2024/2025","El Shaarawy","4","C"
-"Teo","Tettenham","2024/2025","Locatelli","2","C"
-"Teo","Tettenham","2024/2025","Calhanoglu","65","C"
-"Teo","Tettenham","2024/2025","Weah","7","C"
-"Teo","Tettenham","2024/2025","Marin","1","C"
-"Teo","Tettenham","2024/2025","Coulibaly L.","1","C"
-"Teo","Tettenham","2024/2025","Colpani","37","C"
-"Teo","Tettenham","2024/2025","Morata","100","A"
-"Teo","Tettenham","2024/2025","Abraham","8","A"
-"Teo","Tettenham","2024/2025","Colombo","20","A"
-"Teo","Tettenham","2024/2025","Cancellieri","1","A"
-"Teo","Tettenham","2024/2025","Gudmundsson A.","75","A"
-"Teo","Tettenham","2024/2025","De Ketelaere","65","A"
+"player","coach","team","season","price","pos","id"
+"Consigli","Albe","Aston Pirla","2018/2019",NA,"P",509
+"Olsen","Albe","Aston Pirla","2018/2019",NA,"P",2836
+NA,"Albe","Aston Pirla","2018/2019",NA,"P",NA
+"Malcuit","Albe","Aston Pirla","2018/2019",NA,"D",2860
+"Mancini","Albe","Aston Pirla","2018/2019",NA,"D",2296
+"Marlon","Albe","Aston Pirla","2018/2019",NA,"D",2355
+"De Vrij","Albe","Aston Pirla","2018/2019",NA,"D",322
+"Murillo","Albe","Aston Pirla","2018/2019",NA,"D",259
+"Ghoulam","Albe","Aston Pirla","2018/2019",NA,"D",390
+"Conti","Albe","Aston Pirla","2018/2019",NA,"D",11
+"Castagne/Cionek","Albe","Aston Pirla","2018/2019",NA,"D",NA
+"Matuidi","Albe","Aston Pirla","2018/2019",NA,"C",2306
+"Dzemaili","Albe","Aston Pirla","2018/2019",NA,"C",713
+"Milinkovic-Savic","Albe","Aston Pirla","2018/2019",NA,"C",645
+"Ruiz","Albe","Aston Pirla","2018/2019",NA,"C",2775
+"Joao Pedro","Albe","Aston Pirla","2018/2019",NA,"C",1874
+"Khedira","Albe","Aston Pirla","2018/2019",NA,"C",299
+"Berardi","Albe","Aston Pirla","2018/2019",NA,"C",531
+"Kucka/Linetty","Albe","Aston Pirla","2018/2019",NA,"C",NA
+"Boateng","Albe","Aston Pirla","2018/2019",NA,"A",771
+"Gervinho","Albe","Aston Pirla","2018/2019",NA,"A",474
+"Mandzukic","Albe","Aston Pirla","2018/2019",NA,"A",312
+"Barrow","Albe","Aston Pirla","2018/2019",NA,"A",2719
+"Mirallas","Albe","Aston Pirla","2018/2019",NA,"A",2859
+"Higuain","Albe","Aston Pirla","2018/2019","160","A",408
+"Strakosha","Albe","Aston Pirla","2019/2020",NA,"P",1934
+"Musso","Albe","Aston Pirla","2019/2020",NA,"P",2792
+NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
+"Florenzi","Albe","Aston Pirla","2019/2020",NA,"D",464
+"Duarte","Albe","Aston Pirla","2019/2020",NA,"D",4511
+"Musacchio","Albe","Aston Pirla","2019/2020",NA,"D",2168
+"Romagnoli","Albe","Aston Pirla","2019/2020",NA,"D",460
+"Ferrari G.","Albe","Aston Pirla","2019/2020",NA,"D",1895
+"Klavan","Albe","Aston Pirla","2019/2020",NA,"D",2871
+"Darmian","Albe","Aston Pirla","2019/2020",NA,"D",2525
+"Radu","Albe","Aston Pirla","2019/2020",NA,"D",329
+"Pastore","Albe","Aston Pirla","2019/2020",NA,"C",2378
+"Papu Gomez","Albe","Aston Pirla","2019/2020",NA,"C",NA
+"Calhanoglu","Albe","Aston Pirla","2019/2020",NA,"C",2194
+"Malinovskyi","Albe","Aston Pirla","2019/2020",NA,"C",4427
+"Pasalic","Albe","Aston Pirla","2019/2020",NA,"C",2077
+"Zaccagni","Albe","Aston Pirla","2019/2020",NA,"C",632
+"Bonaventura","Albe","Aston Pirla","2019/2020",NA,"C",367
+"Valoti","Albe","Aston Pirla","2019/2020",NA,"C",2274
+"Karamoh","Albe","Aston Pirla","2019/2020",NA,"A",2325
+"Piatek","Albe","Aston Pirla","2019/2020",NA,"A",2756
+"Muriel","Albe","Aston Pirla","2019/2020",NA,"A",507
+"Barrow","Albe","Aston Pirla","2019/2020",NA,"A",2719
+"Rebic","Albe","Aston Pirla","2019/2020",NA,"A",186
+"Ilicic","Albe","Aston Pirla","2019/2020",NA,"A",177
+"Silvestri","Albe","Aston Pirla","2020/2021","9","P",2211
+"Musso","Albe","Aston Pirla","2020/2021","9","P",2792
+"Cragno","Albe","Aston Pirla","2020/2021","5","P",2178
+"Hernandez T.","Albe","Aston Pirla","2020/2021","46","D",4292
+"Cuadrado","Albe","Aston Pirla","2020/2021","19","D",697
+"Spinazzola","Albe","Aston Pirla","2020/2021","15","D",1852
+"Ibanez","Albe","Aston Pirla","2020/2021","7","D",4331
+"Romero","Albe","Aston Pirla","2020/2021","5","D",4307
+"Lirola","Albe","Aston Pirla","2020/2021","1","D",2006
+"Stryger Larsen","Albe","Aston Pirla","2020/2021","1","D",2315
+"Hickey","Albe","Aston Pirla","2020/2021","3","D",5300
+"Papu Gomez","Albe","Aston Pirla","2020/2021","60","C",NA
+"Luis Alberto","Albe","Aston Pirla","2020/2021","47","C",2085
+"Ramsey","Albe","Aston Pirla","2020/2021","13","C",2472
+"Lazovic","Albe","Aston Pirla","2020/2021","5","C",236
+"Freuler","Albe","Aston Pirla","2020/2021","1","C",788
+"Tonali","Albe","Aston Pirla","2020/2021","1","C",4449
+"Gojak","Albe","Aston Pirla","2020/2021","1","C",5328
+"Vulic","Albe","Aston Pirla","2020/2021","1","C",5002
+"Ibrahimovic","Albe","Aston Pirla","2020/2021","230","A",2530
+"Kalinic","Albe","Aston Pirla","2020/2021","3","A",652
+"Lasagna","Albe","Aston Pirla","2020/2021","1","A",90
+"Corneilus","Albe","Aston Pirla","2020/2021","5","A",NA
+"Pavoletti","Albe","Aston Pirla","2020/2021","1","A",247
+"Sau","Albe","Aston Pirla","2020/2021","1","A",1882
+"Handanovic","Albe","Aston Pirla","2021/2022","39","P",250
+"Radu I.","Albe","Aston Pirla","2021/2022","4","P",1843
+"Terracciano","Albe","Aston Pirla","2021/2022","1","P",2815
+"Mancini","Albe","Aston Pirla","2021/2022","28","D",2296
+"Danilo","Albe","Aston Pirla","2021/2022","11","D",4237
+"Kjaer","Albe","Aston Pirla","2021/2022","8","D",2633
+"Djimsiti","Albe","Aston Pirla","2021/2022","6","D",787
+"Smalling","Albe","Aston Pirla","2021/2022","8","D",4245
+"Izzo","Albe","Aston Pirla","2021/2022","2","D",226
+"Magnani","Albe","Aston Pirla","2021/2022","1","D",2769
+"Udogie","Albe","Aston Pirla","2021/2022","1","D",5355
+"Ruiz","Albe","Aston Pirla","2021/2022","20","C",2775
+"Diaz B.","Albe","Aston Pirla","2021/2022","31","C",4825
+"Mckennie","Albe","Aston Pirla","2021/2022","13","C",4973
+"Maggiore","Albe","Aston Pirla","2021/2022","7","C",4988
+"Bonaventura","Albe","Aston Pirla","2021/2022","11","C",367
+"Saelemaekers","Albe","Aston Pirla","2021/2022","6","C",4892
+"Vignato","Albe","Aston Pirla","2021/2022","3","C",2154
+"Koopmeiners","Albe","Aston Pirla","2021/2022","6","C",5685
+"Vlahovic","Albe","Aston Pirla","2021/2022","157","A",2841
+"Giroud","Albe","Aston Pirla","2021/2022","74","A",4200
+"Morata","Albe","Aston Pirla","2021/2022","50","A",313
+"Sanabria","Albe","Aston Pirla","2021/2022","1","A",479
+"Pussetto","Albe","Aston Pirla","2021/2022","11","A",2826
+"Defrel","Albe","Aston Pirla","2021/2022","1","A",643
+"Luiz Maximiano","Albe","Aston Pirla","2022/2023","11","P",NA
+"Vicario","Albe","Aston Pirla","2022/2023","3","P",4964
+"Radu I.","Albe","Aston Pirla","2022/2023","4","P",1843
+"Tomori","Albe","Aston Pirla","2022/2023","18","D",4751
+"Kalulu","Albe","Aston Pirla","2022/2023","18","D",4976
+"Singo","Albe","Aston Pirla","2022/2023","16","D",4899
+"Rodrigo Becao","Albe","Aston Pirla","2022/2023","5","D",4412
+"Ibanez","Albe","Aston Pirla","2022/2023","7","D",4331
+"Schuurs","Albe","Aston Pirla","2022/2023","11","D",6041
+"De Silvestri","Albe","Aston Pirla","2022/2023","3","D",487
+"Celik","Albe","Aston Pirla","2022/2023","1","D",4657
+"Malinovskyi","Albe","Aston Pirla","2022/2023","22","C",4427
+"Pogba","Albe","Aston Pirla","2022/2023","22","C",303
+"De Ketelaere","Albe","Aston Pirla","2022/2023","54","C",5995
+"Kostic","Albe","Aston Pirla","2022/2023","44","C",4711
+"Verdi","Albe","Aston Pirla","2022/2023","3","C",376
+"Cataldi","Albe","Aston Pirla","2022/2023","1","C",333
+"Rabiot","Albe","Aston Pirla","2022/2023","1","C",2379
+"Tonali","Albe","Aston Pirla","2022/2023","15","C",4449
+"Arnautovic","Albe","Aston Pirla","2022/2023","100","A",4268
+"Di Maria","Albe","Aston Pirla","2022/2023","70","A",2382
+"Pedro","Albe","Aston Pirla","2022/2023","4","A",2489
+"Henry","Albe","Aston Pirla","2022/2023","46","A",5529
+"Cabral","Albe","Aston Pirla","2022/2023","5","A",5786
+"Ibrahimovic","Albe","Aston Pirla","2022/2023","1","A",2530
+"Sportiello","Albe","Aston Pirla","2023/2024","1","P",4
+"Mirante","Albe","Aston Pirla","2023/2024","1","P",41
+"Maignan","Albe","Aston Pirla","2023/2024","51","P",4312
+"Biraghi","Albe","Aston Pirla","2023/2024","13","D",252
+"Monterisi","Albe","Aston Pirla","2023/2024","1","D",4952
+"Parisi","Albe","Aston Pirla","2023/2024","4","D",5449
+"Scalvini","Albe","Aston Pirla","2023/2024","7","D",5526
+"De Winter","Albe","Aston Pirla","2023/2024","1","D",5739
+"Terracciano F.","Albe","Aston Pirla","2023/2024","1","D",5812
+"Bijol","Albe","Aston Pirla","2023/2024","7","D",5847
+"Thiaw","Albe","Aston Pirla","2023/2024","10","D",6055
+"Zielinski","Albe","Aston Pirla","2023/2024","28","C",152
+"Bonaventura","Albe","Aston Pirla","2023/2024","24","C",367
+"Strootman","Albe","Aston Pirla","2023/2024","1","C",470
+"Aouar","Albe","Aston Pirla","2023/2024","17","C",4142
+"Maldini","Albe","Aston Pirla","2023/2024","1","C",4896
+"Volpato","Albe","Aston Pirla","2023/2024","1","C",5735
+"Iling Junior","Albe","Aston Pirla","2023/2024","1","C",6112
+"Reijnders","Albe","Aston Pirla","2023/2024","20","C",6224
+"Petagna","Albe","Aston Pirla","2023/2024","13","A",383
+"Bonazzoli","Albe","Aston Pirla","2023/2024","26","A",505
+"Zapata D.","Albe","Aston Pirla","2023/2024","47","A",608
+"Zirkzee","Albe","Aston Pirla","2023/2024","13","A",5086
+"Kaio Jorge","Albe","Aston Pirla","2023/2024","1","A",5505
+"Kvaratskhelia","Albe","Aston Pirla","2023/2024","204","A",5839
+"Donnarumma G.","Alby","Zoggiathebest99 Team","2018/2019",NA,"P",350
+"Donnarumma A.","Alby","Zoggiathebest99 Team","2018/2019",NA,"P",NA
+NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"P",NA
+"D'ambrosio","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",253
+"Acerbi","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",513
+"Florenzi","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",464
+"N'Koulou","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
+"Pezzella Ger.","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",2309
+NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
+NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
+NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
+"Benassi","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",557
+"De Paul","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",1996
+"Baselli","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",556
+"Lucas Leiva","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",2209
+"Mandragora","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",1933
+"Lulic","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",338
+"Biglia","Alby","Zoggiathebest99 Team","2018/2019",NA,"C",331
+NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"C",NA
+"Dzeko","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",647
+"Zapata D.","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",608
+"Simeone","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",2061
+"Palacio","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",280
+"Ljajic","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",478
+"Campbell","Alby","Zoggiathebest99 Team","2018/2019",NA,"A",2867
+"Olsen","Alby","Zoggiathebest99 Team","2019/2020",NA,"P",2836
+"Consigli","Alby","Zoggiathebest99 Team","2019/2020",NA,"P",509
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"P",NA
+"Smalling","Alby","Zoggiathebest99 Team","2019/2020",NA,"D",4245
+"Djimsiti","Alby","Zoggiathebest99 Team","2019/2020",NA,"D",787
+"Mancini","Alby","Zoggiathebest99 Team","2019/2020",NA,"D",2296
+"Bonucci","Alby","Zoggiathebest99 Team","2019/2020",NA,"D",286
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"D",NA
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"D",NA
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"D",NA
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"D",NA
+"Rabiot","Alby","Zoggiathebest99 Team","2019/2020",NA,"C",2379
+"Matuidi","Alby","Zoggiathebest99 Team","2019/2020",NA,"C",2306
+"Candreva","Alby","Zoggiathebest99 Team","2019/2020",NA,"C",332
+"Mkhitaryan","Alby","Zoggiathebest99 Team","2019/2020",NA,"C",2529
+"Verdi","Alby","Zoggiathebest99 Team","2019/2020",NA,"C",376
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"C",NA
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"C",NA
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"C",NA
+"Martinez L.","Alby","Zoggiathebest99 Team","2019/2020",NA,"A",2764
+"Simeone","Alby","Zoggiathebest99 Team","2019/2020",NA,"A",2061
+"Higuain","Alby","Zoggiathebest99 Team","2019/2020",NA,"A",408
+"Defrel","Alby","Zoggiathebest99 Team","2019/2020",NA,"A",643
+"Orsolini","Alby","Zoggiathebest99 Team","2019/2020",NA,"A",2167
+NA,"Alby","Zoggiathebest99 Team","2019/2020",NA,"A",NA
+"Ospina","Alby","Zoggiathebest99 Team","2020/2021",NA,"P",2468
+"Sepe","Alby","Zoggiathebest99 Team","2020/2021",NA,"P",159
+"Meret","Alby","Zoggiathebest99 Team","2020/2021",NA,"P",572
+"De Silvestri","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",487
+"Dimarco","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",254
+"Milenkovic","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",2164
+"De Vrij","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",322
+"Zappacosta","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",554
+"Glik","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",548
+"Maehle","Alby","Zoggiathebest99 Team","2020/2021",NA,"D",5375
+NA,"Alby","Zoggiathebest99 Team","2020/2021",NA,"D",NA
+"Barak","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",2172
+"Pereyra","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",302
+"Milinkovic-Savic","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",645
+"Barella","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",1870
+"Kucka","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",234
+"Perisic","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",704
+"Bonaventura","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",367
+"Saponara","Alby","Zoggiathebest99 Team","2020/2021",NA,"C",150
+"Lukaku","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",2531
+"Quagliarella","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",568
+"Morata","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",313
+"Pedro","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",2489
+"Caprari","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",1958
+"Iago Falque","Alby","Zoggiathebest99 Team","2020/2021",NA,"A",475
+"Szczesny","Alby","Zoggiathebest99 Team","2021/2022","35","P",453
+"Pinsoglio","Alby","Zoggiathebest99 Team","2021/2022","1","P",1930
+"Perin","Alby","Zoggiathebest99 Team","2021/2022","1","P",218
+"Ferrari G.","Alby","Zoggiathebest99 Team","2021/2022","7","D",1895
+"Manolas","Alby","Zoggiathebest99 Team","2021/2022","8","D",459
+"Palomino","Alby","Zoggiathebest99 Team","2021/2022","8","D",2181
+"Hysaj","Alby","Zoggiathebest99 Team","2021/2022","3","D",140
+"Godin","Alby","Zoggiathebest99 Team","2021/2022","2","D",2572
+"Singo","Alby","Zoggiathebest99 Team","2021/2022","2","D",4899
+"Romagnoli","Alby","Zoggiathebest99 Team","2021/2022","1","D",460
+"Martinez Quarta","Alby","Zoggiathebest99 Team","2021/2022","1","D",5323
+"Calhanoglu","Alby","Zoggiathebest99 Team","2021/2022","45","C",2194
+"Zaccagni","Alby","Zoggiathebest99 Team","2021/2022","24","C",632
+"Zaniolo","Alby","Zoggiathebest99 Team","2021/2022","54","C",2766
+"Mandragora","Alby","Zoggiathebest99 Team","2021/2022","1","C",1933
+"Vidal","Alby","Zoggiathebest99 Team","2021/2022","9","C",2414
+"Callejon","Alby","Zoggiathebest99 Team","2021/2022","2","C",406
+"Bandinelli","Alby","Zoggiathebest99 Team","2021/2022","1","C",2253
+"Obi","Alby","Zoggiathebest99 Team","2021/2022","1","C",560
+"Osimhen","Alby","Zoggiathebest99 Team","2021/2022","133","A",4661
+"Dzeko","Alby","Zoggiathebest99 Team","2021/2022","73","A",647
+"Kean","Alby","Zoggiathebest99 Team","2021/2022","41","A",2097
+"Sanchez","Alby","Zoggiathebest99 Team","2021/2022","1","A",2475
+"Pedro","Alby","Zoggiathebest99 Team","2021/2022","16","A",2489
+"Scamacca","Alby","Zoggiathebest99 Team","2021/2022","30","A",2137
+"Musso","Alby","Zoggiathebest99 Team","2022/2023","30","P",2792
+"Consigli","Alby","Zoggiathebest99 Team","2022/2023","3","P",509
+"Sportiello","Alby","Zoggiathebest99 Team","2022/2023","1","P",4
+"Cuadrado","Alby","Zoggiathebest99 Team","2022/2023","42","D",697
+"De Vrij","Alby","Zoggiathebest99 Team","2022/2023","18","D",322
+"Zappacosta","Alby","Zoggiathebest99 Team","2022/2023","13","D",554
+"Colley","Alby","Zoggiathebest99 Team","2022/2023","5","D",2784
+"Dimarco","Alby","Zoggiathebest99 Team","2022/2023","16","D",254
+"Acerbi","Alby","Zoggiathebest99 Team","2022/2023","1","D",513
+"Lazaro","Alby","Zoggiathebest99 Team","2022/2023","1","D",4385
+"Soppy","Alby","Zoggiathebest99 Team","2022/2023","2","D",5686
+"Barella","Alby","Zoggiathebest99 Team","2022/2023","56","C",1870
+"Mkhitaryan","Alby","Zoggiathebest99 Team","2022/2023","13","C",2529
+"Lazovic","Alby","Zoggiathebest99 Team","2022/2023","7","C",236
+"Soriano","Alby","Zoggiathebest99 Team","2022/2023","17","C",2625
+"Mckennie","Alby","Zoggiathebest99 Team","2022/2023","13","C",4973
+"Miranchuk","Alby","Zoggiathebest99 Team","2022/2023","8","C",5001
+"Ricci S.","Alby","Zoggiathebest99 Team","2022/2023","3","C",5453
+"Vecino","Alby","Zoggiathebest99 Team","2022/2023","1","C",181
+"Lukaku","Alby","Zoggiathebest99 Team","2022/2023","195","A",2531
+"Lozano","Alby","Zoggiathebest99 Team","2022/2023","20","A",4517
+"Bonazzoli","Alby","Zoggiathebest99 Team","2022/2023","21","A",505
+"Lasagna","Alby","Zoggiathebest99 Team","2022/2023","7","A",90
+"Shomurodov","Alby","Zoggiathebest99 Team","2022/2023","1","A",5311
+"Djuric","Alby","Zoggiathebest99 Team","2022/2023","1","A",5471
+"Perin","Alby","Zoggiathebest99 Team","2023/2024","1","P",218
+"Szczesny","Alby","Zoggiathebest99 Team","2023/2024","40","P",453
+"Consigli","Alby","Zoggiathebest99 Team","2023/2024","1","P",509
+"Alex Sandro","Alby","Zoggiathebest99 Team","2023/2024","1","D",662
+"Cuadrado","Alby","Zoggiathebest99 Team","2023/2024","12","D",697
+"Bastoni","Alby","Zoggiathebest99 Team","2023/2024","10","D",2120
+"Kolasinac","Alby","Zoggiathebest99 Team","2023/2024","9","D",2640
+"Pellegrini Lu.","Alby","Zoggiathebest99 Team","2023/2024","1","D",2728
+"Augello","Alby","Zoggiathebest99 Team","2023/2024","1","D",4421
+"Gatti","Alby","Zoggiathebest99 Team","2023/2024","1","D",5831
+"Schuurs","Alby","Zoggiathebest99 Team","2023/2024","17","D",6041
+"Pogba","Alby","Zoggiathebest99 Team","2023/2024","7","C",303
+"Barella","Alby","Zoggiathebest99 Team","2023/2024","34","C",1870
+"Pessina","Alby","Zoggiathebest99 Team","2023/2024","11","C",2741
+"Frattesi","Alby","Zoggiathebest99 Team","2023/2024","28","C",2848
+"Malinovskyi","Alby","Zoggiathebest99 Team","2023/2024","16","C",4427
+"Coulibaly L.","Alby","Zoggiathebest99 Team","2023/2024","1","C",5504
+"Ndoye","Alby","Zoggiathebest99 Team","2023/2024","5","C",5564
+"De Ketelaere","Alby","Zoggiathebest99 Team","2023/2024","5","C",5995
+"Immobile","Alby","Zoggiathebest99 Team","2023/2024","184","A",785
+"Deulofeu","Alby","Zoggiathebest99 Team","2023/2024","10","A",2119
+"Caputo","Alby","Zoggiathebest99 Team","2023/2024","33","A",2819
+"Arnautovic","Alby","Zoggiathebest99 Team","2023/2024","66","A",4268
+"Azmoun","Alby","Zoggiathebest99 Team","2023/2024","1","A",5795
+"Lucca","Alby","Zoggiathebest99 Team","2023/2024","5","A",6215
+"Handanovic","Cos","Joe Gage FC","2018/2019",NA,"P",250
+NA,"Cos","Joe Gage FC","2018/2019",NA,"P",NA
+NA,"Cos","Joe Gage FC","2018/2019",NA,"P",NA
+"Ansaldi","Cos","Joe Gage FC","2018/2019",NA,"D",706
+"Izzo","Cos","Joe Gage FC","2018/2019",NA,"D",226
+"Albiol","Cos","Joe Gage FC","2018/2019",NA,"D",388
+"Koulibaly","Cos","Joe Gage FC","2018/2019",NA,"D",392
+"Juan Jesus","Cos","Joe Gage FC","2018/2019",NA,"D",256
+"Luiz Felipe","Cos","Joe Gage FC","2018/2019",NA,"D",2335
+"Gagliolo","Cos","Joe Gage FC","2018/2019",NA,"D",73
+NA,"Cos","Joe Gage FC","2018/2019",NA,"D",NA
+"Hamsik","Cos","Joe Gage FC","2018/2019",NA,"C",402
+"Correa","Cos","Joe Gage FC","2018/2019",NA,"C",495
+"Giaccherini","Cos","Joe Gage FC","2018/2019",NA,"C",702
+"Krunic","Cos","Joe Gage FC","2018/2019",NA,"C",148
+"Castro","Cos","Joe Gage FC","2018/2019",NA,"C",112
+"Ilicic","Cos","Joe Gage FC","2018/2019",NA,"C",177
+"Ramirez","Cos","Joe Gage FC","2018/2019",NA,"C",2287
+NA,"Cos","Joe Gage FC","2018/2019",NA,"C",NA
+"Schick","Cos","Joe Gage FC","2018/2019",NA,"A",1974
+"Belotti","Cos","Joe Gage FC","2018/2019",NA,"A",441
+"Keita B.","Cos","Joe Gage FC","2018/2019",NA,"A",345
+"Politano","Cos","Joe Gage FC","2018/2019",NA,"A",536
+"El Shaarawy","Cos","Joe Gage FC","2018/2019",NA,"A",795
+"Milik","Cos","Joe Gage FC","2018/2019",NA,"A",2012
+"Sirigu","Cos","Joe Gage FC","2019/2020",NA,"P",2179
+"Gabriel","Cos","Joe Gage FC","2019/2020",NA,"P",385
+NA,"Cos","Joe Gage FC","2019/2020",NA,"P",NA
+"Nkoulou","Cos","Joe Gage FC","2019/2020",NA,"D",NA
+"Lyanco","Cos","Joe Gage FC","2019/2020",NA,"D",2171
+"Zappacosta","Cos","Joe Gage FC","2019/2020",NA,"D",554
+"Murillo","Cos","Joe Gage FC","2019/2020",NA,"D",259
+"Kjaer","Cos","Joe Gage FC","2019/2020",NA,"D",2633
+"De Vrij","Cos","Joe Gage FC","2019/2020",NA,"D",322
+"Biraghi","Cos","Joe Gage FC","2019/2020",NA,"D",252
+"Acerbi","Cos","Joe Gage FC","2019/2020",NA,"D",513
+"Barella","Cos","Joe Gage FC","2019/2020",NA,"C",1870
+"Allan","Cos","Joe Gage FC","2019/2020",NA,"C",397
+"Ribery","Cos","Joe Gage FC","2019/2020",NA,"C",2409
+"Veloso","Cos","Joe Gage FC","2019/2020",NA,"C",NA
+"Ramirez","Cos","Joe Gage FC","2019/2020",NA,"C",2287
+"Nainggolan","Cos","Joe Gage FC","2019/2020",NA,"C",467
+"Baselli","Cos","Joe Gage FC","2019/2020",NA,"C",556
+"Obaing","Cos","Joe Gage FC","2019/2020",NA,"C",NA
+"Pazzini","Cos","Joe Gage FC","2019/2020",NA,"A",636
+"Milik","Cos","Joe Gage FC","2019/2020",NA,"A",2012
+"Sanchez","Cos","Joe Gage FC","2019/2020",NA,"A",2475
+"Lozano","Cos","Joe Gage FC","2019/2020",NA,"A",4517
+"Destro","Cos","Joe Gage FC","2019/2020",NA,"A",472
+"Llorente","Cos","Joe Gage FC","2019/2020",NA,"A",311
+"Handanovic","Cos","Joe Gage FC","2020/2021","32","P",250
+"Skorupski","Cos","Joe Gage FC","2020/2021","1","P",133
+"Radu I.","Cos","Joe Gage FC","2020/2021","1","P",1843
+"Acerbi","Cos","Joe Gage FC","2020/2021","14","D",513
+"Kolarov","Cos","Joe Gage FC","2020/2021","13","D",2214
+"Bastoni","Cos","Joe Gage FC","2020/2021","17","D",2120
+"Nkoulou","Cos","Joe Gage FC","2020/2021","5","D",NA
+"Colley","Cos","Joe Gage FC","2020/2021","4","D",2784
+"Izzo","Cos","Joe Gage FC","2020/2021","4","D",226
+"Pezzella Ger.","Cos","Joe Gage FC","2020/2021","2","D",2309
+"Skriniar","Cos","Joe Gage FC","2020/2021","2","D",798
+"Castrovilli","Cos","Joe Gage FC","2020/2021","21","C",4377
+"Miranchuk","Cos","Joe Gage FC","2020/2021","16","C",5001
+"Ramirez","Cos","Joe Gage FC","2020/2021","14","C",2287
+"Ruiz","Cos","Joe Gage FC","2020/2021","24","C",2775
+"Verdi","Cos","Joe Gage FC","2020/2021","3","C",376
+"Linetty","Cos","Joe Gage FC","2020/2021","1","C",2008
+"Nandez","Cos","Joe Gage FC","2020/2021","1","C",4514
+"Pereira","Cos","Joe Gage FC","2020/2021","1","C",NA
+"Martinez L.","Cos","Joe Gage FC","2020/2021","192","A",2764
+"Dzeko","Cos","Joe Gage FC","2020/2021","76","A",647
+"Osimhen","Cos","Joe Gage FC","2020/2021","52","A",4661
+"Sanchez","Cos","Joe Gage FC","2020/2021","46","A",2475
+"Keita B.","Cos","Joe Gage FC","2020/2021","2","A",345
+"Majoral","Cos","Joe Gage FC","2020/2021","1","A",NA
+"Dragowski","Cos","Joe Gage FC","2021/2022","28","P",1917
+"Vicario","Cos","Joe Gage FC","2021/2022","1","P",4964
+"Belec","Cos","Joe Gage FC","2021/2022","1","P",720
+"De Vrij","Cos","Joe Gage FC","2021/2022","18","D",322
+"Hateboer","Cos","Joe Gage FC","2021/2022","10","D",2130
+"Lazzari","Cos","Joe Gage FC","2021/2022","25","D",2263
+"Maehle","Cos","Joe Gage FC","2021/2022","18","D",5375
+"Dimarco","Cos","Joe Gage FC","2021/2022","7","D",254
+"Ampadu","Cos","Joe Gage FC","2021/2022","2","D",4719
+"Maksimovic","Cos","Joe Gage FC","2021/2022","1","D",550
+"Nastasic","Cos","Joe Gage FC","2021/2022","2","D",2453
+"Felipe Anderson","Cos","Joe Gage FC","2021/2022","43","C",335
+"Castrovilli","Cos","Joe Gage FC","2021/2022","16","C",4377
+"Nandez","Cos","Joe Gage FC","2021/2022","12","C",4514
+"Verdi","Cos","Joe Gage FC","2021/2022","1","C",376
+"Svanberg","Cos","Joe Gage FC","2021/2022","1","C",2744
+"Praet","Cos","Joe Gage FC","2021/2022","1","C",2065
+"Torreira","Cos","Joe Gage FC","2021/2022","1","C",1972
+"Kovalenko","Cos","Joe Gage FC","2021/2022","1","C",5397
+"Muriel","Cos","Joe Gage FC","2021/2022","170","A",507
+"Arnautovic","Cos","Joe Gage FC","2021/2022","84","A",4268
+"Quagliarella","Cos","Joe Gage FC","2021/2022","36","A",568
+"Cutrone","Cos","Joe Gage FC","2021/2022","2","A",2155
+"Henry","Cos","Joe Gage FC","2021/2022","14","A",5529
+"Brekalo","Cos","Joe Gage FC","2021/2022","1","A",4184
+"Handanovic","Cos","Joe Gage FC","2022/2023","37","P",250
+"Di Gregorio","Cos","Joe Gage FC","2022/2023","1","P",5876
+"Padelli","Cos","Joe Gage FC","2022/2023","1","P",543
+"Skriniar","Cos","Joe Gage FC","2022/2023","30","D",798
+"Milenkovic","Cos","Joe Gage FC","2022/2023","13","D",2164
+"Lazzari","Cos","Joe Gage FC","2022/2023","17","D",2263
+"Vojvoda","Cos","Joe Gage FC","2022/2023","5","D",4994
+"Casale","Cos","Joe Gage FC","2022/2023","1","D",5498
+"Masina","Cos","Joe Gage FC","2022/2023","4","D",49
+"Ferrari G.","Cos","Joe Gage FC","2022/2023","2","D",1895
+"Marlon","Cos","Joe Gage FC","2022/2023","1","D",2355
+"Felipe Anderson","Cos","Joe Gage FC","2022/2023","33","C",335
+"Zaccagni","Cos","Joe Gage FC","2022/2023","31","C",632
+"Vlasic","Cos","Joe Gage FC","2022/2023","24","C",5687
+"Djuricic","Cos","Joe Gage FC","2022/2023","2","C",1995
+"Dominguez","Cos","Joe Gage FC","2022/2023","1","C",4869
+"Asllani","Cos","Joe Gage FC","2022/2023","1","C",5719
+"Winks","Cos","Joe Gage FC","2022/2023","1","C",4260
+"Radonjic","Cos","Joe Gage FC","2022/2023","20","C",5063
+"Martinez L.","Cos","Joe Gage FC","2022/2023","191","A",2764
+"Beto","Cos","Joe Gage FC","2022/2023","14","A",5694
+"Gonzalez N.","Cos","Joe Gage FC","2022/2023","38","A",4179
+"Dessers","Cos","Joe Gage FC","2022/2023","16","A",6026
+"Destro","Cos","Joe Gage FC","2022/2023","4","A",472
+"Satriano","Cos","Joe Gage FC","2022/2023","1","A",5460
+"Falcone","Cos","Joe Gage FC","2023/2024","1","P",2134
+"Provedel","Cos","Joe Gage FC","2023/2024","34","P",2814
+"Martinez Jo.","Cos","Joe Gage FC","2023/2024","1","P",5116
+"Izzo","Cos","Joe Gage FC","2023/2024","2","D",226
+"D'ambrosio","Cos","Joe Gage FC","2023/2024","5","D",253
+"Buongiorno","Cos","Joe Gage FC","2023/2024","5","D",2724
+"Pavard","Cos","Joe Gage FC","2023/2024","19","D",4177
+"Zappa","Cos","Joe Gage FC","2023/2024","1","D",4461
+"Mazzocchi","Cos","Joe Gage FC","2023/2024","7","D",5481
+"Perez N.","Cos","Joe Gage FC","2023/2024","3","D",5677
+"Hien","Cos","Joe Gage FC","2023/2024","1","D",6046
+"Saponara","Cos","Joe Gage FC","2023/2024","1","C",150
+"Renato Sanches","Cos","Joe Gage FC","2023/2024","1","C",2543
+"Guendouzi","Cos","Joe Gage FC","2023/2024","8","C",4186
+"Nandez","Cos","Joe Gage FC","2023/2024","1","C",4514
+"Ikone'","Cos","Joe Gage FC","2023/2024","2","C",4658
+"Koopmeiners","Cos","Joe Gage FC","2023/2024","33","C",5685
+"Vlasic","Cos","Joe Gage FC","2023/2024","19","C",5687
+"Colpani","Cos","Joe Gage FC","2023/2024","23","C",5878
+"Sanabria","Cos","Joe Gage FC","2023/2024","36","A",479
+"Thauvin","Cos","Joe Gage FC","2023/2024","1","A",2369
+"Sanchez","Cos","Joe Gage FC","2023/2024","15","A",2475
+"Kouame'","Cos","Joe Gage FC","2023/2024","1","A",2762
+"Osimhen","Cos","Joe Gage FC","2023/2024","263","A",4661
+"Luvumbo","Cos","Joe Gage FC","2023/2024","6","A",5297
+"Alfonso","Fu","AC Ciughina","2019/2020",NA,"P",4440
+NA,"Fu","AC Ciughina","2019/2020",NA,"P",NA
+NA,"Fu","AC Ciughina","2019/2020",NA,"P",NA
+"Vavro","Fu","AC Ciughina","2019/2020",NA,"D",4397
+"Izzo","Fu","AC Ciughina","2019/2020",NA,"D",226
+"Pisacane","Fu","AC Ciughina","2019/2020",NA,"D",1869
+"Cistana","Fu","AC Ciughina","2019/2020",NA,"D",4442
+"Pellegrini Lu.","Fu","AC Ciughina","2019/2020",NA,"D",2728
+"Pezzella Ger.","Fu","AC Ciughina","2019/2020",NA,"D",2309
+"Tonelli","Fu","AC Ciughina","2019/2020",NA,"D",144
+NA,"Fu","AC Ciughina","2019/2020",NA,"D",NA
+"Schone","Fu","AC Ciughina","2019/2020",NA,"C",4512
+"Saponara","Fu","AC Ciughina","2019/2020",NA,"C",150
+"Kessie","Fu","AC Ciughina","2019/2020",NA,"C",NA
+"Hernani","Fu","AC Ciughina","2019/2020",NA,"C",4423
+"Bentancur","Fu","AC Ciughina","2019/2020",NA,"C",2166
+"Costa","Fu","AC Ciughina","2019/2020",NA,"C",NA
+"Veretout","Fu","AC Ciughina","2019/2020",NA,"C",2215
+"Borini","Fu","AC Ciughina","2019/2020",NA,"C",2187
+"Dzeko","Fu","AC Ciughina","2019/2020",NA,"A",647
+"Politano","Fu","AC Ciughina","2019/2020",NA,"A",536
+"Dybala","Fu","AC Ciughina","2019/2020",NA,"A",309
+"Lapadula","Fu","AC Ciughina","2019/2020",NA,"A",1939
+"Lasagna","Fu","AC Ciughina","2019/2020",NA,"A",90
+"Carles Perez","Fu","AC Ciughina","2019/2020",NA,"A",4884
+"Mirante","Fu","Hakimi Raikkonen","2020/2021",NA,"P",41
+"Consigli","Fu","Hakimi Raikkonen","2020/2021",NA,"P",509
+"Pau Lopez","Fu","Hakimi Raikkonen","2020/2021",NA,"P",4419
+"Hakimi","Fu","Hakimi Raikkonen","2020/2021",NA,"D",4160
+"Di Lorenzo","Fu","Hakimi Raikkonen","2020/2021",NA,"D",2816
+"Danilo","Fu","Hakimi Raikkonen","2020/2021",NA,"D",4237
+"Muldur","Fu","Hakimi Raikkonen","2020/2021",NA,"D",4521
+"Hysaj","Fu","Hakimi Raikkonen","2020/2021",NA,"D",140
+"Darmian","Fu","Hakimi Raikkonen","2020/2021",NA,"D",2525
+"Bruno Alves","Fu","Hakimi Raikkonen","2020/2021",NA,"D",1864
+"Biraghi","Fu","Hakimi Raikkonen","2020/2021",NA,"D",252
+"Pereiro","Fu","Hakimi Raikkonen","2020/2021",NA,"C",4886
+"Mkhitaryan","Fu","Hakimi Raikkonen","2020/2021",NA,"C",2529
+"Politano","Fu","Hakimi Raikkonen","2020/2021",NA,"C",536
+"Kulusevski","Fu","Hakimi Raikkonen","2020/2021",NA,"C",2833
+"Callejon","Fu","Hakimi Raikkonen","2020/2021",NA,"C",406
+"M. Lopez","Fu","Hakimi Raikkonen","2020/2021",NA,"C",NA
+"Gagliardini","Fu","Hakimi Raikkonen","2020/2021",NA,"C",801
+"Vecino","Fu","Hakimi Raikkonen","2020/2021",NA,"C",181
+"Dybala","Fu","Hakimi Raikkonen","2020/2021",NA,"A",309
+"Caputo","Fu","Hakimi Raikkonen","2020/2021",NA,"A",2819
+"Ribery","Fu","Hakimi Raikkonen","2020/2021",NA,"A",2409
+"Muriel","Fu","Hakimi Raikkonen","2020/2021",NA,"A",507
+"Ilicic","Fu","Hakimi Raikkonen","2020/2021",NA,"A",177
+"Galabinov","Fu","Hakimi Raikkonen","2020/2021",NA,"A",2196
+"Audero","Fu","Stame Vecino Utd","2021/2022","18","P",761
+"Consigli","Fu","Stame Vecino Utd","2021/2022","13","P",509
+"Skorupski","Fu","Stame Vecino Utd","2021/2022","6","P",133
+"Alex Sandro","Fu","Stame Vecino Utd","2021/2022","9","D",662
+"Dumfries","Fu","Stame Vecino Utd","2021/2022","21","D",5513
+"Darmian","Fu","Stame Vecino Utd","2021/2022","9","D",2525
+"Lykogiannis","Fu","Stame Vecino Utd","2021/2022","3","D",2653
+"Stryger Larsen","Fu","Stame Vecino Utd","2021/2022","2","D",2315
+"Pezzella Giu.","Fu","Stame Vecino Utd","2021/2022","1","D",770
+"Mario Rui","Fu","Stame Vecino Utd","2021/2022","6","D",142
+"Dalbert","Fu","Stame Vecino Utd","2021/2022","1","D",2289
+"Pellegrini Lo.","Fu","Stame Vecino Utd","2021/2022","49","C",530
+"Zielinski","Fu","Stame Vecino Utd","2021/2022","43","C",152
+"Orsolini","Fu","Stame Vecino Utd","2021/2022","13","C",2167
+"Messias","Fu","Stame Vecino Utd","2021/2022","9","C",4970
+"Skov Olsen","Fu","Stame Vecino Utd","2021/2022","1","C",4415
+"Sottil","Fu","Stame Vecino Utd","2021/2022","1","C",2839
+"Sensi","Fu","Stame Vecino Utd","2021/2022","1","C",1978
+"Vecino","Fu","Stame Vecino Utd","2021/2022","1","C",181
+"Abraham","Fu","Stame Vecino Utd","2021/2022","142","A",2544
+"Lozano","Fu","Stame Vecino Utd","2021/2022","24","A",4517
+"Correa","Fu","Stame Vecino Utd","2021/2022","84","A",495
+"Mayoral","Fu","Stame Vecino Utd","2021/2022","3","A",5233
+"Shomurodov","Fu","Stame Vecino Utd","2021/2022","39","A",5311
+"Ounas","Fu","Stame Vecino Utd","2021/2022","1","A",2195
+"Meret","Fu","AF Antastica","2022/2023","15","P",572
+"Onana","Fu","AF Antastica","2022/2023","8","P",5830
+"Sirigu","Fu","AF Antastica","2022/2023","1","P",2179
+"Calabria","Fu","AF Antastica","2022/2023","11","D",357
+"Spinazzola","Fu","AF Antastica","2022/2023","19","D",1852
+"Alex Sandro","Fu","AF Antastica","2022/2023","5","D",662
+"Hateboer","Fu","AF Antastica","2022/2023","5","D",2130
+"Florenzi","Fu","AF Antastica","2022/2023","4","D",464
+"Bianchetti","Fu","AF Antastica","2022/2023","1","D",612
+"Gunter","Fu","AF Antastica","2022/2023","1","D",2758
+"Kjaer","Fu","AF Antastica","2022/2023","1","D",2633
+"Kvaratskhelia","Fu","AF Antastica","2022/2023","62","C",5839
+"Ikone'","Fu","AF Antastica","2022/2023","17","C",4658
+"Diaz B.","Fu","AF Antastica","2022/2023","11","C",4825
+"Cristante","Fu","AF Antastica","2022/2023","4","C",779
+"Sottil","Fu","AF Antastica","2022/2023","8","C",2839
+"Saelemaekers","Fu","AF Antastica","2022/2023","1","C",4892
+"Zalewski","Fu","AF Antastica","2022/2023","1","C",5422
+"Lopez M.","Fu","AF Antastica","2022/2023","1","C",4681
+"Berardi","Fu","AF Antastica","2022/2023","32","A",531
+"Abraham","Fu","AF Antastica","2022/2023","218","A",2544
+"Belotti","Fu","AF Antastica","2022/2023","4","A",441
+"Dzeko","Fu","AF Antastica","2022/2023","18","A",647
+"Petagna","Fu","AF Antastica","2022/2023","12","A",383
+"Barrow","Fu","AF Antastica","2022/2023","1","A",2719
+"Milinkovic-Savic V.","Fu","AF Antastica","2023/2024","17","P",2170
+"Musso","Fu","AF Antastica","2023/2024","15","P",2792
+"Montipo'","Fu","AF Antastica","2023/2024","10","P",4957
+"De Vrij","Fu","AF Antastica","2023/2024","5","D",322
+"Acerbi","Fu","AF Antastica","2023/2024","5","D",513
+"Zappacosta","Fu","AF Antastica","2023/2024","14","D",554
+"Milenkovic","Fu","AF Antastica","2023/2024","5","D",2164
+"Darmian","Fu","AF Antastica","2023/2024","5","D",2525
+"Erlic","Fu","AF Antastica","2023/2024","1","D",4982
+"Bakker","Fu","AF Antastica","2023/2024","11","D",5067
+"Bastoni S.","Fu","AF Antastica","2023/2024","3","D",5332
+"Pellegrini Lo.","Fu","AF Antastica","2023/2024","20","C",530
+"Pasalic","Fu","AF Antastica","2023/2024","10","C",2077
+"Calhanoglu","Fu","AF Antastica","2023/2024","23","C",2194
+"Mkhitaryan","Fu","AF Antastica","2023/2024","10","C",2529
+"Fagioli","Fu","AF Antastica","2023/2024","2","C",4465
+"Ilic","Fu","AF Antastica","2023/2024","3","C",5007
+"Radonjic","Fu","AF Antastica","2023/2024","2","C",5063
+"Harroui","Fu","AF Antastica","2023/2024","11","C",5688
+"Pinamonti","Fu","AF Antastica","2023/2024","22","A",2038
+"Simeone","Fu","AF Antastica","2023/2024","1","A",2061
+"Martinez L.","Fu","AF Antastica","2023/2024","245","A",2764
+"Colombo","Fu","AF Antastica","2023/2024","13","A",4923
+"Castellanos","Fu","AF Antastica","2023/2024","3","A",6226
+"Krstovic","Fu","AF Antastica","2023/2024","11","A",6435
+"Ospina","Gullo","Deportivo la Carogna","2018/2019",NA,"P",2468
+"Karnezis","Gullo","Deportivo la Carogna","2018/2019",NA,"P",570
+"Meret","Gullo","Deportivo la Carogna","2018/2019",NA,"P",572
+"Kolarov","Gullo","Deportivo la Carogna","2018/2019",NA,"D",2214
+"Ceppitelli","Gullo","Deportivo la Carogna","2018/2019",NA,"D",1866
+"Masiello","Gullo","Deportivo la Carogna","2018/2019",NA,"D",15
+"Toloi","Gullo","Deportivo la Carogna","2018/2019",NA,"D",695
+"Colley","Gullo","Deportivo la Carogna","2018/2019",NA,"D",2784
+"Manolas","Gullo","Deportivo la Carogna","2018/2019",NA,"D",459
+NA,"Gullo","Deportivo la Carogna","2018/2019",NA,"D",NA
+NA,"Gullo","Deportivo la Carogna","2018/2019",NA,"D",NA
+"Candreva","Gullo","Deportivo la Carogna","2018/2019",NA,"C",332
+"De Roon","Gullo","Deportivo la Carogna","2018/2019",NA,"C",22
+"Verdi","Gullo","Deportivo la Carogna","2018/2019",NA,"C",376
+"Veretout","Gullo","Deportivo la Carogna","2018/2019",NA,"C",2215
+"Nainggolan","Gullo","Deportivo la Carogna","2018/2019",NA,"C",467
+"Barak","Gullo","Deportivo la Carogna","2018/2019",NA,"C",2172
+"Pastore","Gullo","Deportivo la Carogna","2018/2019",NA,"C",2378
+"Berisha V.","Gullo","Deportivo la Carogna","2018/2019",NA,"C",2771
+"Antenucci","Gullo","Deportivo la Carogna","2018/2019",NA,"A",2267
+"Callejon","Gullo","Deportivo la Carogna","2018/2019",NA,"A",406
+"Petagna","Gullo","Deportivo la Carogna","2018/2019",NA,"A",383
+"Icardi","Gullo","Deportivo la Carogna","2018/2019",NA,"A",277
+"Di Francesco","Gullo","Deportivo la Carogna","2018/2019",NA,"A",NA
+"Pjaca","Gullo","Deportivo la Carogna","2018/2019",NA,"A",1998
+"Sportiello","Gullo","Deportivo la Carogna","2019/2020",NA,"P",4
+NA,"Gullo","Deportivo la Carogna","2019/2020",NA,"P",NA
+NA,"Gullo","Deportivo la Carogna","2019/2020",NA,"P",NA
+"Ceppitelli","Gullo","Deportivo la Carogna","2019/2020",NA,"D",1866
+"Kolarov","Gullo","Deportivo la Carogna","2019/2020","44","D",2214
+"Rodriguez R.","Gullo","Deportivo la Carogna","2019/2020",NA,"D",2169
+"Calabria","Gullo","Deportivo la Carogna","2019/2020",NA,"D",357
+"Ghoulam","Gullo","Deportivo la Carogna","2019/2020",NA,"D",390
+"Asamoah","Gullo","Deportivo la Carogna","2019/2020",NA,"D",295
+"Samir","Gullo","Deportivo la Carogna","2019/2020",NA,"D",790
+"Cacciatore","Gullo","Deportivo la Carogna","2019/2020",NA,"D",99
+"Soriano","Gullo","Deportivo la Carogna","2019/2020",NA,"C",2625
+"Bernardeschi","Gullo","Deportivo la Carogna","2019/2020",NA,"C",184
+"Perotti","Gullo","Deportivo la Carogna","2019/2020",NA,"C",237
+"Jankto","Gullo","Deportivo la Carogna","2019/2020",NA,"C",1987
+"Linetty","Gullo","Deportivo la Carogna","2019/2020",NA,"C",2008
+"Ruiz","Gullo","Deportivo la Carogna","2019/2020",NA,"C",2775
+"Callejon","Gullo","Deportivo la Carogna","2019/2020",NA,"C",406
+NA,"Gullo","Deportivo la Carogna","2019/2020",NA,"C",NA
+"Lukaku","Gullo","Deportivo la Carogna","2019/2020","220","A",2531
+"Pinamonti","Gullo","Deportivo la Carogna","2019/2020",NA,"A",2038
+"Babacar","Gullo","Deportivo la Carogna","2019/2020",NA,"A",183
+"Castillejo","Gullo","Deportivo la Carogna","2019/2020",NA,"A",2692
+"Okaka","Gullo","Deportivo la Carogna","2019/2020",NA,"A",4324
+"Di Francesco","Gullo","Deportivo la Carogna","2019/2020",NA,"A",NA
+"Audero","Gullo","Sbocca Juniors","2020/2021",NA,"P",761
+"Perin","Gullo","Sbocca Juniors","2020/2021",NA,"P",218
+NA,"Gullo","Sbocca Juniors","2020/2021",NA,"P",NA
+"D'ambrosio","Gullo","Sbocca Juniors","2020/2021",NA,"D",253
+"Caldirola","Gullo","Sbocca Juniors","2020/2021",NA,"D",4958
+"Romagnoli","Gullo","Sbocca Juniors","2020/2021",NA,"D",460
+"Chiellini","Gullo","Sbocca Juniors","2020/2021",NA,"D",288
+"Gagliolo","Gullo","Sbocca Juniors","2020/2021",NA,"D",73
+"Bonucci","Gullo","Sbocca Juniors","2020/2021",NA,"D",286
+"Faraoni","Gullo","Sbocca Juniors","2020/2021",NA,"D",581
+"Toloi","Gullo","Sbocca Juniors","2020/2021",NA,"D",695
+"Zaccagni","Gullo","Sbocca Juniors","2020/2021",NA,"C",632
+"Malinovskyi","Gullo","Sbocca Juniors","2020/2021",NA,"C",4427
+"Nainggolan","Gullo","Sbocca Juniors","2020/2021",NA,"C",467
+"Zaniolo","Gullo","Sbocca Juniors","2020/2021",NA,"C",2766
+"Pellegrini Lo.","Gullo","Sbocca Juniors","2020/2021",NA,"C",530
+"Locatelli","Gullo","Sbocca Juniors","2020/2021",NA,"C",827
+"Vidal","Gullo","Sbocca Juniors","2020/2021","40","C",2414
+"Bentancur","Gullo","Sbocca Juniors","2020/2021",NA,"C",2166
+"Immobile","Gullo","Sbocca Juniors","2020/2021",NA,"A",785
+"Vlahovic","Gullo","Sbocca Juniors","2020/2021",NA,"A",2841
+"Simeone","Gullo","Sbocca Juniors","2020/2021",NA,"A",2061
+"Insigne","Gullo","Sbocca Juniors","2020/2021",NA,"A",409
+"Mertens","Gullo","Sbocca Juniors","2020/2021",NA,"A",410
+"Correa","Gullo","Sbocca Juniors","2020/2021",NA,"A",495
+"Rui Patricio","Gullo","Sbocca Juniors","2021/2022","34","P",4270
+"Fuzato","Gullo","Sbocca Juniors","2021/2022","1","P",2781
+"Boer","Gullo","Sbocca Juniors","2021/2022","1","P",5304
+"Cuadrado","Gullo","Sbocca Juniors","2021/2022","45","D",697
+"Faraoni","Gullo","Sbocca Juniors","2021/2022","14","D",581
+"Bremer","Gullo","Sbocca Juniors","2021/2022","8","D",2788
+"Chiellini","Gullo","Sbocca Juniors","2021/2022","7","D",288
+"Yoshida","Gullo","Sbocca Juniors","2021/2022","3","D",4895
+"Chiriches","Gullo","Sbocca Juniors","2021/2022","1","D",640
+"Odriozola","Gullo","Sbocca Juniors","2021/2022","5","D",2614
+"Ismajli","Gullo","Sbocca Juniors","2021/2022","1","D",5010
+"Malinovskyi","Gullo","Sbocca Juniors","2021/2022","40","C",4427
+"Pasalic","Gullo","Sbocca Juniors","2021/2022","12","C",2077
+"Barak","Gullo","Sbocca Juniors","2021/2022","23","C",2172
+"Locatelli","Gullo","Sbocca Juniors","2021/2022","20","C",827
+"Damsgaard","Gullo","Sbocca Juniors","2021/2022","24","C",4978
+"Perisic","Gullo","Sbocca Juniors","2021/2022","30","C",704
+"Bajrami","Gullo","Sbocca Juniors","2021/2022","8","C",5451
+"Pobega","Gullo","Sbocca Juniors","2021/2022","2","C",5298
+"Ibrahimovic","Gullo","Sbocca Juniors","2021/2022","81","A",2530
+"Joao Pedro","Gullo","Sbocca Juniors","2021/2022","91","A",1874
+"Nzola","Gullo","Sbocca Juniors","2021/2022","1","A",5336
+"Simy","Gullo","Sbocca Juniors","2021/2022","40","A",1997
+"Gyasi","Gullo","Sbocca Juniors","2021/2022","1","A",4992
+"Simeone","Gullo","Sbocca Juniors","2021/2022","4","A",2061
+"Montipo'","Gullo","Sbocca Juniors","2022/2023","10","P",4957
+"Silvestri","Gullo","Sbocca Juniors","2022/2023","3","P",2211
+"Provedel","Gullo","Sbocca Juniors","2022/2023","20","P",2814
+"Bastoni","Gullo","Sbocca Juniors","2022/2023","19","D",2120
+"Smalling","Gullo","Sbocca Juniors","2022/2023","17","D",4245
+"Udogie","Gullo","Sbocca Juniors","2022/2023","19","D",5355
+"Biraghi","Gullo","Sbocca Juniors","2022/2023","16","D",252
+"Mancini","Gullo","Sbocca Juniors","2022/2023","7","D",2296
+"Erlic","Gullo","Sbocca Juniors","2022/2023","10","D",4982
+"Mario Rui","Gullo","Sbocca Juniors","2022/2023","5","D",142
+"Ismajli","Gullo","Sbocca Juniors","2022/2023","1","D",5010
+"Milinkovic-Savic","Gullo","Sbocca Juniors","2022/2023","71","C",645
+"Bonaventura","Gullo","Sbocca Juniors","2022/2023","23","C",367
+"Brozovic","Gullo","Sbocca Juniors","2022/2023","15","C",265
+"Ilic","Gullo","Sbocca Juniors","2022/2023","5","C",5007
+"Sensi","Gullo","Sbocca Juniors","2022/2023","3","C",1978
+"Maggiore","Gullo","Sbocca Juniors","2022/2023","6","C",4988
+"Makengo","Gullo","Sbocca Juniors","2022/2023","1","C",5329
+"Matic","Gullo","Sbocca Juniors","2022/2023","2","C",2528
+"Zapata D.","Gullo","Sbocca Juniors","2022/2023","117","A",608
+"Caprari","Gullo","Sbocca Juniors","2022/2023","13","A",1958
+"Jovic","Gullo","Sbocca Juniors","2022/2023","67","A",2438
+"Sanabria","Gullo","Sbocca Juniors","2022/2023","42","A",479
+"Milik","Gullo","Sbocca Juniors","2022/2023","3","A",2012
+"Success","Gullo","Sbocca Juniors","2022/2023","1","A",5676
+"Audero","Gullo","Sbocca Juniors","2023/2024","1","P",761
+"Di Gennaro","Gullo","Sbocca Juniors","2023/2024","1","P",1926
+"Sommer","Gullo","Sbocca Juniors","2023/2024","41","P",2428
+"Toloi","Gullo","Sbocca Juniors","2023/2024","1","D",695
+"Rodriguez R.","Gullo","Sbocca Juniors","2023/2024","1","D",2169
+"Danilo","Gullo","Sbocca Juniors","2023/2024","26","D",4237
+"Rrahmani","Gullo","Sbocca Juniors","2023/2024","20","D",4409
+"Mari'","Gullo","Sbocca Juniors","2023/2024","1","D",4904
+"Bradaric","Gullo","Sbocca Juniors","2023/2024","1","D",5532
+"Baschirotto","Gullo","Sbocca Juniors","2023/2024","7","D",5835
+"Natan","Gullo","Sbocca Juniors","2023/2024","4","D",6396
+"De Roon","Gullo","Sbocca Juniors","2023/2024","2","C",22
+"Lazovic","Gullo","Sbocca Juniors","2023/2024","5","C",236
+"Pulisic","Gullo","Sbocca Juniors","2023/2024","52","C",2423
+"Zambo Anguissa","Gullo","Sbocca Juniors","2023/2024","9","C",4220
+"Arthur","Gullo","Sbocca Juniors","2023/2024","1","C",4285
+"Bajrami","Gullo","Sbocca Juniors","2023/2024","12","C",5451
+"Ederson D.s.","Gullo","Sbocca Juniors","2023/2024","3","C",5792
+"Kamada","Gullo","Sbocca Juniors","2023/2024","25","C",5948
+"Belotti","Gullo","Sbocca Juniors","2023/2024","3","A",441
+"Kean","Gullo","Sbocca Juniors","2023/2024","1","A",2097
+"Lukaku","Gullo","Sbocca Juniors","2023/2024","199","A",2531
+"Barrow","Gullo","Sbocca Juniors","2023/2024","1","A",2719
+"Gonzalez N.","Gullo","Sbocca Juniors","2023/2024","80","A",4179
+"Mota","Gullo","Sbocca Juniors","2023/2024","1","A",5882
+"Berisha","Jack","Fanta Figa","2018/2019",NA,"P",316
+"Sorrentino","Jack","Fanta Figa","2018/2019",NA,"P",413
+NA,"Jack","Fanta Figa","2018/2019",NA,"P",NA
+"Vrsaljko","Jack","Fanta Figa","2018/2019",NA,"D",523
+"Mario Rui","Jack","Fanta Figa","2018/2019",NA,"D",142
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"D",NA
+"Luis Alberto","Jack","Fanta Figa","2018/2019",NA,"C",2085
+"Perisic","Jack","Fanta Figa","2018/2019",NA,"C",704
+"Kurtic","Jack","Fanta Figa","2018/2019",NA,"C",28
+NA,"Jack","Fanta Figa","2018/2019",NA,"C",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"C",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"C",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"C",NA
+NA,"Jack","Fanta Figa","2018/2019",NA,"C",NA
+"Quagliarella","Jack","Fanta Figa","2018/2019",NA,"A",568
+"Caputo","Jack","Fanta Figa","2018/2019",NA,"A",2819
+"Insigne","Jack","Fanta Figa","2018/2019",NA,"A",409
+"Stepinski","Jack","Fanta Figa","2018/2019",NA,"A",2327
+"Mertens","Jack","Fanta Figa","2018/2019",NA,"A",410
+"Iago Falque","Jack","Fanta Figa","2018/2019",NA,"A",475
+"Ospina","Jack","Fanta Figa","2019/2020",NA,"P",2468
+NA,"Jack","Fanta Figa","2019/2020",NA,"P",NA
+NA,"Jack","Fanta Figa","2019/2020",NA,"P",NA
+"Chancellor","Jack","Fanta Figa","2019/2020",NA,"D",4429
+"Gagliolo","Jack","Fanta Figa","2019/2020",NA,"D",73
+"Bocchetti","Jack","Fanta Figa","2019/2020",NA,"D",4420
+"Gosens","Jack","Fanta Figa","2019/2020",NA,"D",2160
+"Godin","Jack","Fanta Figa","2019/2020",NA,"D",2572
+"Ghiglione","Jack","Fanta Figa","2019/2020",NA,"D",244
+"D'ambrosio","Jack","Fanta Figa","2019/2020",NA,"D",253
+"Bonifazi","Jack","Fanta Figa","2019/2020",NA,"D",2192
+"Duncan","Jack","Fanta Figa","2019/2020",NA,"C",526
+"Sensi","Jack","Fanta Figa","2019/2020",NA,"C",1978
+"Kulusevski","Jack","Fanta Figa","2019/2020",NA,"C",2833
+"Kurtic","Jack","Fanta Figa","2019/2020",NA,"C",28
+"Ramsey","Jack","Fanta Figa","2019/2020",NA,"C",2472
+"Castrovilli","Jack","Fanta Figa","2019/2020",NA,"C",4377
+"Traore Hj","Jack","Fanta Figa","2019/2020",NA,"C",NA
+"Lucas Leiva","Jack","Fanta Figa","2019/2020",NA,"C",2209
+"Kouame'","Jack","Fanta Figa","2019/2020",NA,"A",2762
+"Zaza","Jack","Fanta Figa","2019/2020",NA,"A",315
+"Gervinho","Jack","Fanta Figa","2019/2020",NA,"A",474
+"Zapata D.","Jack","Fanta Figa","2019/2020",NA,"A",608
+"Joao Pedro","Jack","Fanta Figa","2019/2020",NA,"A",1874
+NA,"Jack","Fanta Figa","2019/2020",NA,"A",NA
+"Donnarumma G.","Jack","Fanta Figa","2020/2021",NA,"P",350
+"Tatarusanu","Jack","Fanta Figa","2020/2021",NA,"P",160
+"Cordaz","Jack","Fanta Figa","2020/2021",NA,"P",1889
+"Gosens","Jack","Fanta Figa","2020/2021",NA,"D",2160
+"Young","Jack","Fanta Figa","2020/2021",NA,"D",2707
+"Smalling","Jack","Fanta Figa","2020/2021",NA,"D",4245
+"Gunter","Jack","Fanta Figa","2020/2021",NA,"D",2758
+"Ayhan","Jack","Fanta Figa","2020/2021",NA,"D",4979
+"Letizia","Jack","Fanta Figa","2020/2021",NA,"D",74
+"Ferrari G.","Jack","Fanta Figa","2020/2021",NA,"D",1895
+"Karsdorp","Jack","Fanta Figa","2020/2021",NA,"D",2180
+"Candreva","Jack","Fanta Figa","2020/2021",NA,"C",332
+"Kessie","Jack","Fanta Figa","2020/2021",NA,"C",NA
+"Zielinski","Jack","Fanta Figa","2020/2021",NA,"C",152
+"Pasalic","Jack","Fanta Figa","2020/2021",NA,"C",2077
+"Kurtic","Jack","Fanta Figa","2020/2021",NA,"C",28
+"Cyprien","Jack","Fanta Figa","2020/2021",NA,"C",2357
+"Soriano","Jack","Fanta Figa","2020/2021",NA,"C",2625
+NA,"Jack","Fanta Figa","2020/2021",NA,"C",NA
+"Zapata D.","Jack","Fanta Figa","2020/2021",NA,"A",608
+"Joao Pedro","Jack","Fanta Figa","2020/2021",NA,"A",1874
+"Caicedo","Jack","Fanta Figa","2020/2021",NA,"A",2284
+"Kouame'","Jack","Fanta Figa","2020/2021",NA,"A",2762
+"Lapadula","Jack","Fanta Figa","2020/2021",NA,"A",1939
+"Rafael Leao","Jack","Fanta Figa","2020/2021",NA,"A",4510
+"Maignan","Jack","SS FelLazio","2021/2022","32","P",4312
+"Plizzari","Jack","SS FelLazio","2021/2022","1","P",2091
+"Tatarusanu","Jack","SS FelLazio","2021/2022","1","P",160
+"Skriniar","Jack","SS FelLazio","2021/2022","29","D",798
+"Karsdorp","Jack","SS FelLazio","2021/2022","15","D",2180
+"Di Lorenzo","Jack","SS FelLazio","2021/2022","13","D",2816
+"Colley","Jack","SS FelLazio","2021/2022","8","D",2784
+"Florenzi","Jack","SS FelLazio","2021/2022","10","D",464
+"Amian","Jack","SS FelLazio","2021/2022","1","D",5475
+"Ceppitelli","Jack","SS FelLazio","2021/2022","1","D",1866
+"Ghiglione","Jack","SS FelLazio","2021/2022","1","D",244
+"Milinkovic-Savic","Jack","SS FelLazio","2021/2022","53","C",645
+"Barella","Jack","SS FelLazio","2021/2022","39","C",1870
+"Traore Hj","Jack","SS FelLazio","2021/2022","12","C",NA
+"Strootman","Jack","SS FelLazio","2021/2022","1","C",470
+"Demme","Jack","SS FelLazio","2021/2022","1","C",4725
+"Ekdal","Jack","SS FelLazio","2021/2022","1","C",2391
+"Tonali","Jack","SS FelLazio","2021/2022","7","C",4449
+"Coutibaly M.","Jack","SS FelLazio","2021/2022","1","C",NA
+"Martinez L.","Jack","SS FelLazio","2021/2022","168","A",2764
+"Politano","Jack","SS FelLazio","2021/2022","8","A",536
+"Boga","Jack","SS FelLazio","2021/2022","6","A",2832
+"Gonzalez N.","Jack","SS FelLazio","2021/2022","57","A",4179
+"Deulofeu","Jack","SS FelLazio","2021/2022","12","A",2119
+"Carles Perez","Jack","SS FelLazio","2021/2022","1","A",4884
+"Szczesny","Jack","SS FelLazio","2022/2023","41","P",453
+"Falcone","Jack","SS FelLazio","2022/2023","1","P",2134
+"Perin","Jack","SS FelLazio","2022/2023","1","P",218
+"Bremer","Jack","SS FelLazio","2022/2023","26","D",2788
+"Rrahmani","Jack","SS FelLazio","2022/2023","17","D",4409
+"Bastoni S.","Jack","SS FelLazio","2022/2023","14","D",5332
+"Parisi","Jack","SS FelLazio","2022/2023","6","D",5449
+"D'ambrosio","Jack","SS FelLazio","2022/2023","1","D",253
+"Kyriakopoulos","Jack","SS FelLazio","2022/2023","6","D",4530
+"Medel","Jack","SS FelLazio","2022/2023","1","D",272
+"Sernicola","Jack","SS FelLazio","2022/2023","1","D",2847
+"Calhanoglu","Jack","SS FelLazio","2022/2023","52","C",2194
+"Luis Alberto","Jack","SS FelLazio","2022/2023","32","C",2085
+"Bajrami","Jack","SS FelLazio","2022/2023","16","C",5451
+"Tameze","Jack","SS FelLazio","2022/2023","5","C",4890
+"Pessina","Jack","SS FelLazio","2022/2023","7","C",2741
+"Gagliardini","Jack","SS FelLazio","2022/2023","1","C",801
+"Schouten","Jack","SS FelLazio","2022/2023","1","C",4393
+"Kovalenko","Jack","SS FelLazio","2022/2023","1","C",5397
+"Dybala","Jack","SS FelLazio","2022/2023","131","A",309
+"Pinamonti","Jack","SS FelLazio","2022/2023","51","A",2038
+"Correa","Jack","SS FelLazio","2022/2023","13","A",495
+"Lookman","Jack","SS FelLazio","2022/2023","48","A",4730
+"Okereke","Jack","SS FelLazio","2022/2023","10","A",5515
+"Kouame'","Jack","SS FelLazio","2022/2023","1","A",2762
+"Sirigu","Pape","Patatinaikos","2018/2019",NA,"P",2179
+NA,"Pape","Patatinaikos","2018/2019",NA,"P",NA
+NA,"Pape","Patatinaikos","2018/2019",NA,"P",NA
+"Milenkovic","Pape","Patatinaikos","2018/2019",NA,"D",2164
+"Mattiello","Pape","Patatinaikos","2018/2019",NA,"D",106
+"Hateboer","Pape","Patatinaikos","2018/2019",NA,"D",2130
+"Romagnoli","Pape","Patatinaikos","2018/2019",NA,"D",460
+"De Silvestri","Pape","Patatinaikos","2018/2019",NA,"D",487
+"Helander","Pape","Patatinaikos","2018/2019",NA,"D",615
+"Stryger Larsen","Pape","Patatinaikos","2018/2019",NA,"D",2315
+"Criscito","Pape","Patatinaikos","2018/2019",NA,"D",2759
+"Barella","Pape","Patatinaikos","2018/2019",NA,"C",1870
+"Bonaventura","Pape","Patatinaikos","2018/2019",NA,"C",367
+"Freuler","Pape","Patatinaikos","2018/2019",NA,"C",788
+"Bernardeschi","Pape","Patatinaikos","2018/2019",NA,"C",184
+"Pellegrini Lo.","Pape","Patatinaikos","2018/2019",NA,"C",530
+NA,"Pape","Patatinaikos","2018/2019",NA,"C",NA
+NA,"Pape","Patatinaikos","2018/2019",NA,"C",NA
+NA,"Pape","Patatinaikos","2018/2019",NA,"C",NA
+"Pavoletti","Pape","Patatinaikos","2018/2019",NA,"A",247
+"Immobile","Pape","Patatinaikos","2018/2019",NA,"A",785
+"Under","Pape","Patatinaikos","2018/2019",NA,"A",2201
+"Inglese","Pape","Patatinaikos","2018/2019",NA,"A",123
+"Falcinelli","Pape","Patatinaikos","2018/2019",NA,"A",532
+"Zaza","Pape","Patatinaikos","2018/2019","Sansone","A",315
+"Joronen","Pape","Patatinaikos","2019/2020",NA,"P",4425
+"Audero","Pape","Patatinaikos","2019/2020",NA,"P",761
+"Pau Lopez","Pape","Patatinaikos","2019/2020",NA,"P",4419
+"Hernandez T.","Pape","Patatinaikos","2019/2020",NA,"D",4292
+"Alex Sandro","Pape","Patatinaikos","2019/2020",NA,"D",662
+"Toloi","Pape","Patatinaikos","2019/2020",NA,"D",695
+"Manolas","Pape","Patatinaikos","2019/2020",NA,"D",459
+"De Silvestri","Pape","Patatinaikos","2019/2020",NA,"D",487
+NA,"Pape","Patatinaikos","2019/2020",NA,"D",NA
+NA,"Pape","Patatinaikos","2019/2020",NA,"D",NA
+NA,"Pape","Patatinaikos","2019/2020",NA,"D",NA
+"De Paul","Pape","Patatinaikos","2019/2020",NA,"C",1996
+"Milinkovic-Savic","Pape","Patatinaikos","2019/2020",NA,"C",645
+"Rog","Pape","Patatinaikos","2019/2020",NA,"C",2076
+"Ansaldi","Pape","Patatinaikos","2019/2020",NA,"C",706
+NA,"Pape","Patatinaikos","2019/2020",NA,"C",NA
+NA,"Pape","Patatinaikos","2019/2020",NA,"C",NA
+NA,"Pape","Patatinaikos","2019/2020",NA,"C",NA
+NA,"Pape","Patatinaikos","2019/2020",NA,"C",NA
+"Quagliarella","Pape","Patatinaikos","2019/2020",NA,"A",568
+"Insigne","Pape","Patatinaikos","2019/2020",NA,"A",409
+"Berardi","Pape","Patatinaikos","2019/2020",NA,"A",531
+"Petagna","Pape","Patatinaikos","2019/2020",NA,"A",383
+"Boateng","Pape","Patatinaikos","2019/2020",NA,"A",771
+NA,"Pape","Patatinaikos","2019/2020",NA,"A",NA
+"Reina","Pape","Patatinaikos","2021/2022","29","P",387
+"Silvestri","Pape","Patatinaikos","2021/2022","12","P",2211
+"Strakosha","Pape","Patatinaikos","2021/2022","1","P",1934
+"Zappacosta","Pape","Patatinaikos","2021/2022","17","D",554
+"Koulibaly","Pape","Patatinaikos","2021/2022","22","D",392
+"Calabria","Pape","Patatinaikos","2021/2022","14","D",357
+"Spinazzola","Pape","Patatinaikos","2021/2022","7","D",1852
+"Ansaldi","Pape","Patatinaikos","2021/2022","3","D",706
+"De Silvestri","Pape","Patatinaikos","2021/2022","6","D",487
+"Vina","Pape","Patatinaikos","2021/2022","12","D",5509
+"Ibanez","Pape","Patatinaikos","2021/2022","4","D",4331
+"Chiesa","Pape","Patatinaikos","2021/2022","52","C",2002
+"Candreva","Pape","Patatinaikos","2021/2022","10","C",332
+"Miranchuk","Pape","Patatinaikos","2021/2022","6","C",5001
+"Ilic","Pape","Patatinaikos","2021/2022","4","C",5007
+"Pereiro","Pape","Patatinaikos","2021/2022","2","C",4886
+"Verre","Pape","Patatinaikos","2021/2022","2","C",600
+"Cristante","Pape","Patatinaikos","2021/2022","3","C",779
+"Lopez M.","Pape","Patatinaikos","2021/2022","1","C",4681
+"Belotti","Pape","Patatinaikos","2021/2022","77","A",441
+"Dybala","Pape","Patatinaikos","2021/2022","134","A",309
+"Mertens","Pape","Patatinaikos","2021/2022","24","A",410
+"Raspadori","Pape","Patatinaikos","2021/2022","46","A",4371
+"El Shaarawy","Pape","Patatinaikos","2021/2022","1","A",795
+"Bonazzoli","Pape","Patatinaikos","2021/2022","1","A",505
+"Skorupski","Pape","Scrotone","2023/2024","9","P",133
+"Rui Patricio","Pape","Scrotone","2023/2024","30","P",4270
+"Svilar","Pape","Scrotone","2023/2024","1","P",5841
+"Dimarco","Pape","Scrotone","2023/2024","35","D",254
+"Faraoni","Pape","Scrotone","2023/2024","7","D",581
+"Martin","Pape","Scrotone","2023/2024","2","D",2593
+"Smalling","Pape","Scrotone","2023/2024","11","D",4245
+"Bellanova","Pape","Scrotone","2023/2024","5","D",4887
+"Casale","Pape","Scrotone","2023/2024","5","D",5498
+"Olivera","Pape","Scrotone","2023/2024","3","D",5840
+"Azzi","Pape","Scrotone","2023/2024","1","D",6231
+"El Shaarawy","Pape","Scrotone","2023/2024","8","C",795
+"Luis Alberto","Pape","Scrotone","2023/2024","35","C",2085
+"Elmas","Pape","Scrotone","2023/2024","7","C",4479
+"Messias","Pape","Scrotone","2023/2024","1","C",4970
+"Baldanzi","Pape","Scrotone","2023/2024","11","C",5823
+"Lovric","Pape","Scrotone","2023/2024","10","C",5850
+"Ciurria","Pape","Scrotone","2023/2024","11","C",5880
+"Fabbian","Pape","Scrotone","2023/2024","1","C",6206
+"Dybala","Pape","Scrotone","2023/2024","100","A",309
+"Scamacca","Pape","Scrotone","2023/2024","86","A",2137
+"Raspadori","Pape","Scrotone","2023/2024","6","A",4371
+"Dia","Pape","Scrotone","2023/2024","90","A",5672
+"Lauriente'","Pape","Scrotone","2023/2024","20","A",6060
+"Karlsson","Pape","Scrotone","2023/2024","1","A",6459
+"Strakosha","Pasol","MVPippe","2018/2019",NA,"P",1934
+NA,"Pasol","MVPippe","2018/2019",NA,"P",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"P",NA
+"Palomino","Pasol","MVPippe","2018/2019",NA,"D",2181
+"Cancelo","Pasol","MVPippe","2018/2019",NA,"D",2310
+"Rugani","Pasol","MVPippe","2018/2019",NA,"D",294
+NA,"Pasol","MVPippe","2018/2019",NA,"D",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"D",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"D",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"D",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"D",NA
+"Nzonzi","Pasol","MVPippe","2018/2019",NA,"C",2617
+"Calhanoglu","Pasol","MVPippe","2018/2019",NA,"C",2194
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
+"Piatek","Pasol","MVPippe","2018/2019",NA,"A",2756
+"Papu Gomez","Pasol","MVPippe","2018/2019",NA,"A",NA
+"Dybala","Pasol","MVPippe","2018/2019",NA,"A",309
+"La Gumina","Pasol","MVPippe","2018/2019",NA,"A",447
+"Kluivert","Pasol","MVPippe","2018/2019",NA,"A",2779
+NA,"Pasol","MVPippe","2018/2019",NA,"A",NA
+"Reina","Pasol","MVPippe","2019/2020",NA,"P",387
+"Donnarumma G.","Pasol","MVPippe","2019/2020",NA,"P",350
+"Radu I.","Pasol","MVPippe","2019/2020",NA,"P",1843
+"Criscito","Pasol","MVPippe","2019/2020",NA,"D",2759
+"Tomiyasu","Pasol","MVPippe","2019/2020",NA,"D",4422
+"Caldara","Pasol","MVPippe","2019/2020",NA,"D",1847
+"Danilo L.","Pasol","MVPippe","2019/2020",NA,"D",NA
+"Castagne","Pasol","MVPippe","2019/2020",NA,"D",2197
+"Danilo","Pasol","MVPippe","2019/2020",NA,"D",4237
+"Palomino","Pasol","MVPippe","2019/2020",NA,"D",2181
+NA,"Pasol","MVPippe","2019/2020",NA,"D",NA
+"Pulgar","Pasol","MVPippe","2019/2020",NA,"C",644
+"Pellegrini Lo.","Pasol","MVPippe","2019/2020",NA,"C",530
+"Bennacer","Pasol","MVPippe","2019/2020",NA,"C",2818
+"Pjanic","Pasol","MVPippe","2019/2020",NA,"C",469
+"Zielinski","Pasol","MVPippe","2019/2020",NA,"C",152
+"Tonali","Pasol","MVPippe","2019/2020",NA,"C",4449
+"Cuadrado","Pasol","MVPippe","2019/2020",NA,"C",697
+NA,"Pasol","MVPippe","2019/2020",NA,"C",NA
+"Inglese","Pasol","MVPippe","2019/2020",NA,"A",123
+"Donnarumma A.","Pasol","MVPippe","2019/2020",NA,"A",NA
+"Pavoletti","Pasol","MVPippe","2019/2020",NA,"A",247
+"Under","Pasol","MVPippe","2019/2020",NA,"A",2201
+"Mertens","Pasol","MVPippe","2019/2020",NA,"A",410
+"Belotti","Pasol","MVPippe","2019/2020",NA,"A",441
+"Szczesny","Pasol","MVPippe","2020/2021","28","P",453
+"Sirigu","Pasol","MVPippe","2020/2021","5","P",2179
+"Buffon","Pasol","MVPippe","2020/2021","3","P",282
+"Koulibaly","Pasol","MVPippe","2020/2021","26","D",392
+"Hateboer","Pasol","MVPippe","2020/2021","25","D",2130
+"Alex Sandro","Pasol","MVPippe","2020/2021","11","D",662
+"Mancini","Pasol","MVPippe","2020/2021","6","D",2296
+"Djimsiti","Pasol","MVPippe","2020/2021","2","D",787
+"Kjaer","Pasol","MVPippe","2020/2021","6","D",2633
+"Dalot","Pasol","MVPippe","2020/2021","1","D",4242
+"Demiral","Pasol","MVPippe","2020/2021","1","D",4332
+"Chiesa","Pasol","MVPippe","2020/2021","23","C",2002
+"Veretout","Pasol","MVPippe","2020/2021","24","C",2215
+"Djuricic","Pasol","MVPippe","2020/2021","17","C",1995
+"Lazzari","Pasol","MVPippe","2020/2021","8","C",2263
+"Brozovic","Pasol","MVPippe","2020/2021","1","C",265
+"Bakayoko","Pasol","MVPippe","2020/2021","5","C",2639
+"Ricci S.","Pasol","MVPippe","2020/2021","4","C",5453
+"Saelemaekers","Pasol","MVPippe","2020/2021","1","C",4892
+"Belotti","Pasol","MVPippe","2020/2021","108","A",441
+"Berardi","Pasol","MVPippe","2020/2021","49","A",531
+"Rebic","Pasol","MVPippe","2020/2021","30","A",186
+"Boga","Pasol","MVPippe","2020/2021","37","A",2832
+"Lozano","Pasol","MVPippe","2020/2021","3","A",4517
+"Lammers","Pasol","MVPippe","2020/2021","1","A",5292
+"Cragno","Pasol","HERTA VERNELLO","2021/2022","10","P",2178
+"Milinkovic-Savic V.","Pasol","HERTA VERNELLO","2021/2022","4","P",2170
+"Sirigu","Pasol","HERTA VERNELLO","2021/2022","5","P",2179
+"Molina N.","Pasol","HERTA VERNELLO","2021/2022","25","D",4998
+"Acerbi","Pasol","HERTA VERNELLO","2021/2022","14","D",513
+"De Ligt","Pasol","HERTA VERNELLO","2021/2022","10","D",4428
+"Biraghi","Pasol","HERTA VERNELLO","2021/2022","9","D",252
+"Criscito","Pasol","HERTA VERNELLO","2021/2022","4","D",2759
+"Zappa","Pasol","HERTA VERNELLO","2021/2022","1","D",4461
+"Marusic","Pasol","HERTA VERNELLO","2021/2022","1","D",2188
+"Demiral","Pasol","HERTA VERNELLO","2021/2022","2","D",4332
+"Luis Alberto","Pasol","HERTA VERNELLO","2021/2022","50","C",2085
+"Kulusevski","Pasol","HERTA VERNELLO","2021/2022","22","C",2833
+"Pereyra","Pasol","HERTA VERNELLO","2021/2022","26","C",302
+"Pessina","Pasol","HERTA VERNELLO","2021/2022","16","C",2741
+"De Roon","Pasol","HERTA VERNELLO","2021/2022","3","C",22
+"Elmas","Pasol","HERTA VERNELLO","2021/2022","5","C",4479
+"Krunic","Pasol","HERTA VERNELLO","2021/2022","1","C",148
+"Ihattaren","Pasol","HERTA VERNELLO","2021/2022","1","C",5689
+"Immobile","Pasol","HERTA VERNELLO","2021/2022","201","A",785
+"Rebic","Pasol","HERTA VERNELLO","2021/2022","8","A",186
+"Ilicic","Pasol","HERTA VERNELLO","2021/2022","24","A",177
+"Rafael Leao","Pasol","HERTA VERNELLO","2021/2022","46","A",4510
+"Petagna","Pasol","HERTA VERNELLO","2021/2022","1","A",383
+"Muriqi","Pasol","HERTA VERNELLO","2021/2022","1","A",5012
+"Gollini","Pasol","HERTA VERNELLO","2022/2023","26","P",610
+"Skorupski","Pasol","HERTA VERNELLO","2022/2023","4","P",133
+"Cragno","Pasol","HERTA VERNELLO","2022/2023","2","P",2178
+"Gosens","Pasol","HERTA VERNELLO","2022/2023","11","D",2160
+"Dodo'","Pasol","HERTA VERNELLO","2022/2023","16","D",5885
+"Romagnoli","Pasol","HERTA VERNELLO","2022/2023","9","D",460
+"Igor","Pasol","HERTA VERNELLO","2022/2023","8","D",4407
+"Maehle","Pasol","HERTA VERNELLO","2022/2023","10","D",5375
+"Toloi","Pasol","HERTA VERNELLO","2022/2023","5","D",695
+"Nuytinck","Pasol","HERTA VERNELLO","2022/2023","1","D",2280
+"Olivera","Pasol","HERTA VERNELLO","2022/2023","3","D",5840
+"Pellegrini Lo.","Pasol","HERTA VERNELLO","2022/2023","59","C",530
+"Traore Hj.","Pasol","HERTA VERNELLO","2022/2023","6","C",NA
+"Politano","Pasol","HERTA VERNELLO","2022/2023","16","C",536
+"Ederson D.s.","Pasol","HERTA VERNELLO","2022/2023","26","C",5792
+"Zambo Anguissa","Pasol","HERTA VERNELLO","2022/2023","6","C",4220
+"Elmas","Pasol","HERTA VERNELLO","2022/2023","3","C",4479
+"Marcos Antonio","Pasol","HERTA VERNELLO","2022/2023","1","C",5834
+"Krunic","Pasol","HERTA VERNELLO","2022/2023","1","C",148
+"Immobile","Pasol","HERTA VERNELLO","2022/2023","209","A",785
+"Muriel","Pasol","HERTA VERNELLO","2022/2023","51","A",507
+"Caputo","Pasol","HERTA VERNELLO","2022/2023","6","A",2819
+"Alvarez A.","Pasol","HERTA VERNELLO","2022/2023","1","A",5845
+"Ceesay","Pasol","HERTA VERNELLO","2022/2023","17","A",5836
+"Cancellieri","Pasol","HERTA VERNELLO","2022/2023","1","A",5500
+"Radunovic","Pasol","HERTA VERNELLO","2023/2024","2","P",3
+"Meret","Pasol","HERTA VERNELLO","2023/2024","37","P",572
+"Gollini","Pasol","HERTA VERNELLO","2023/2024","1","P",610
+"Calabria","Pasol","HERTA VERNELLO","2023/2024","4","D",357
+"Bremer","Pasol","HERTA VERNELLO","2023/2024","17","D",2788
+"Tomori","Pasol","HERTA VERNELLO","2023/2024","13","D",4751
+"Kalulu","Pasol","HERTA VERNELLO","2023/2024","1","D",4976
+"Llorente D.","Pasol","HERTA VERNELLO","2023/2024","1","D",5239
+"Ebosele","Pasol","HERTA VERNELLO","2023/2024","1","D",5848
+"Dodo'","Pasol","HERTA VERNELLO","2023/2024","12","D",5885
+"Posch","Pasol","HERTA VERNELLO","2023/2024","17","D",6066
+"Krunic","Pasol","HERTA VERNELLO","2023/2024","1","C",148
+"Felipe Anderson","Pasol","HERTA VERNELLO","2023/2024","49","C",335
+"Locatelli","Pasol","HERTA VERNELLO","2023/2024","1","C",827
+"Rovella","Pasol","HERTA VERNELLO","2023/2024","1","C",4459
+"Chukwueze","Pasol","HERTA VERNELLO","2023/2024","25","C",4856
+"Musah","Pasol","HERTA VERNELLO","2023/2024","1","C",5295
+"Ricci S.","Pasol","HERTA VERNELLO","2023/2024","7","C",5453
+"Ferguson","Pasol","HERTA VERNELLO","2023/2024","21","C",5858
+"Lapadula","Pasol","HERTA VERNELLO","2023/2024","1","A",1939
+"Karamoh","Pasol","HERTA VERNELLO","2023/2024","1","A",2325
+"Rafael Leao","Pasol","HERTA VERNELLO","2023/2024","191","A",4510
+"Thuram","Pasol","HERTA VERNELLO","2023/2024","60","A",4871
+"Isaksen","Pasol","HERTA VERNELLO","2023/2024","1","A",6398
+"Beltran L.","Pasol","HERTA VERNELLO","2023/2024","32","A",6409
+"Rui Patricio","Ricky","Tigrotto","2022/2023","36","P",4270
+"Sepe","Ricky","Tigrotto","2022/2023","2","P",159
+"Svilar","Ricky","Tigrotto","2022/2023","1","P",5841
+"Dumfries","Ricky","Tigrotto","2022/2023","30","D",5513
+"Di Lorenzo","Ricky","Tigrotto","2022/2023","16","D",2816
+"Kim","Ricky","Tigrotto","2022/2023","16","D",5892
+"Darmian","Ricky","Tigrotto","2022/2023","4","D",2525
+"Carlos Augusto","Ricky","Tigrotto","2022/2023","1","D",5877
+"Lucumi'","Ricky","Tigrotto","2022/2023","2","D",6042
+"Birindelli","Ricky","Tigrotto","2022/2023","8","D",5838
+"Ebosele","Ricky","Tigrotto","2022/2023","1","D",5848
+"Pasalic","Ricky","Tigrotto","2022/2023","20","C",2077
+"Candreva","Ricky","Tigrotto","2022/2023","7","C",332
+"Koopmeiners","Ricky","Tigrotto","2022/2023","27","C",5685
+"Strefezza","Ricky","Tigrotto","2022/2023","20","C",4486
+"Lobotka","Ricky","Tigrotto","2022/2023","8","C",4287
+"Lukic","Ricky","Tigrotto","2022/2023","19","C",2009
+"Vilhena","Ricky","Tigrotto","2022/2023","1","C",6025
+"Marin","Ricky","Tigrotto","2022/2023","1","C",4965
+"Osimhen","Ricky","Tigrotto","2022/2023","200","A",4661
+"Deulofeu","Ricky","Tigrotto","2022/2023","32","A",2119
+"Dia","Ricky","Tigrotto","2022/2023","1","A",5672
+"Nzola","Ricky","Tigrotto","2022/2023","20","A",5336
+"Verde","Ricky","Tigrotto","2022/2023","4","A",215
+"Zanimacchia","Ricky","Tigrotto","2022/2023","1","A",2842
+"Silvestri","Ricky","Tigrotto","2023/2024","4","P",2211
+"Caprile","Ricky","Tigrotto","2023/2024","1","P",4360
+"Turati","Ricky","Tigrotto","2023/2024","1","P",4867
+"Di Lorenzo","Ricky","Tigrotto","2023/2024","40","D",2816
+"Celik","Ricky","Tigrotto","2023/2024","1","D",4657
+"Dragusin","Ricky","Tigrotto","2023/2024","2","D",5365
+"Ebuehi","Ricky","Tigrotto","2023/2024","5","D",5480
+"Dumfries","Ricky","Tigrotto","2023/2024","30","D",5513
+"Cambiaso","Ricky","Tigrotto","2023/2024","24","D",5520
+"Bisseck","Ricky","Tigrotto","2023/2024","1","D",6217
+"Kristensen","Ricky","Tigrotto","2023/2024","7","D",6220
+"Candreva","Ricky","Tigrotto","2023/2024","32","C",332
+"Klaassen","Ricky","Tigrotto","2023/2024","1","C",4182
+"Strefezza","Ricky","Tigrotto","2023/2024","27","C",4486
+"Kostic","Ricky","Tigrotto","2023/2024","11","C",4711
+"Gudmundsson A.","Ricky","Tigrotto","2023/2024","17","C",5800
+"Lindstrom","Ricky","Tigrotto","2023/2024","25","C",5949
+"Rafia","Ricky","Tigrotto","2023/2024","1","C",6222
+"Folorunsho","Ricky","Tigrotto","2023/2024","1","C",6252
+"Berardi","Ricky","Tigrotto","2023/2024","160","A",531
+"Ngonge","Ricky","Tigrotto","2023/2024","14","A",6145
+"Almqvist","Ricky","Tigrotto","2023/2024","15","A",6207
+"Brenner","Ricky","Tigrotto","2023/2024","1","A",6213
+"Retegui","Ricky","Tigrotto","2023/2024","60","A",6228
+"Toure' E.","Ricky","Tigrotto","2023/2024","1","A",6229
+"Szczesny","Sacc","Bayer Leverdure","2018/2019","25","P",453
+"Perin","Sacc","Bayer Leverdure","2018/2019","5","P",218
+"MIlinkovic-Savic V.","Sacc","Bayer Leverdure","2018/2019","3","P",NA
+"Skriniar","Sacc","Bayer Leverdure","2018/2019","30","D",798
+"Bonucci","Sacc","Bayer Leverdure","2018/2019","19","D",286
+"Fazio","Sacc","Bayer Leverdure","2018/2019","17","D",2016
+"Benatia","Sacc","Bayer Leverdure","2018/2019","16","D",1931
+"Djourou","Sacc","Bayer Leverdure","2018/2019","3","D",2831
+"Rodriguez R.","Sacc","Bayer Leverdure","2018/2019","6","D",2169
+"Klavan","Sacc","Bayer Leverdure","2018/2019","2","D",2871
+"Calabria","Sacc","Bayer Leverdure","2018/2019","1","D",357
+"Costa","Sacc","Bayer Leverdure","2018/2019","35","C",NA
+"Suso","Sacc","Bayer Leverdure","2018/2019","36","C",375
+"Can","Sacc","Bayer Leverdure","2018/2019","19","C",2504
+"Zielinski","Sacc","Bayer Leverdure","2018/2019","21","C",152
+"Parolo","Sacc","Bayer Leverdure","2018/2019","16","C",342
+"Ciciretti","Sacc","Bayer Leverdure","2018/2019","7","C",2243
+"Bakayoko","Sacc","Bayer Leverdure","2018/2019","9","C",2639
+"Zajc","Sacc","Bayer Leverdure","2018/2019","7","C",2124
+"Ronaldo","Sacc","Bayer Leverdure","2018/2019","96","A",2610
+"Lasagna","Sacc","Bayer Leverdure","2018/2019","32","A",90
+"Defrel","Sacc","Bayer Leverdure","2018/2019","9","A",643
+"Cutrone","Sacc","Bayer Leverdure","2018/2019","16","A",2155
+"Castillejo","Sacc","Bayer Leverdure","2018/2019","6","A",2692
+"Martinez L.","Sacc","Bayer Leverdure","2018/2019","50","A",2764
+"Sepe","Sacc","Bayer Leverdure","2019/2020",NA,"P",159
+"Dragowski","Sacc","Bayer Leverdure","2019/2020",NA,"P",1917
+NA,"Sacc","Bayer Leverdure","2019/2020",NA,"P",NA
+"Toljan","Sacc","Bayer Leverdure","2019/2020",NA,"D",4426
+"Milenkovic","Sacc","Bayer Leverdure","2019/2020",NA,"D",2164
+"Luiz Felipe","Sacc","Bayer Leverdure","2019/2020",NA,"D",2335
+"Colley","Sacc","Bayer Leverdure","2019/2020",NA,"D",2784
+"Bruno Alves","Sacc","Bayer Leverdure","2019/2020",NA,"D",1864
+"Romero","Sacc","Bayer Leverdure","2019/2020",NA,"D",4307
+NA,"Sacc","Bayer Leverdure","2019/2020",NA,"D",NA
+NA,"Sacc","Bayer Leverdure","2019/2020",NA,"D",NA
+"Fofana","Sacc","Bayer Leverdure","2019/2020",NA,"C",1986
+"Kucka","Sacc","Bayer Leverdure","2019/2020",NA,"C",234
+"Zaniolo","Sacc","Bayer Leverdure","2019/2020",NA,"C",2766
+"Suso","Sacc","Bayer Leverdure","2019/2020",NA,"C",375
+"Zmrhal","Sacc","Bayer Leverdure","2019/2020",NA,"C",4513
+"Spalek","Sacc","Bayer Leverdure","2019/2020",NA,"C",4448
+NA,"Sacc","Bayer Leverdure","2019/2020",NA,"C",NA
+NA,"Sacc","Bayer Leverdure","2019/2020",NA,"C",NA
+"Immobile","Sacc","Bayer Leverdure","2019/2020",NA,"A",785
+"Boga","Sacc","Bayer Leverdure","2019/2020","1","A",2832
+"Caicedo","Sacc","Bayer Leverdure","2019/2020",NA,"A",2284
+"Balotelli","Sacc","Bayer Leverdure","2019/2020",NA,"A",696
+"Skov Olsen","Sacc","Bayer Leverdure","2019/2020",NA,"A",4415
+"Iago Falque","Sacc","Bayer Leverdure","2019/2020",NA,"A",475
+"Gollini","Sacc","Bayer Leverdure","2020/2021","20","P",610
+"Dragowski","Sacc","Bayer Leverdure","2020/2021","8","P",1917
+"Sportiello","Sacc","Bayer Leverdure","2020/2021","5","P",4
+"De Ligt","Sacc","Bayer Leverdure","2020/2021","17","D",4428
+"Manolas","Sacc","Bayer Leverdure","2020/2021","17","D",459
+"Criscito","Sacc","Bayer Leverdure","2020/2021","14","D",2759
+"Kumbulla","Sacc","Bayer Leverdure","2020/2021","7","D",4495
+"Palomino","Sacc","Bayer Leverdure","2020/2021","3","D",2181
+"Tomiyasu","Sacc","Bayer Leverdure","2020/2021","3","D",4422
+"Bruno Peres","Sacc","Bayer Leverdure","2020/2021","2","D",546
+"Vojvoda","Sacc","Bayer Leverdure","2020/2021","1","D",4994
+"Calhanoglu","Sacc","Bayer Leverdure","2020/2021","40","C",2194
+"De Paul","Sacc","Bayer Leverdure","2020/2021","18","C",1996
+"Arthur","Sacc","Bayer Leverdure","2020/2021","8","C",4285
+"Diaz B.","Sacc","Bayer Leverdure","2020/2021","13","C",4825
+"De Roon","Sacc","Bayer Leverdure","2020/2021","11","C",22
+"Zajc","Sacc","Bayer Leverdure","2020/2021","1","C",2124
+"Amrabat","Sacc","Bayer Leverdure","2020/2021","3","C",4522
+"McKennie","Sacc","Bayer Leverdure","2020/2021","1","C",4973
+"Ronaldo","Sacc","Bayer Leverdure","2020/2021","231","A",2610
+"Barrow","Sacc","Bayer Leverdure","2020/2021","10","A",2719
+"Gabbiadini","Sacc","Bayer Leverdure","2020/2021","1","A",407
+"Simy","Sacc","Bayer Leverdure","2020/2021","2","A",1997
+"Deulofeu","Sacc","Bayer Leverdure","2020/2021","12","A",2119
+"Hauge","Sacc","Bayer Leverdure","2020/2021","1","A",5310
+"Musso","Sacc","Bayer Leverdure","2021/2022","35","P",2792
+"Montipo'","Sacc","Bayer Leverdure","2021/2022","3","P",4957
+"Sportiello","Sacc","Bayer Leverdure","2021/2022","1","P",4
+"Hernandez T.","Sacc","Bayer Leverdure","2021/2022","48","D",4292
+"Bastoni","Sacc","Bayer Leverdure","2021/2022","15","D",2120
+"Bonucci","Sacc","Bayer Leverdure","2021/2022","10","D",286
+"Nuytinck","Sacc","Bayer Leverdure","2021/2022","6","D",2280
+"Augello","Sacc","Bayer Leverdure","2021/2022","4","D",4421
+"Toloi","Sacc","Bayer Leverdure","2021/2022","10","D",695
+"Vanheusden","Sacc","Bayer Leverdure","2021/2022","1","D",2328
+"Serpe","Sacc","Bayer Leverdure","2021/2022","1","D",5524
+"Veretout","Sacc","Bayer Leverdure","2021/2022","53","C",2215
+"Djuricic","Sacc","Bayer Leverdure","2021/2022","37","C",1995
+"Lazovic","Sacc","Bayer Leverdure","2021/2022","10","C",236
+"Brozovic","Sacc","Bayer Leverdure","2021/2022","14","C",265
+"Marin","Sacc","Bayer Leverdure","2021/2022","9","C",4965
+"Pulgar","Sacc","Bayer Leverdure","2021/2022","1","C",644
+"Zambo Anguissa","Sacc","Bayer Leverdure","2021/2022","1","C",4220
+"Hernani","Sacc","Bayer Leverdure","2021/2022","1","C",4423
+"Insigne","Sacc","Bayer Leverdure","2021/2022","108","A",409
+"Caputo","Sacc","Bayer Leverdure","2021/2022","83","A",2819
+"Destro","Sacc","Bayer Leverdure","2021/2022","1","A",472
+"Caicedo","Sacc","Bayer Leverdure","2021/2022","17","A",2284
+"Keita B.","Sacc","Bayer Leverdure","2021/2022","16","A",345
+"Kaio Jorge","Sacc","Bayer Leverdure","2021/2022","1","A",5505
+"Maignan","Sacc","Bayer Leverdure","2022/2023","47","P",4312
+"Dragowski","Sacc","Bayer Leverdure","2022/2023","1","P",1917
+"Tatarusanu","Sacc","Bayer Leverdure","2022/2023","1","P",160
+"Bonucci","Sacc","Bayer Leverdure","2022/2023","9","D",286
+"Demiral","Sacc","Bayer Leverdure","2022/2023","7","D",4332
+"Karsdorp","Sacc","Bayer Leverdure","2022/2023","14","D",2180
+"Mari'","Sacc","Bayer Leverdure","2022/2023","2","D",4904
+"Cambiaso","Sacc","Bayer Leverdure","2022/2023","3","D",5520
+"Mazzocchi","Sacc","Bayer Leverdure","2022/2023","1","D",5481
+"De Winter","Sacc","Bayer Leverdure","2022/2023","2","D",5739
+"Gatti","Sacc","Bayer Leverdure","2022/2023","1","D",5831
+"Barak","Sacc","Bayer Leverdure","2022/2023","25","C",2172
+"Zielinski","Sacc","Bayer Leverdure","2022/2023","35","C",152
+"Pereyra","Sacc","Bayer Leverdure","2022/2023","30","C",302
+"Wijnaldum","Sacc","Bayer Leverdure","2022/2023","5","C",2638
+"Sabiri","Sacc","Bayer Leverdure","2022/2023","16","C",5788
+"Bennacer","Sacc","Bayer Leverdure","2022/2023","6","C",2818
+"Saponara","Sacc","Bayer Leverdure","2022/2023","1","C",150
+"Adli","Sacc","Bayer Leverdure","2022/2023","2","C",5875
+"Rafael Leao","Sacc","Bayer Leverdure","2022/2023","206","A",4510
+"Simeone","Sacc","Bayer Leverdure","2022/2023","3","A",2061
+"Raspadori","Sacc","Bayer Leverdure","2022/2023","52","A",4371
+"Rebic","Sacc","Bayer Leverdure","2022/2023","20","A",186
+"Boga","Sacc","Bayer Leverdure","2022/2023","8","A",2832
+"Zirkzee","Sacc","Bayer Leverdure","2022/2023","1","A",5086
+"Terracciano","Sacc","Al Bacaro","2023/2024","20","P",2815
+"Di Gregorio","Sacc","Al Bacaro","2023/2024","15","P",5876
+"Christensen O.","Sacc","Al Bacaro","2023/2024","1","P",6403
+"Mario Rui","Sacc","Al Bacaro","2023/2024","7","D",142
+"Romagnoli","Sacc","Al Bacaro","2023/2024","7","D",460
+"Spinazzola","Sacc","Al Bacaro","2023/2024","11","D",1852
+"Mina","Sacc","Al Bacaro","2023/2024","1","D",4210
+"N'dicka","Sacc","Al Bacaro","2023/2024","2","D",NA
+"Doig","Sacc","Al Bacaro","2023/2024","9","D",5851
+"Carlos Augusto","Sacc","Al Bacaro","2023/2024","11","D",5877
+"Pellegrino","Sacc","Al Bacaro","2023/2024","1","D",6460
+"Zaccagni","Sacc","Al Bacaro","2023/2024","53","C",632
+"Gagliardini","Sacc","Al Bacaro","2023/2024","1","C",801
+"Mandragora","Sacc","Al Bacaro","2023/2024","1","C",1933
+"Castillejo","Sacc","Al Bacaro","2023/2024","1","C",2692
+"Loftus-Cheek","Sacc","Al Bacaro","2023/2024","20","C",4199
+"Lobotka","Sacc","Al Bacaro","2023/2024","6","C",4287
+"Lopez M.","Sacc","Al Bacaro","2023/2024","1","C",4681
+"Samardzic","Sacc","Al Bacaro","2023/2024","32","C",5119
+"Milik","Sacc","Al Bacaro","2023/2024","23","A",2012
+"Abraham","Sacc","Al Bacaro","2023/2024","1","A",2544
+"Vlahovic","Sacc","Al Bacaro","2023/2024","192","A",2841
+"Nzola","Sacc","Al Bacaro","2023/2024","30","A",5336
+"Okafor","Sacc","Al Bacaro","2023/2024","50","A",6227
+"Yildiz","Sacc","Al Bacaro","2023/2024","1","A",6434
+"Skorupski","Scalco","Liverplate","2019/2020",NA,"P",133
+"Szczesny","Scalco","Liverplate","2019/2020",NA,"P",453
+NA,"Scalco","Liverplate","2019/2020",NA,"P",NA
+"Lirola","Scalco","Liverplate","2019/2020",NA,"D",2006
+"Marusic","Scalco","Liverplate","2019/2020",NA,"D",2188
+"Skriniar","Scalco","Liverplate","2019/2020",NA,"D",798
+"De Ligt","Scalco","Liverplate","2019/2020",NA,"D",4428
+"Di Lorenzo","Scalco","Liverplate","2019/2020",NA,"D",2816
+"Aina","Scalco","Liverplate","2019/2020",NA,"D",2865
+"Young","Scalco","Liverplate","2019/2020",NA,"D",2707
+NA,"Scalco","Liverplate","2019/2020",NA,"D",NA
+"Luis Alberto","Scalco","Liverplate","2019/2020",NA,"C",2085
+"Kluivert","Scalco","Liverplate","2019/2020",NA,"C",2779
+"Freuler","Scalco","Liverplate","2019/2020",NA,"C",788
+"Berenguer","Scalco","Liverplate","2019/2020",NA,"C",2205
+"Lazzari","Scalco","Liverplate","2019/2020",NA,"C",2263
+"Lulic","Scalco","Liverplate","2019/2020",NA,"C",338
+"Castro","Scalco","Liverplate","2019/2020",NA,"C",112
+"Lazovic","Scalco","Liverplate","2019/2020",NA,"C",236
+"Ronaldo","Scalco","Liverplate","2019/2020",NA,"A",2610
+"Correa","Scalco","Liverplate","2019/2020",NA,"A",495
+"Falco","Scalco","Liverplate","2019/2020",NA,"A",658
+"Rigoni","Scalco","Liverplate","2019/2020",NA,"A",NA
+"Pandev","Scalco","Liverplate","2019/2020",NA,"A",245
+NA,"Scalco","Liverplate","2019/2020",NA,"A",NA
+"Meret","Teo","Tettenham","2021/2022","33","P",572
+"Ospina","Teo","Tettenham","2021/2022","4","P",2468
+"Berisha","Teo","Tettenham","2021/2022","1","P",316
+"Gosens","Teo","Tettenham","2021/2022","43","D",2160
+"Tomori","Teo","Tettenham","2021/2022","12","D",4751
+"Milenkovic","Teo","Tettenham","2021/2022","12","D",2164
+"Bastoni S.","Teo","Tettenham","2021/2022","3","D",5332
+"Bonifazi","Teo","Tettenham","2021/2022","1","D",2192
+"Luiz Felipe","Teo","Tettenham","2021/2022","1","D",2335
+"Zortea","Teo","Tettenham","2021/2022","1","D",4433
+"Caldara","Teo","Tettenham","2021/2022","1","D",1847
+"Mkhitaryan","Teo","Tettenham","2021/2022","53","C",2529
+"Kessie","Teo","Tettenham","2021/2022","34","C",NA
+"Soriano","Teo","Tettenham","2021/2022","25","C",2625
+"Freuler","Teo","Tettenham","2021/2022","20","C",788
+"Sigurdsson","Teo","Tettenham","2021/2022","1","C",NA
+"Lucas Leiva","Teo","Tettenham","2021/2022","1","C",2209
+"Bennacer","Teo","Tettenham","2021/2022","1","C",2818
+"Bernardeschi","Teo","Tettenham","2021/2022","1","C",184
+"Zapata D.","Teo","Tettenham","2021/2022","142","A",608
+"Berardi","Teo","Tettenham","2021/2022","82","A",531
+"Barrow","Teo","Tettenham","2021/2022","1","A",2719
+"Pavoletti","Teo","Tettenham","2021/2022","4","A",247
+"Gabbiadini","Teo","Tettenham","2021/2022","1","A",407
+"Mancuso","Teo","Tettenham","2021/2022","16","A",5454
+"Berisha","Teo","Tettenham","2022/2023","1","P",316
+"Audero","Teo","Tettenham","2022/2023","2","P",761
+"Milinkovic-Savic V.","Teo","Tettenham","2022/2023","1","P",2170
+"Hernandez T.","Teo","Tettenham","2022/2023","55","D",4292
+"Danilo","Teo","Tettenham","2022/2023","11","D",4237
+"Faraoni","Teo","Tettenham","2022/2023","17","D",581
+"Rodriguez R.","Teo","Tettenham","2022/2023","1","D",2169
+"Marusic","Teo","Tettenham","2022/2023","1","D",2188
+"Umtiti","Teo","Tettenham","2022/2023","3","D",2583
+"Valeri","Teo","Tettenham","2022/2023","1","D",5862
+"Ostigard","Teo","Tettenham","2022/2023","1","D",5750
+"Chiesa","Teo","Tettenham","2022/2023","14","C",2002
+"Frattesi","Teo","Tettenham","2022/2023","17","C",2848
+"Zaniolo","Teo","Tettenham","2022/2023","39","C",2766
+"Locatelli","Teo","Tettenham","2022/2023","5","C",827
+"Messias","Teo","Tettenham","2022/2023","6","C",4970
+"Mandragora","Teo","Tettenham","2022/2023","1","C",1933
+"Ndombele'","Teo","Tettenham","2022/2023","7","C",4143
+"Zurkovski","Teo","Tettenham","2022/2023","1","C",NA
+"Vlahovic","Teo","Tettenham","2022/2023","195","A",2841
+"Giroud","Teo","Tettenham","2022/2023","80","A",4200
+"Origi","Teo","Tettenham","2022/2023","24","A",2466
+"Orsolini","Teo","Tettenham","2022/2023","6","A",2167
+"Ciofani D.","Teo","Tettenham","2022/2023","1","A",212
+"Quagliarella","Teo","Tettenham","2022/2023","1","A",568
+"Cragno","Teo","Tettenham","2023/2024","1","P",2178
+"Carnesecchi","Teo","Tettenham","2023/2024","18","P",4431
+"Ochoa","Teo","Tettenham","2023/2024","10","P",6120
+"Juan Jesus","Teo","Tettenham","2023/2024","1","D",256
+"Lazzari","Teo","Tettenham","2023/2024","2","D",2263
+"Mancini","Teo","Tettenham","2023/2024","5","D",2296
+"Hernandez T.","Teo","Tettenham","2023/2024","55","D",4292
+"Kyriakopoulos","Teo","Tettenham","2023/2024","1","D",4530
+"Vojvoda","Teo","Tettenham","2023/2024","1","D",4994
+"Holm","Teo","Tettenham","2023/2024","8","D",5678
+"Beukema","Teo","Tettenham","2023/2024","1","D",6202
+"Politano","Teo","Tettenham","2023/2024","17","C",536
+"Jankto","Teo","Tettenham","2023/2024","1","C",1987
+"Orsolini","Teo","Tettenham","2023/2024","40","C",2167
+"Barak","Teo","Tettenham","2023/2024","1","C",2172
+"Rabiot","Teo","Tettenham","2023/2024","42","C",2379
+"Duda","Teo","Tettenham","2023/2024","1","C",4342
+"Weah","Teo","Tettenham","2023/2024","5","C",4662
+"Mckennie","Teo","Tettenham","2023/2024","1","C",4973
+"Caprari","Teo","Tettenham","2023/2024","17","A",1958
+"Chiesa","Teo","Tettenham","2023/2024","79","A",2002
+"Jovic","Teo","Tettenham","2023/2024","9","A",2438
+"Giroud","Teo","Tettenham","2023/2024","110","A",4200
+"Lookman","Teo","Tettenham","2023/2024","40","A",4730
+"Cheddira","Teo","Tettenham","2023/2024","9","A",6439
+"Rui Patricio","Albe","Aston Pirla","2024/2025","1","P",4270
+"Carnesecchi","Albe","Aston Pirla","2024/2025","40","P",4431
+"Okoye","Albe","Aston Pirla","2024/2025","1","P",6462
+"Calabria","Albe","Aston Pirla","2024/2025","1","D",357
+"Zampano","Albe","Aston Pirla","2024/2025","1","D",1952
+"Sergi Roberto","Albe","Aston Pirla","2024/2025","6","D",4284
+"Hernandez T.","Albe","Aston Pirla","2024/2025","46","D",4292
+"Emerson Royal","Albe","Aston Pirla","2024/2025","10","D",4816
+"Erlic","Albe","Aston Pirla","2024/2025","2","D",4982
+"Dodo'","Albe","Aston Pirla","2024/2025","10","D",5885
+"Coco","Albe","Aston Pirla","2024/2025","7","D",6642
+"Zambo Anguissa","Albe","Aston Pirla","2024/2025","2","C",4220
+"Maldini","Albe","Aston Pirla","2024/2025","7","C",4896
+"Brescianini","Albe","Aston Pirla","2024/2025","24","C",4947
+"Samardzic","Albe","Aston Pirla","2024/2025","50","C",5119
+"Aebischer","Albe","Aston Pirla","2024/2025","3","C",5784
+"Ferguson","Albe","Aston Pirla","2024/2025","20","C",5858
+"Reijnders","Albe","Aston Pirla","2024/2025","21","C",6224
+"Conceicao","Albe","Aston Pirla","2024/2025","12","C",6884
+"Rebic","Albe","Aston Pirla","2024/2025","1","A",186
+"Dia","Albe","Aston Pirla","2024/2025","20","A",5672
+"Vitinha O.","Albe","Aston Pirla","2024/2025","1","A",6164
+"Yildiz","Albe","Aston Pirla","2024/2025","31","A",6434
+"Castro S.","Albe","Aston Pirla","2024/2025","5","A",6572
+"Dovbyk","Albe","Aston Pirla","2024/2025","176","A",6675
+"Reina","Alby","Zoggiathebest99 Team","2024/2025","1","P",387
+"Meret","Alby","Zoggiathebest99 Team","2024/2025","48","P",572
+"Caprile","Alby","Zoggiathebest99 Team","2024/2025","1","P",4360
+"Biraghi","Alby","Zoggiathebest99 Team","2024/2025","10","D",252
+"De Vrij","Alby","Zoggiathebest99 Team","2024/2025","5","D",322
+"Zappacosta","Alby","Zoggiathebest99 Team","2024/2025","10","D",554
+"N'Dicka","Alby","Zoggiathebest99 Team","2024/2025","1","D",4317
+"Bellanova","Alby","Zoggiathebest99 Team","2024/2025","35","D",4887
+"Kalulu","Alby","Zoggiathebest99 Team","2024/2025","1","D",4976
+"Tavares N.","Alby","Zoggiathebest99 Team","2024/2025","1","D",5620
+"Carlos Augusto","Alby","Zoggiathebest99 Team","2024/2025","11","D",5877
+"Zielinski","Alby","Zoggiathebest99 Team","2024/2025","32","C",152
+"Paredes","Alby","Zoggiathebest99 Team","2024/2025","1","C",468
+"Zaccagni","Alby","Zoggiathebest99 Team","2024/2025","60","C",632
+"Gyasi","Alby","Zoggiathebest99 Team","2024/2025","3","C",4992
+"Thuram K.","Alby","Zoggiathebest99 Team","2024/2025","8","C",5562
+"Frendrup","Alby","Zoggiathebest99 Team","2024/2025","7","C",5791
+"Fazzini","Alby","Zoggiathebest99 Team","2024/2025","5","C",6010
+"Dele-Bashiru","Alby","Zoggiathebest99 Team","2024/2025","3","C",6629
+"Belotti","Alby","Zoggiathebest99 Team","2024/2025","13","A",441
+"Sanabria","Alby","Zoggiathebest99 Team","2024/2025","5","A",479
+"Pinamonti","Alby","Zoggiathebest99 Team","2024/2025","37","A",2038
+"Lukaku","Alby","Zoggiathebest99 Team","2024/2025","182","A",2531
+"Arnautovic","Alby","Zoggiathebest99 Team","2024/2025","1","A",4268
+"Noslin","Alby","Zoggiathebest99 Team","2024/2025","6","A",6556
+"Scuffet","Cos","Joe Gage FC","2024/2025","1","P",574
+"De Gea","Cos","Joe Gage FC","2024/2025","16","P",2521
+"Terracciano","Cos","Joe Gage FC","2024/2025","18","P",2815
+"Izzo","Cos","Joe Gage FC","2024/2025","1","D",226
+"Pavard","Cos","Joe Gage FC","2024/2025","24","D",4177
+"Miranda J.","Cos","Joe Gage FC","2024/2025","6","D",4734
+"Ismajli","Cos","Joe Gage FC","2024/2025","1","D",5010
+"Holm","Cos","Joe Gage FC","2024/2025","2","D",5678
+"Gila","Cos","Joe Gage FC","2024/2025","1","D",5833
+"Bijol","Cos","Joe Gage FC","2024/2025","11","D",5847
+"Gigot","Cos","Joe Gage FC","2024/2025","2","D",5899
+"Mkhitaryan","Cos","Joe Gage FC","2024/2025","20","C",2529
+"Guendouzi","Cos","Joe Gage FC","2024/2025","13","C",4186
+"Busio","Cos","Joe Gage FC","2024/2025","1","C",5507
+"Kone' M.","Cos","Joe Gage FC","2024/2025","1","C",5589
+"Vlasic","Cos","Joe Gage FC","2024/2025","14","C",5687
+"Adli","Cos","Joe Gage FC","2024/2025","1","C",5875
+"Suslov","Cos","Joe Gage FC","2024/2025","8","C",6486
+"Richardson","Cos","Joe Gage FC","2024/2025","1","C",6804
+"Thuram","Cos","Joe Gage FC","2024/2025","195","A",4871
+"Luvumbo","Cos","Joe Gage FC","2024/2025","10","A",5297
+"Brenner","Cos","Joe Gage FC","2024/2025","1","A",6213
+"Castellanos","Cos","Joe Gage FC","2024/2025","131","A",6226
+"Taremi","Cos","Joe Gage FC","2024/2025","18","A",6628
+"Tengstedt","Cos","Joe Gage FC","2024/2025","1","A",6801
+"Montipo'","Fu","AF Antastica","2024/2025","1","P",4957
+"Martinez Jo.","Fu","AF Antastica","2024/2025","6","P",5116
+"Svilar","Fu","AF Antastica","2024/2025","33","P",5841
+"Acerbi","Fu","AF Antastica","2024/2025","11","D",513
+"Darmian","Fu","AF Antastica","2024/2025","14","D",2525
+"Lazaro","Fu","AF Antastica","2024/2025","1","D",4385
+"Kyriakopoulos","Fu","AF Antastica","2024/2025","1","D",4530
+"Tomori","Fu","AF Antastica","2024/2025","8","D",4751
+"Mazzocchi","Fu","AF Antastica","2024/2025","1","D",5481
+"Olivera","Fu","AF Antastica","2024/2025","1","D",5840
+"Valeri","Fu","AF Antastica","2024/2025","1","D",5862
+"Badelj","Fu","AF Antastica","2024/2025","1","C",170
+"Pellegrini Lo.","Fu","AF Antastica","2024/2025","42","C",530
+"Politano","Fu","AF Antastica","2024/2025","26","C",536
+"Mandragora","Fu","AF Antastica","2024/2025","1","C",1933
+"Zaniolo","Fu","AF Antastica","2024/2025","23","C",2766
+"Ilic","Fu","AF Antastica","2024/2025","9","C",5007
+"Man","Fu","AF Antastica","2024/2025","46","C",5393
+"Ricci S.","Fu","AF Antastica","2024/2025","1","C",5453
+"Lapadula","Fu","AF Antastica","2024/2025","1","A",1939
+"Scamacca","Fu","AF Antastica","2024/2025","20","A",2137
+"Martinez L.","Fu","AF Antastica","2024/2025","232","A",2764
+"Piccoli","Fu","AF Antastica","2024/2025","10","A",4359
+"Djuric","Fu","AF Antastica","2024/2025","8","A",5471
+"Isaksen","Fu","AF Antastica","2024/2025","1","A",6398
+"Perin","Gullo","Sambuca Juniors","2024/2025","1","P",218
+"Pinsoglio","Gullo","Sambuca Juniors","2024/2025","1","P",1930
+"Di Gregorio","Gullo","Sambuca Juniors","2024/2025","50","P",5876
+"Romagnoli","Gullo","Sambuca Juniors","2024/2025","7","D",460
+"Bani","Gullo","Sambuca Juniors","2024/2025","1","D",2285
+"Mancini","Gullo","Sambuca Juniors","2024/2025","11","D",2296
+"Bremer","Gullo","Sambuca Juniors","2024/2025","23","D",2788
+"Martinez Quarta","Gullo","Sambuca Juniors","2024/2025","11","D",5323
+"Godfrey","Gullo","Sambuca Juniors","2024/2025","1","D",5324
+"Baschirotto","Gullo","Sambuca Juniors","2024/2025","4","D",5835
+"Ehizibue","Gullo","Sambuca Juniors","2024/2025","1","D",6047
+"Lazovic","Gullo","Sambuca Juniors","2024/2025","5","C",236
+"Frattesi","Gullo","Sambuca Juniors","2024/2025","27","C",2848
+"Nicolussi Caviglia","Gullo","Sambuca Juniors","2024/2025","1","C",4349
+"McTominay","Gullo","Sambuca Juniors","2024/2025","46","C",4777
+"Messias","Gullo","Sambuca Juniors","2024/2025","2","C",4970
+"Koopmeiners","Gullo","Sambuca Juniors","2024/2025","56","C",5685
+"Baldanzi","Gullo","Sambuca Juniors","2024/2025","1","C",5823
+"Lovric","Gullo","Sambuca Juniors","2024/2025","4","C",5850
+"Zapata D.","Gullo","Sambuca Juniors","2024/2025","113","A",608
+"Cutrone","Gullo","Sambuca Juniors","2024/2025","3","A",2155
+"Banda","Gullo","Sambuca Juniors","2024/2025","1","A",6001
+"Lucca","Gullo","Sambuca Juniors","2024/2025","15","A",6215
+"Retegui","Gullo","Sambuca Juniors","2024/2025","111","A",6228
+"Benedyczak","Gullo","Sambuca Juniors","2024/2025","1","A",6667
+"Audero","Pape","Fc Scrotone","2024/2025","2","P",761
+"Milinkovic-Savic V.","Pape","Fc Scrotone","2024/2025","22","P",2170
+"Suzuki","Pape","Fc Scrotone","2024/2025","3","P",6641
+"Spinazzola","Pape","Fc Scrotone","2024/2025","22","D",1852
+"Gosens","Pape","Fc Scrotone","2024/2025","17","D",2160
+"Mina","Pape","Fc Scrotone","2024/2025","2","D",4210
+"Parisi","Pape","Fc Scrotone","2024/2025","2","D",5449
+"Dumfries","Pape","Fc Scrotone","2024/2025","18","D",5513
+"Posch","Pape","Fc Scrotone","2024/2025","4","D",6066
+"Idzes","Pape","Fc Scrotone","2024/2025","1","D",6672
+"Sosa B.","Pape","Fc Scrotone","2024/2025","2","D",6820
+"Duncan","Pape","Fc Scrotone","2024/2025","1","C",526
+"Pasalic","Pape","Fc Scrotone","2024/2025","29","C",2077
+"Orsolini","Pape","Fc Scrotone","2024/2025","46","C",2167
+"Pessina","Pape","Fc Scrotone","2024/2025","13","C",2741
+"Da Cunha","Pape","Fc Scrotone","2024/2025","6","C",5559
+"Ndoye","Pape","Fc Scrotone","2024/2025","3","C",5564
+"Tchaouna","Pape","Fc Scrotone","2024/2025","2","C",5919
+"Tete Morente","Pape","Fc Scrotone","2024/2025","1","C",6634
+"Dybala","Pape","Fc Scrotone","2024/2025","95","A",309
+"Kean","Pape","Fc Scrotone","2024/2025","71","A",2097
+"Esposito Se.","Pape","Fc Scrotone","2024/2025","1","A",4463
+"Leao","Pape","Fc Scrotone","2024/2025","85","A",4510
+"Mosquera","Pape","Fc Scrotone","2024/2025","5","A",6630
+"Adams C.","Pape","Fc Scrotone","2024/2025","42","A",6646
+"Sportiello","Pasol","Herta Vernello","2024/2025","1","P",4
+"Falcone","Pasol","Herta Vernello","2024/2025","1","P",2134
+"Maignan","Pasol","Herta Vernello","2024/2025","39","P",4312
+"Danilo","Pasol","Herta Vernello","2024/2025","11","D",4237
+"Rrahmani","Pasol","Herta Vernello","2024/2025","13","D",4409
+"Gallo","Pasol","Herta Vernello","2024/2025","1","D",4502
+"Angelino","Pasol","Herta Vernello","2024/2025","7","D",4772
+"Cambiaso","Pasol","Herta Vernello","2024/2025","26","D",5520
+"Zanoli","Pasol","Herta Vernello","2024/2025","1","D",5527
+"Beukema","Pasol","Herta Vernello","2024/2025","1","D",6202
+"Dossena","Pasol","Herta Vernello","2024/2025","5","D",6230
+"Loftus-Cheek","Pasol","Herta Vernello","2024/2025","31","C",4199
+"Zurkowski","Pasol","Herta Vernello","2024/2025","1","C",4376
+"Malinovskyi","Pasol","Herta Vernello","2024/2025","9","C",4427
+"Fofana Y.","Pasol","Herta Vernello","2024/2025","1","C",4686
+"Harroui","Pasol","Herta Vernello","2024/2025","7","C",5688
+"Ederson D.s.","Pasol","Herta Vernello","2024/2025","24","C",5792
+"Fabbian","Pasol","Herta Vernello","2024/2025","22","C",6206
+"Payero","Pasol","Herta Vernello","2024/2025","1","C",6481
+"Caprari","Pasol","Herta Vernello","2024/2025","1","A",1958
+"Milik","Pasol","Herta Vernello","2024/2025","1","A",2012
+"Vlahovic","Pasol","Herta Vernello","2024/2025","228","A",2841
+"Soule'","Pasol","Herta Vernello","2024/2025","45","A",5734
+"Krstovic","Pasol","Herta Vernello","2024/2025","11","A",6435
+"Camarda","Pasol","Herta Vernello","2024/2025","1","A",6519
+"Provedel","Ricky","FC Tigrotto","2024/2025","34","P",2814
+"Turati","Ricky","FC Tigrotto","2024/2025","1","P",4867
+"Mandas","Ricky","FC Tigrotto","2024/2025","1","P",6482
+"Luperto","Ricky","FC Tigrotto","2024/2025","5","D",393
+"Di Lorenzo","Ricky","FC Tigrotto","2024/2025","37","D",2816
+"Zortea","Ricky","FC Tigrotto","2024/2025","1","D",4433
+"Vojvoda","Ricky","FC Tigrotto","2024/2025","1","D",4994
+"Kossounou","Ricky","FC Tigrotto","2024/2025","9","D",5578
+"Hien","Ricky","FC Tigrotto","2024/2025","10","D",6046
+"Bisseck","Ricky","FC Tigrotto","2024/2025","4","D",6217
+"Dorgu","Ricky","FC Tigrotto","2024/2025","6","D",6257
+"Gaetano","Ricky","FC Tigrotto","2024/2025","1","C",4364
+"Fagioli","Ricky","FC Tigrotto","2024/2025","1","C",4465
+"Strefezza","Ricky","FC Tigrotto","2024/2025","12","C",4486
+"Douglas Luiz","Ricky","FC Tigrotto","2024/2025","32","C",4911
+"Oristanio","Ricky","FC Tigrotto","2024/2025","2","C",6218
+"Folorunsho","Ricky","FC Tigrotto","2024/2025","1","C",6252
+"Neres","Ricky","FC Tigrotto","2024/2025","50","C",6831
+"Paz N.","Ricky","FC Tigrotto","2024/2025","3","C",6875
+"Thauvin","Ricky","FC Tigrotto","2024/2025","13","A",2369
+"Gonzalez N.","Ricky","FC Tigrotto","2024/2025","27","A",4179
+"Lookman","Ricky","FC Tigrotto","2024/2025","121","A",4730
+"Pohjanpalo","Ricky","FC Tigrotto","2024/2025","20","A",5079
+"Dallinga","Ricky","FC Tigrotto","2024/2025","67","A",6643
+"Bonny","Ricky","FC Tigrotto","2024/2025","20","A",6669
+"Sommer","Sacc","Al Bacaro","2024/2025","50","P",2428
+"Joronen","Sacc","Al Bacaro","2024/2025","1","P",4425
+"Vasquez D.","Sacc","Al Bacaro","2024/2025","1","P",6125
+"Cuadrado","Sacc","Al Bacaro","2024/2025","1","D",697
+"Bastoni","Sacc","Al Bacaro","2024/2025","25","D",2120
+"Varane","Sacc","Al Bacaro","2024/2025","1","D",2602
+"Buongiorno","Sacc","Al Bacaro","2024/2025","20","D",2724
+"Gabbia","Sacc","Al Bacaro","2024/2025","1","D",4401
+"Pavlovic","Sacc","Al Bacaro","2024/2025","11","D",5022
+"Ruggeri","Sacc","Al Bacaro","2024/2025","18","D",5354
+"Casale","Sacc","Al Bacaro","2024/2025","1","D",5498
+"Barella","Sacc","Al Bacaro","2024/2025","40","C",1870
+"Pulisic","Sacc","Al Bacaro","2024/2025","62","C",2423
+"Castrovilli","Sacc","Al Bacaro","2024/2025","1","C",4377
+"Chukwueze","Sacc","Al Bacaro","2024/2025","21","C",4856
+"Saelemaekers","Sacc","Al Bacaro","2024/2025","1","C",4892
+"Le Fee","Sacc","Al Bacaro","2024/2025","4","C",6299
+"Zeroli","Sacc","Al Bacaro","2024/2025","1","C",6524
+"Bernabe'","Sacc","Al Bacaro","2024/2025","25","C",6666
+"Jovic","Sacc","Al Bacaro","2024/2025","1","A",2438
+"Sanchez","Sacc","Al Bacaro","2024/2025","12","A",2475
+"Cambiaghi","Sacc","Al Bacaro","2024/2025","1","A",4436
+"Osimhen","Sacc","Al Bacaro","2024/2025","2","A",4661
+"Kvaratskhelia","Sacc","Al Bacaro","2024/2025","175","A",5839
+"Okafor","Sacc","Al Bacaro","2024/2025","7","A",6227
+"Skorupski","Teo","Tettenham","2024/2025","16","P",133
+"Gollini","Teo","Tettenham","2024/2025","13","P",610
+"Ravaglia F.","Teo","Tettenham","2024/2025","1","P",2722
+"Dimarco","Teo","Tettenham","2024/2025","46","D",254
+"Djimsiti","Teo","Tettenham","2024/2025","1","D",787
+"Kolasinac","Teo","Tettenham","2024/2025","4","D",2640
+"Vasquez","Teo","Tettenham","2024/2025","6","D",5514
+"Pongracic","Teo","Tettenham","2024/2025","3","D",5603
+"Gatti","Teo","Tettenham","2024/2025","4","D",5831
+"Cabal","Teo","Tettenham","2024/2025","2","D",6039
+"Tchatchoua","Teo","Tettenham","2024/2025","1","D",6480
+"Freuler","Teo","Tettenham","2024/2025","9","C",788
+"El Shaarawy","Teo","Tettenham","2024/2025","4","C",795
+"Locatelli","Teo","Tettenham","2024/2025","2","C",827
+"Calhanoglu","Teo","Tettenham","2024/2025","65","C",2194
+"Weah","Teo","Tettenham","2024/2025","7","C",4662
+"Marin","Teo","Tettenham","2024/2025","1","C",4965
+"Coulibaly L.","Teo","Tettenham","2024/2025","1","C",5504
+"Colpani","Teo","Tettenham","2024/2025","37","C",5878
+"Morata","Teo","Tettenham","2024/2025","100","A",313
+"Abraham","Teo","Tettenham","2024/2025","8","A",2544
+"Colombo","Teo","Tettenham","2024/2025","20","A",4923
+"Cancellieri","Teo","Tettenham","2024/2025","1","A",5500
+"Gudmundsson A.","Teo","Tettenham","2024/2025","75","A",5800
+"De Ketelaere","Teo","Tettenham","2024/2025","65","A",5995
