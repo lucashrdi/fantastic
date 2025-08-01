@@ -36,7 +36,7 @@ NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
 "Darmian","Albe","Aston Pirla","2019/2020",NA,"D",2525
 "Radu","Albe","Aston Pirla","2019/2020",NA,"D",329
 "Pastore","Albe","Aston Pirla","2019/2020",NA,"C",2378
-"Papu Gomez","Albe","Aston Pirla","2019/2020",NA,"C",NA
+"Papu Gomez","Albe","Aston Pirla","2019/2020",NA,"C",26
 "Calhanoglu","Albe","Aston Pirla","2019/2020",NA,"C",2194
 "Malinovskyi","Albe","Aston Pirla","2019/2020",NA,"C",4427
 "Pasalic","Albe","Aston Pirla","2019/2020",NA,"C",2077
@@ -60,7 +60,7 @@ NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
 "Lirola","Albe","Aston Pirla","2020/2021","1","D",2006
 "Stryger Larsen","Albe","Aston Pirla","2020/2021","1","D",2315
 "Hickey","Albe","Aston Pirla","2020/2021","3","D",5300
-"Papu Gomez","Albe","Aston Pirla","2020/2021","60","C",NA
+"Papu Gomez","Albe","Aston Pirla","2020/2021","60","C",26
 "Luis Alberto","Albe","Aston Pirla","2020/2021","47","C",2085
 "Ramsey","Albe","Aston Pirla","2020/2021","13","C",2472
 "Lazovic","Albe","Aston Pirla","2020/2021","5","C",236
@@ -71,7 +71,7 @@ NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
 "Ibrahimovic","Albe","Aston Pirla","2020/2021","230","A",2530
 "Kalinic","Albe","Aston Pirla","2020/2021","3","A",652
 "Lasagna","Albe","Aston Pirla","2020/2021","1","A",90
-"Corneilus","Albe","Aston Pirla","2020/2021","5","A",NA
+"Cornelius","Albe","Aston Pirla","2020/2021","5","A",2163
 "Pavoletti","Albe","Aston Pirla","2020/2021","1","A",247
 "Sau","Albe","Aston Pirla","2020/2021","1","A",1882
 "Handanovic","Albe","Aston Pirla","2021/2022","39","P",250
@@ -99,7 +99,7 @@ NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
 "Sanabria","Albe","Aston Pirla","2021/2022","1","A",479
 "Pussetto","Albe","Aston Pirla","2021/2022","11","A",2826
 "Defrel","Albe","Aston Pirla","2021/2022","1","A",643
-"Luiz Maximiano","Albe","Aston Pirla","2022/2023","11","P",NA
+"Luis Maximiano","Albe","Aston Pirla","2022/2023","11","P",5832
 "Vicario","Albe","Aston Pirla","2022/2023","3","P",4964
 "Radu I.","Albe","Aston Pirla","2022/2023","4","P",1843
 "Tomori","Albe","Aston Pirla","2022/2023","18","D",4751
@@ -150,12 +150,12 @@ NA,"Albe","Aston Pirla","2019/2020",NA,"P",NA
 "Kaio Jorge","Albe","Aston Pirla","2023/2024","1","A",5505
 "Kvaratskhelia","Albe","Aston Pirla","2023/2024","204","A",5839
 "Donnarumma G.","Alby","Zoggiathebest99 Team","2018/2019",NA,"P",350
-"Donnarumma A.","Alby","Zoggiathebest99 Team","2018/2019",NA,"P",NA
+"Donnarumma A.","Alby","Zoggiathebest99 Team","2018/2019",NA,"P",216
 NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"P",NA
 "D'ambrosio","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",253
 "Acerbi","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",513
 "Florenzi","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",464
-"N'Koulou","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
+"N'koulou","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",2288
 "Pezzella Ger.","Alby","Zoggiathebest99 Team","2018/2019",NA,"D",2309
 NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
 NA,"Alby","Zoggiathebest99 Team","2018/2019",NA,"D",NA
@@ -327,7 +327,7 @@ NA,"Cos","Joe Gage FC","2018/2019",NA,"C",NA
 "Sirigu","Cos","Joe Gage FC","2019/2020",NA,"P",2179
 "Gabriel","Cos","Joe Gage FC","2019/2020",NA,"P",385
 NA,"Cos","Joe Gage FC","2019/2020",NA,"P",NA
-"Nkoulou","Cos","Joe Gage FC","2019/2020",NA,"D",NA
+"N'koulou","Cos","Joe Gage FC","2019/2020",NA,"D",2288
 "Lyanco","Cos","Joe Gage FC","2019/2020",NA,"D",2171
 "Zappacosta","Cos","Joe Gage FC","2019/2020",NA,"D",554
 "Murillo","Cos","Joe Gage FC","2019/2020",NA,"D",259
@@ -338,11 +338,11 @@ NA,"Cos","Joe Gage FC","2019/2020",NA,"P",NA
 "Barella","Cos","Joe Gage FC","2019/2020",NA,"C",1870
 "Allan","Cos","Joe Gage FC","2019/2020",NA,"C",397
 "Ribery","Cos","Joe Gage FC","2019/2020",NA,"C",2409
-"Veloso","Cos","Joe Gage FC","2019/2020",NA,"C",NA
+"Veloso","Cos","Joe Gage FC","2019/2020",NA,"C",2011
 "Ramirez","Cos","Joe Gage FC","2019/2020",NA,"C",2287
 "Nainggolan","Cos","Joe Gage FC","2019/2020",NA,"C",467
 "Baselli","Cos","Joe Gage FC","2019/2020",NA,"C",556
-"Obaing","Cos","Joe Gage FC","2019/2020",NA,"C",NA
+"Obiang","Cos","Joe Gage FC","2019/2020",NA,"C",4501
 "Pazzini","Cos","Joe Gage FC","2019/2020",NA,"A",636
 "Milik","Cos","Joe Gage FC","2019/2020",NA,"A",2012
 "Sanchez","Cos","Joe Gage FC","2019/2020",NA,"A",2475
@@ -355,7 +355,7 @@ NA,"Cos","Joe Gage FC","2019/2020",NA,"P",NA
 "Acerbi","Cos","Joe Gage FC","2020/2021","14","D",513
 "Kolarov","Cos","Joe Gage FC","2020/2021","13","D",2214
 "Bastoni","Cos","Joe Gage FC","2020/2021","17","D",2120
-"Nkoulou","Cos","Joe Gage FC","2020/2021","5","D",NA
+"N'koulou","Cos","Joe Gage FC","2020/2021","5","D",2288
 "Colley","Cos","Joe Gage FC","2020/2021","4","D",2784
 "Izzo","Cos","Joe Gage FC","2020/2021","4","D",226
 "Pezzella Ger.","Cos","Joe Gage FC","2020/2021","2","D",2309
@@ -367,13 +367,13 @@ NA,"Cos","Joe Gage FC","2019/2020",NA,"P",NA
 "Verdi","Cos","Joe Gage FC","2020/2021","3","C",376
 "Linetty","Cos","Joe Gage FC","2020/2021","1","C",2008
 "Nandez","Cos","Joe Gage FC","2020/2021","1","C",4514
-"Pereira","Cos","Joe Gage FC","2020/2021","1","C",NA
+"Pereira A.","Cos","Joe Gage FC","2020/2021","1","C",4249
 "Martinez L.","Cos","Joe Gage FC","2020/2021","192","A",2764
 "Dzeko","Cos","Joe Gage FC","2020/2021","76","A",647
 "Osimhen","Cos","Joe Gage FC","2020/2021","52","A",4661
 "Sanchez","Cos","Joe Gage FC","2020/2021","46","A",2475
 "Keita B.","Cos","Joe Gage FC","2020/2021","2","A",345
-"Majoral","Cos","Joe Gage FC","2020/2021","1","A",NA
+"Mayoral","Cos","Joe Gage FC","2020/2021","1","A",5233
 "Dragowski","Cos","Joe Gage FC","2021/2022","28","P",1917
 "Vicario","Cos","Joe Gage FC","2021/2022","1","P",4964
 "Belec","Cos","Joe Gage FC","2021/2022","1","P",720
@@ -465,7 +465,7 @@ NA,"Fu","AC Ciughina","2019/2020",NA,"D",NA
 "Kessie","Fu","AC Ciughina","2019/2020",NA,"C",NA
 "Hernani","Fu","AC Ciughina","2019/2020",NA,"C",4423
 "Bentancur","Fu","AC Ciughina","2019/2020",NA,"C",2166
-"Costa","Fu","AC Ciughina","2019/2020",NA,"C",NA
+"Costa","Fu","AC Ciughina","2019/2020",NA,"C",2200
 "Veretout","Fu","AC Ciughina","2019/2020",NA,"C",2215
 "Borini","Fu","AC Ciughina","2019/2020",NA,"C",2187
 "Dzeko","Fu","AC Ciughina","2019/2020",NA,"A",647
@@ -490,7 +490,7 @@ NA,"Fu","AC Ciughina","2019/2020",NA,"D",NA
 "Politano","Fu","Hakimi Raikkonen","2020/2021",NA,"C",536
 "Kulusevski","Fu","Hakimi Raikkonen","2020/2021",NA,"C",2833
 "Callejon","Fu","Hakimi Raikkonen","2020/2021",NA,"C",406
-"M. Lopez","Fu","Hakimi Raikkonen","2020/2021",NA,"C",NA
+"Lopez M.","Fu","Hakimi Raikkonen","2020/2021",NA,"C",4681
 "Gagliardini","Fu","Hakimi Raikkonen","2020/2021",NA,"C",801
 "Vecino","Fu","Hakimi Raikkonen","2020/2021",NA,"C",181
 "Dybala","Fu","Hakimi Raikkonen","2020/2021",NA,"A",309
@@ -597,7 +597,7 @@ NA,"Gullo","Deportivo la Carogna","2018/2019",NA,"D",NA
 "Callejon","Gullo","Deportivo la Carogna","2018/2019",NA,"A",406
 "Petagna","Gullo","Deportivo la Carogna","2018/2019",NA,"A",383
 "Icardi","Gullo","Deportivo la Carogna","2018/2019",NA,"A",277
-"Di Francesco","Gullo","Deportivo la Carogna","2018/2019",NA,"A",NA
+"Di Francesco","Gullo","Deportivo la Carogna","2018/2019",NA,"A",1857
 "Pjaca","Gullo","Deportivo la Carogna","2018/2019",NA,"A",1998
 "Sportiello","Gullo","Deportivo la Carogna","2019/2020",NA,"P",4
 NA,"Gullo","Deportivo la Carogna","2019/2020",NA,"P",NA
@@ -623,7 +623,7 @@ NA,"Gullo","Deportivo la Carogna","2019/2020",NA,"C",NA
 "Babacar","Gullo","Deportivo la Carogna","2019/2020",NA,"A",183
 "Castillejo","Gullo","Deportivo la Carogna","2019/2020",NA,"A",2692
 "Okaka","Gullo","Deportivo la Carogna","2019/2020",NA,"A",4324
-"Di Francesco","Gullo","Deportivo la Carogna","2019/2020",NA,"A",NA
+"Di Francesco","Gullo","Deportivo la Carogna","2019/2020",NA,"A",1857
 "Audero","Gullo","Sbocca Juniors","2020/2021",NA,"P",761
 "Perin","Gullo","Sbocca Juniors","2020/2021",NA,"P",218
 NA,"Gullo","Sbocca Juniors","2020/2021",NA,"P",NA
@@ -766,7 +766,7 @@ NA,"Jack","Fanta Figa","2019/2020",NA,"P",NA
 "Kurtic","Jack","Fanta Figa","2019/2020",NA,"C",28
 "Ramsey","Jack","Fanta Figa","2019/2020",NA,"C",2472
 "Castrovilli","Jack","Fanta Figa","2019/2020",NA,"C",4377
-"Traore Hj","Jack","Fanta Figa","2019/2020",NA,"C",NA
+"Traore Hj","Jack","Fanta Figa","2019/2020",NA,"C",2857
 "Lucas Leiva","Jack","Fanta Figa","2019/2020",NA,"C",2209
 "Kouame'","Jack","Fanta Figa","2019/2020",NA,"A",2762
 "Zaza","Jack","Fanta Figa","2019/2020",NA,"A",315
@@ -812,12 +812,12 @@ NA,"Jack","Fanta Figa","2020/2021",NA,"C",NA
 "Ghiglione","Jack","SS FelLazio","2021/2022","1","D",244
 "Milinkovic-Savic","Jack","SS FelLazio","2021/2022","53","C",645
 "Barella","Jack","SS FelLazio","2021/2022","39","C",1870
-"Traore Hj","Jack","SS FelLazio","2021/2022","12","C",NA
+"Traore Hj","Jack","SS FelLazio","2021/2022","12","C",2857
 "Strootman","Jack","SS FelLazio","2021/2022","1","C",470
 "Demme","Jack","SS FelLazio","2021/2022","1","C",4725
 "Ekdal","Jack","SS FelLazio","2021/2022","1","C",2391
 "Tonali","Jack","SS FelLazio","2021/2022","7","C",4449
-"Coutibaly M.","Jack","SS FelLazio","2021/2022","1","C",NA
+"Coulibaly M.","Jack","SS FelLazio","2021/2022","1","C",2144
 "Martinez L.","Jack","SS FelLazio","2021/2022","168","A",2764
 "Politano","Jack","SS FelLazio","2021/2022","8","A",536
 "Boga","Jack","SS FelLazio","2021/2022","6","A",2832
@@ -969,7 +969,7 @@ NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
 NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
 NA,"Pasol","MVPippe","2018/2019",NA,"C",NA
 "Piatek","Pasol","MVPippe","2018/2019",NA,"A",2756
-"Papu Gomez","Pasol","MVPippe","2018/2019",NA,"A",NA
+"Papu Gomez","Pasol","MVPippe","2018/2019",NA,"A",26
 "Dybala","Pasol","MVPippe","2018/2019",NA,"A",309
 "La Gumina","Pasol","MVPippe","2018/2019",NA,"A",447
 "Kluivert","Pasol","MVPippe","2018/2019",NA,"A",2779
@@ -980,7 +980,7 @@ NA,"Pasol","MVPippe","2018/2019",NA,"A",NA
 "Criscito","Pasol","MVPippe","2019/2020",NA,"D",2759
 "Tomiyasu","Pasol","MVPippe","2019/2020",NA,"D",4422
 "Caldara","Pasol","MVPippe","2019/2020",NA,"D",1847
-"Danilo L.","Pasol","MVPippe","2019/2020",NA,"D",NA
+"Danilo Lar.","Pasol","MVPippe","2019/2020",NA,"D",578
 "Castagne","Pasol","MVPippe","2019/2020",NA,"D",2197
 "Danilo","Pasol","MVPippe","2019/2020",NA,"D",4237
 "Palomino","Pasol","MVPippe","2019/2020",NA,"D",2181
@@ -994,7 +994,7 @@ NA,"Pasol","MVPippe","2019/2020",NA,"D",NA
 "Cuadrado","Pasol","MVPippe","2019/2020",NA,"C",697
 NA,"Pasol","MVPippe","2019/2020",NA,"C",NA
 "Inglese","Pasol","MVPippe","2019/2020",NA,"A",123
-"Donnarumma A.","Pasol","MVPippe","2019/2020",NA,"A",NA
+"Donnarumma A.","Pasol","MVPippe","2019/2020",NA,"A",4452
 "Pavoletti","Pasol","MVPippe","2019/2020",NA,"A",247
 "Under","Pasol","MVPippe","2019/2020",NA,"A",2201
 "Mertens","Pasol","MVPippe","2019/2020",NA,"A",410
@@ -1061,7 +1061,7 @@ NA,"Pasol","MVPippe","2019/2020",NA,"C",NA
 "Nuytinck","Pasol","HERTA VERNELLO","2022/2023","1","D",2280
 "Olivera","Pasol","HERTA VERNELLO","2022/2023","3","D",5840
 "Pellegrini Lo.","Pasol","HERTA VERNELLO","2022/2023","59","C",530
-"Traore Hj.","Pasol","HERTA VERNELLO","2022/2023","6","C",NA
+"Traore Hj","Pasol","HERTA VERNELLO","2022/2023","6","C",2857
 "Politano","Pasol","HERTA VERNELLO","2022/2023","16","C",536
 "Ederson D.s.","Pasol","HERTA VERNELLO","2022/2023","26","C",5792
 "Zambo Anguissa","Pasol","HERTA VERNELLO","2022/2023","6","C",4220
@@ -1151,7 +1151,7 @@ NA,"Pasol","MVPippe","2019/2020",NA,"C",NA
 "Toure' E.","Ricky","Tigrotto","2023/2024","1","A",6229
 "Szczesny","Sacc","Bayer Leverdure","2018/2019","25","P",453
 "Perin","Sacc","Bayer Leverdure","2018/2019","5","P",218
-"MIlinkovic-Savic V.","Sacc","Bayer Leverdure","2018/2019","3","P",NA
+"Milinkovic-Savic V.","Sacc","Bayer Leverdure","2018/2019","3","P",2170
 "Skriniar","Sacc","Bayer Leverdure","2018/2019","30","D",798
 "Bonucci","Sacc","Bayer Leverdure","2018/2019","19","D",286
 "Fazio","Sacc","Bayer Leverdure","2018/2019","17","D",2016
@@ -1160,7 +1160,7 @@ NA,"Pasol","MVPippe","2019/2020",NA,"C",NA
 "Rodriguez R.","Sacc","Bayer Leverdure","2018/2019","6","D",2169
 "Klavan","Sacc","Bayer Leverdure","2018/2019","2","D",2871
 "Calabria","Sacc","Bayer Leverdure","2018/2019","1","D",357
-"Costa","Sacc","Bayer Leverdure","2018/2019","35","C",NA
+"Costa","Sacc","Bayer Leverdure","2018/2019","35","C",2200
 "Suso","Sacc","Bayer Leverdure","2018/2019","36","C",375
 "Can","Sacc","Bayer Leverdure","2018/2019","19","C",2504
 "Zielinski","Sacc","Bayer Leverdure","2018/2019","21","C",152
@@ -1281,7 +1281,7 @@ NA,"Sacc","Bayer Leverdure","2019/2020",NA,"C",NA
 "Romagnoli","Sacc","Al Bacaro","2023/2024","7","D",460
 "Spinazzola","Sacc","Al Bacaro","2023/2024","11","D",1852
 "Mina","Sacc","Al Bacaro","2023/2024","1","D",4210
-"N'dicka","Sacc","Al Bacaro","2023/2024","2","D",NA
+"N'Dicka","Sacc","Al Bacaro","2023/2024","2","D",4317
 "Doig","Sacc","Al Bacaro","2023/2024","9","D",5851
 "Carlos Augusto","Sacc","Al Bacaro","2023/2024","11","D",5877
 "Pellegrino","Sacc","Al Bacaro","2023/2024","1","D",6460
@@ -1321,7 +1321,7 @@ NA,"Scalco","Liverplate","2019/2020",NA,"D",NA
 "Ronaldo","Scalco","Liverplate","2019/2020",NA,"A",2610
 "Correa","Scalco","Liverplate","2019/2020",NA,"A",495
 "Falco","Scalco","Liverplate","2019/2020",NA,"A",658
-"Rigoni","Scalco","Liverplate","2019/2020",NA,"A",NA
+"Rigoni","Scalco","Liverplate","2019/2020",NA,"A",2868
 "Pandev","Scalco","Liverplate","2019/2020",NA,"A",245
 NA,"Scalco","Liverplate","2019/2020",NA,"A",NA
 "Meret","Teo","Tettenham","2021/2022","33","P",572
@@ -1339,7 +1339,7 @@ NA,"Scalco","Liverplate","2019/2020",NA,"A",NA
 "Kessie","Teo","Tettenham","2021/2022","34","C",NA
 "Soriano","Teo","Tettenham","2021/2022","25","C",2625
 "Freuler","Teo","Tettenham","2021/2022","20","C",788
-"Sigurdsson","Teo","Tettenham","2021/2022","1","C",NA
+"Sigurdsson","Teo","Tettenham","2021/2022","1","C",5501
 "Lucas Leiva","Teo","Tettenham","2021/2022","1","C",2209
 "Bennacer","Teo","Tettenham","2021/2022","1","C",2818
 "Bernardeschi","Teo","Tettenham","2021/2022","1","C",184
@@ -1367,7 +1367,7 @@ NA,"Scalco","Liverplate","2019/2020",NA,"A",NA
 "Messias","Teo","Tettenham","2022/2023","6","C",4970
 "Mandragora","Teo","Tettenham","2022/2023","1","C",1933
 "Ndombele'","Teo","Tettenham","2022/2023","7","C",4143
-"Zurkovski","Teo","Tettenham","2022/2023","1","C",NA
+"Zurkowski","Teo","Tettenham","2022/2023","1","C",4376
 "Vlahovic","Teo","Tettenham","2022/2023","195","A",2841
 "Giroud","Teo","Tettenham","2022/2023","80","A",4200
 "Origi","Teo","Tettenham","2022/2023","24","A",2466
