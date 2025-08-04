@@ -149,3 +149,24 @@ squad <- rbind(squad, excel)
 file_path <- file.path(getwd(), "mru/csv/squad.csv")
 write.csv(squad, file = file_path, row.names = FALSE)
 ```
+
+```{r}
+# Merge N
+enne <- read_excel("mru/csv/n_factor.xlsx")
+squad <- read.csv("mru/csv/squad.csv")
+n_squad <- merge(squad, enne, by = "id", all.x = TRUE)
+
+# Remove NA
+n_clean <- n_squad %>% filter(!is.na(enne))
+
+# Group by team and calculate score
+n_sum <- n_clean %>%
+  group_by(team, season) %>%
+  summarise(n = sum(enne), tot = n())
+
+n_sum$score <- n_sum$n / n_sum$tot
+
+# Download csv
+file_path <- file.path(getwd(), "mru/csv/n_score.csv")
+write.csv(n_sum, file = file_path, row.names = FALSE)
+```
