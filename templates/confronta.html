@@ -1,0 +1,129 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Confronta</h2>
+<form method="post">
+  <div class="row mb-3">
+    <div class="col">
+      <label for="compare_by">Confronta per</label>
+      <select id="compare_by" name="compare_by" class="form-select" onchange="this.form.submit()">
+        <option value="team" {% if compare_by == 'team' %}selected{% endif %}>Squadra</option>
+        <option value="coach" {% if compare_by == 'coach' %}selected{% endif %}>Allenatore</option>
+      </select>
+    </div>
+  </div>
+
+</form>
+
+{% if compare_by == 'coach' %}
+  <form method="post">
+    <input type="hidden" name="compare_by" value="coach">
+    <div class="row mb-3">
+      <div class="col">
+        <label for="coach1">Allenatore 1</label>
+        <select id="coach1" name="coach1" class="form-select">
+          {% for coach in all_coaches %}
+          <option value="{{ coach }}" {% if coach == selected_coach1 %}selected{% endif %}>{{ coach }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="col">
+        <label for="coach2">Allenatore 2</label>
+        <select id="coach2" name="coach2" class="form-select">
+          {% for coach in all_coaches %}
+          <option value="{{ coach }}" {% if coach == selected_coach2 %}selected{% endif %}>{{ coach }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Confronta</button>
+  </form>
+{% elif compare_by == 'team' %}
+  <form method="post">
+    <input type="hidden" name="compare_by" value="team">
+    <div class="row mb-3">
+      <div class="col">
+        <label for="season1">Stagione 1</label>
+        <select id="season1" name="season1" class="form-select">
+          {% for season in all_seasons %}
+          <option value="{{ season }}" {% if season == selected_season1 %}selected{% endif %}>{{ season }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="col">
+        <label for="team1">Squadra 1</label>
+        <select id="team1" name="team1" class="form-select">
+          {% for team in teams_for_season1 %}
+          <option value="{{ team }}" {% if team == selected_team1 %}selected{% endif %}>{{ team }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="col">
+        <label for="season2">Stagione 2</label>
+        <select id="season2" name="season2" class="form-select">
+          {% for season in all_seasons %}
+          <option value="{{ season }}" {% if season == selected_season2 %}selected{% endif %}>{{ season }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="col">
+        <label for="team2">Squadra 2</label>
+        <select id="team2" name="team2" class="form-select">
+          {% for team in teams_for_season2 %}
+          <option value="{{ team }}" {% if team == selected_team2 %}selected{% endif %}>{{ team }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Confronta</button>
+  </form>
+{% endif %}
+</form>
+
+{% if compare_by == 'coach' and selected_coach1 and selected_coach2 %}
+<h3>Tabella confronto</h3>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th></th>
+      <th>{{ selected_coach1 }}</th>
+      <th>{{ selected_coach2 }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Giocatori</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Statistiche</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+{% elif compare_by == 'team' and selected_team1 and selected_season1 and selected_team2 and selected_season2 %}
+<h3>Tabella confronto</h3>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th></th>
+      <th>{{ selected_team1 }} - {{ team1_coach }} - {{ selected_season1 }}</th>
+      <th>{{ selected_team2 }} - {{ team2_coach }} - {{ selected_season2 }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Giocatori</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Statistiche</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}

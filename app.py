@@ -1,8 +1,58 @@
-
 from flask import Flask, render_template, request
 import pandas as pd
 
 app = Flask(__name__)
+
+@app.route("/confronta", methods=["GET", "POST"])
+def confronta():
+    compare_by = request.form.get("compare_by") or "team"
+    selected_coach1 = request.form.get("coach1")
+    selected_coach2 = request.form.get("coach2")
+    selected_team1 = request.form.get("team1")
+    selected_team2 = request.form.get("team2")
+    selected_season1 = request.form.get("season1")
+    selected_season2 = request.form.get("season2")
+    squad_df = pd.read_csv("mru/csv/squad.csv")
+    all_coaches = list(squad_df['coach'].dropna().unique())
+    all_teams = list(squad_df['team'].dropna().unique())
+    all_seasons = list(squad_df['season'].dropna().unique())
+
+    # Get coach for each team/season selection (if possible)
+    team1_coach = None
+    team2_coach = None
+    if compare_by == "team":
+        if selected_team1 and selected_season1:
+            row = squad_df[(squad_df['team'] == selected_team1) & (squad_df['season'] == selected_season1)]
+            team1_coach = row['coach'].iloc[0] if not row.empty else None
+        if selected_team2 and selected_season2:
+            row = squad_df[(squad_df['team'] == selected_team2) & (squad_df['season'] == selected_season2)]
+            team2_coach = row['coach'].iloc[0] if not row.empty else None
+
+    # Filter teams for each season selection
+    teams_for_season1 = all_teams
+    teams_for_season2 = all_teams
+    if selected_season1:
+        teams_for_season1 = list(squad_df[squad_df['season'] == selected_season1]['team'].dropna().unique())
+    if selected_season2:
+        teams_for_season2 = list(squad_df[squad_df['season'] == selected_season2]['team'].dropna().unique())
+
+    return render_template(
+        "confronta.html",
+        compare_by=compare_by,
+        all_coaches=all_coaches,
+        all_teams=all_teams,
+        all_seasons=all_seasons,
+        selected_coach1=selected_coach1,
+        selected_coach2=selected_coach2,
+        selected_team1=selected_team1,
+        selected_team2=selected_team2,
+        selected_season1=selected_season1,
+        selected_season2=selected_season2,
+        team1_coach=team1_coach,
+        team2_coach=team2_coach,
+        teams_for_season1=teams_for_season1,
+        teams_for_season2=teams_for_season2
+    )
 
 @app.route("/standings", methods=["GET", "POST"])
 def standings():
