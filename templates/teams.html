@@ -1,0 +1,83 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Team Breakdown</h2>
+<form method="post">
+  <label for="season">Season:</label>
+  <select name="season" id="season" onchange="this.form.submit()">
+    {% for season in seasons %}
+      <option value="{{ season }}" {% if season == selected_season %}selected{% endif %}>{{ season }}</option>
+    {% endfor %}
+  </select>
+
+  <label for="group_by">Group by:</label>
+  <select name="group_by" id="group_by" onchange="this.form.submit()">
+    <option value="team" {% if group_by == 'team' %}selected{% endif %}>Team</option>
+    <option value="coach" {% if group_by == 'coach' %}selected{% endif %}>Coach</option>
+  </select>
+
+  <label for="entity">{{ 'Coach' if group_by == 'coach' else 'Team' }}:</label>
+  <select name="entity" id="entity" onchange="this.form.submit()">
+    {% for entity in entities %}
+      <option value="{{ entity }}" {% if entity == selected_entity %}selected{% endif %}>{{ entity }}</option>
+    {% endfor %}
+  </select>
+</form>
+
+{% if players %}
+  <h3>Players for {{ selected_entity }} ({{ selected_season }})</h3>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+    <table id="playersTable" class="display">
+      <thead>
+        <tr>
+          {% for col in default_columns %}
+            <th>{{ col|capitalize }}</th>
+          {% endfor %}
+          {% for col in all_stat_columns %}
+            <th>{{ col|capitalize }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for player in players %}
+          <tr>
+            {% for col in default_columns %}
+              <td>{{ player[col] }}</td>
+            {% endfor %}
+            {% for col in all_stat_columns %}
+              <td>{{ player[col] }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% set hidden_indices = range(default_columns|length, default_columns|length + all_stat_columns|length) %}
+    {% set column_defs = [] %}
+    {% for idx in hidden_indices %}
+      {% set _ = column_defs.append({'targets': idx, 'visible': False}) %}
+    {% endfor %}
+    <script>
+      $(document).ready(function () {
+        $('#playersTable').DataTable({
+          "pageLength": 50,
+          "stateSave": true,
+    "columnDefs": {{ column_defs | tojson | safe }},
+          dom: 'Bfrtip',
+          buttons: [
+            {
+              extend: 'colvis',
+              collectionLayout: 'fixed two-column',
+              text: 'Seleziona colonne'
+            }
+          ]
+        });
+      });
+    </script>
+  {% else %}
+    <p>No players found for this selection.</p>
+  {% endif %}
+{% endblock %}

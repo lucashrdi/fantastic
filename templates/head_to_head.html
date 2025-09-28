@@ -1,139 +1,135 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Head to Head</title>
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-    <style>
-        table.dataTable td {
-            white-space: nowrap;
-            vertical-align: top;
-        }
-    </style>
-</head>
-<body>
-    <h1>Head to Head</h1>
+{% extends "layout.html" %}
+{% block content %}
+<h1>Head to Head</h1>
 
-    <form method="POST">
-        <label for="season_from">From:</label>
-        <select name="season_from" id="season_from">
-            {% for season in seasons %}
-                <option value="{{ season }}" {% if season == selected_from %}selected{% endif %}>{{ season }}</option>
-            {% endfor %}
-        </select>
+<form method="POST">
+    <label for="season_from">From:</label>
+    <select name="season_from" id="season_from">
+        {% for season in seasons %}
+            <option value="{{ season }}" {% if season == selected_from %}selected{% endif %}>{{ season }}</option>
+        {% endfor %}
+    </select>
 
-        <label for="season_to">To:</label>
-        <select name="season_to" id="season_to">
-            {% for season in seasons %}
-                <option value="{{ season }}" {% if season == selected_to %}selected{% endif %}>{{ season }}</option>
-            {% endfor %}
-        </select>
+    <label for="season_to">To:</label>
+    <select name="season_to" id="season_to">
+        {% for season in seasons %}
+            <option value="{{ season }}" {% if season == selected_to %}selected{% endif %}>{{ season }}</option>
+        {% endfor %}
+    </select>
 
-        <label for="group_by">Group by:</label>
-        <select name="group_by" id="group_by">
-            <option value="team" {% if group_by == "team" %}selected{% endif %}>Team</option>
-            <option value="coach" {% if group_by == "coach" %}selected{% endif %}>Coach</option>
-        </select>
+    <label for="group_by">Group by:</label>
+    <select name="group_by" id="group_by">
+        <option value="team" {% if group_by == "team" %}selected{% endif %}>Team</option>
+        <option value="coach" {% if group_by == "coach" %}selected{% endif %}>Coach</option>
+    </select>
 
-        <label for="mode">View:</label>
-        <select name="mode" id="mode" onchange="this.form.submit()">
-            <option value="matrix" {% if mode == "matrix" %}selected{% endif %}>Matrix</option>
-            <option value="compare" {% if mode == "compare" %}selected{% endif %}>Compare</option>
-        </select>
+    <label for="mode">View:</label>
+    <select name="mode" id="mode" onchange="this.form.submit()">
+        <option value="matrix" {% if mode == "matrix" %}selected{% endif %}>Matrix</option>
+        <option value="compare" {% if mode == "compare" %}selected{% endif %}>Compare</option>
+    </select>
 
-        {% if mode == "compare" %}
-        <label for="entity1">Entity 1:</label>
-        <select name="entity1" id="entity1">
-            {% for entity in entities %}
-                <option value="{{ entity }}" {% if entity == entity1 %}selected{% endif %}>{{ entity }}</option>
-            {% endfor %}
-        </select>
+    {% if mode == "compare" %}
+    <label for="entity1">Entity 1:</label>
+    <select name="entity1" id="entity1">
+        {% for entity in entities %}
+            <option value="{{ entity }}" {% if entity == entity1 %}selected{% endif %}>{{ entity }}</option>
+        {% endfor %}
+    </select>
 
-        <label for="entity2">Entity 2:</label>
-        <select name="entity2" id="entity2">
-            {% for entity in entities %}
-                <option value="{{ entity }}" {% if entity == entity2 %}selected{% endif %}>{{ entity }}</option>
-            {% endfor %}
-        </select>
-        {% endif %}
+    <label for="entity2">Entity 2:</label>
+    <select name="entity2" id="entity2">
+        {% for entity in entities %}
+            <option value="{{ entity }}" {% if entity == entity2 %}selected{% endif %}>{{ entity }}</option>
+        {% endfor %}
+    </select>
+    {% endif %}
 
-        <input type="submit" value="Update">
-    </form>
+    <input type="submit" value="Update">
+</form>
 
-    {% if mode == "matrix" %}
-        <table id="matrixTable" class="display">
-            <thead>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<style>
+    table.dataTable td {
+        white-space: nowrap;
+        vertical-align: top;
+    }
+</style>
+
+{% if mode == "matrix" %}
+    <table id="matrixTable" class="display">
+        <thead>
+            <tr>
+                <th></th>
+                {% for entity in entities %}
+                    <th>{{ entity }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in matrix %}
                 <tr>
-                    <th></th>
+                    <td><strong>{{ row.entity }}</strong></td>
                     {% for entity in entities %}
-                        <th>{{ entity }}</th>
+                        <td>{{ row[entity]|safe }}</td>
                     {% endfor %}
                 </tr>
-            </thead>
-            <tbody>
-                {% for row in matrix %}
-                    <tr>
-                        <td><strong>{{ row.entity }}</strong></td>
-                        {% for entity in entities %}
-                            <td>{{ row[entity]|safe }}</td>
-                        {% endfor %}
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+            {% endfor %}
+        </tbody>
+    </table>
 
-        <script>
-            $(document).ready(function() {
-                $('#matrixTable').DataTable({
-                scrollX: true,
-                scrollCollapse: true,
-                autoWidth: false,
-                pageLength: 50,
-                fixedColumns: false
-            });
-            });
-        </script>
-        
-    {% elif mode == "compare" %}
-        <h2>Comparison Timeline</h2>
-        <table id="compareTable" class="display">
-            <thead>
+    <script>
+        $(document).ready(function() {
+            $('#matrixTable').DataTable({
+            scrollX: true,
+            scrollCollapse: true,
+            autoWidth: false,
+            pageLength: 50,
+            fixedColumns: false
+        });
+        });
+    </script>
+    
+{% elif mode == "compare" %}
+    <h2>Comparison Timeline</h2>
+    <table id="compareTable" class="display">
+        <thead>
+            <tr>
+                <th>Matchday</th>
+                <th>Season</th>
+                <th>Team 1</th>
+                <th>Goal 1</th>
+                <th>Goal 2</th>
+                <th>Team 2</th>
+                <th>Fantapunti 1</th>
+                <th>Fantapunti 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for match in comparison %}
                 <tr>
-                    <th>Matchday</th>
-                    <th>Season</th>
-                    <th>Team 1</th>
-                    <th>Goal 1</th>
-                    <th>Goal 2</th>
-                    <th>Team 2</th>
-                    <th>Fantapunti 1</th>
-                    <th>Fantapunti 2</th>
+                    <td>{{ match.matchday }}</td>
+                    <td>{{ match.season }}</td>
+                    <td>{{ match.team1 }}</td>
+                    <td>{{ match.goal1 }}</td>
+                    <td>{{ match.goal2 }}</td>
+                    <td>{{ match.team2 }}</td>
+                    <td>{{ match.score1 }}</td>
+                    <td>{{ match.score2 }}</td>
                 </tr>
-            </thead>
-            <tbody>
-                {% for match in comparison %}
-                    <tr>
-                        <td>{{ match.matchday }}</td>
-                        <td>{{ match.season }}</td>
-                        <td>{{ match.team1 }}</td>
-                        <td>{{ match.goal1 }}</td>
-                        <td>{{ match.goal2 }}</td>
-                        <td>{{ match.team2 }}</td>
-                        <td>{{ match.score1 }}</td>
-                        <td>{{ match.score2 }}</td>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+            {% endfor %}
+        </tbody>
+    </table>
 
-        <script>
-            $(document).ready(function() {
-                $('#compareTable').DataTable({
-                    order: [[1, 'asc'], [0, 'asc']],
-                    pageLength: 100
-                });
+    <script>
+        $(document).ready(function() {
+            $('#compareTable').DataTable({
+                order: [[1, 'asc'], [0, 'asc']],
+                pageLength: 100
             });
-        </script>
-    {% endif %}
-</body>
-</html>
+        });
+    </script>
+{% endif %}
+{% endblock %}

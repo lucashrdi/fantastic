@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template, request
 import pandas as pd
 
@@ -310,6 +311,75 @@ def head_to_head():
                            entities=entities,
                            matrix=matrix,
                            comparison=comparison)
+
+@app.route("/teams", methods=["GET", "POST"])
+def teams():
+    # Load data
+    matches_df = pd.read_csv("data/matches.csv")
+    teams_df = pd.read_csv("data/teams.csv")
+    squad_df = pd.read_csv("mru/csv/squad.csv")
+    stats_df = pd.read_csv("mru/csv/stats.csv")
+
+    # Get available seasons and teams/coaches
+    seasons = sorted(matches_df["season"].unique())
+    selected_season = request.form.get("season") or seasons[0]
+
+    group_by = request.form.get("group_by") or "team"
+    if group_by == "coach":
+        entities = sorted(teams_df[teams_df["season"] == selected_season]["coach"].dropna().unique())
+    else:
+        entities = sorted(teams_df[teams_df["season"] == selected_season]["team"].dropna().unique())
+
+    selected_entity = request.form.get("entity") or (entities[0] if entities else None)
+
+    # Filter squad for selected team/coach and season
+    if group_by == "coach":
+        filtered_squad = squad_df[(squad_df["season"] == selected_season) & (squad_df["coach"] == selected_entity)]
+    else:
+        filtered_squad = squad_df[(squad_df["season"] == selected_season) & (squad_df["team"] == selected_entity)]
+
+    # Merge with stats on id, name, and season (id preferred, fallback to name+season)
+    merged = pd.merge(
+        filtered_squad,
+        stats_df,
+        how="left",
+        left_on=["id", "player", "season"],
+        right_on=["id", "name", "season"]
+    )
+
+    # If id is NA, try to merge on name+season only (for players with missing id)
+    missing_stats = merged[merged["pos"].isna()]
+    if not missing_stats.empty:
+        fallback = pd.merge(
+            filtered_squad[filtered_squad["id"].isna()],
+            stats_df,
+            how="left",
+            left_on=["player", "season"],
+            right_on=["name", "season"]
+        )
+        # Update missing rows in merged
+        for idx, row in fallback.iterrows():
+            merged.loc[(merged["player"] == row["player"]) & (merged["season"] == row["season"]), list(stats_df.columns)] = row[list(stats_df.columns)]
+
+    # Prepare columns: default and all
+    default_columns = ["pos", "name", "team", "price"]
+    all_stat_columns = [col for col in stats_df.columns if col not in ("id", "name", "team", "season")]
+    # Ensure price is from squad, not stats
+    merged["price"] = merged["price"]
+
+    players = merged.to_dict(orient="records")
+
+    return render_template(
+        "teams.html",
+        seasons=seasons,
+        selected_season=selected_season,
+        group_by=group_by,
+        entities=entities,
+        selected_entity=selected_entity,
+        players=players,
+        default_columns=default_columns,
+        all_stat_columns=all_stat_columns
+    )
 
 @app.route("/")
 def homepage():
