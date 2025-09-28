@@ -46,10 +46,10 @@
         {% for player in players %}
           <tr>
             {% for col in default_columns %}
-              <td>{{ player[col] }}</td>
+              <td>{{ player.get(col, '') }}</td>
             {% endfor %}
             {% for col in all_stat_columns %}
-              <td>{{ player[col] }}</td>
+              <td>{{ player.get(col, '') }}</td>
             {% endfor %}
           </tr>
         {% endfor %}
