@@ -23,6 +23,12 @@
   </select>
 </form>
 
+{% if summary %}
+  <div style="margin: 1em 0; font-size: 1.1em; font-weight: bold; color: #333;">
+    {{ summary }}
+  </div>
+{% endif %}
+
 {% if players %}
   <h3>Players for {{ selected_entity }} ({{ selected_season }})</h3>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">

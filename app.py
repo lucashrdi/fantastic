@@ -158,8 +158,6 @@ def standings():
                            group_by=group_by,
                            plot_data=plot_data)
 
-
-
 @app.route("/head_to_head", methods=["GET", "POST"])
 def head_to_head():
     df = pd.read_csv("data/matches.csv")
@@ -314,14 +312,17 @@ def head_to_head():
 
 @app.route("/teams", methods=["GET", "POST"])
 def teams():
+
     # Load data
     matches_df = pd.read_csv("data/matches.csv")
     teams_df = pd.read_csv("data/teams.csv")
     squad_df = pd.read_csv("mru/csv/squad.csv")
     stats_df = pd.read_csv("mru/csv/stats.csv")
+    if "pos" in stats_df.columns:
+        stats_df = stats_df.drop(columns=["pos"])
 
     # Get available seasons and teams/coaches
-    seasons = sorted(matches_df["season"].unique())
+    seasons = sorted(squad_df["season"].unique())
     selected_season = request.form.get("season") or seasons[0]
 
     group_by = request.form.get("group_by") or "team"
@@ -338,36 +339,96 @@ def teams():
     else:
         filtered_squad = squad_df[(squad_df["season"] == selected_season) & (squad_df["team"] == selected_entity)]
 
-    # Merge with stats on id, name, and season (id preferred, fallback to name+season)
+    # Merge stats on id and season only
     merged = pd.merge(
-        filtered_squad,
+        filtered_squad[["id", "player", "price", "pos", "season"]],
         stats_df,
         how="left",
-        left_on=["id", "player", "season"],
-        right_on=["id", "name", "season"]
+        left_on=["id", "season"],
+        right_on=["id", "season"]
     )
 
-    # If id is NA, try to merge on name+season only (for players with missing id)
-    missing_stats = merged[merged["pos"].isna()]
-    if not missing_stats.empty:
-        fallback = pd.merge(
-            filtered_squad[filtered_squad["id"].isna()],
-            stats_df,
-            how="left",
-            left_on=["player", "season"],
-            right_on=["name", "season"]
-        )
-        # Update missing rows in merged
-        for idx, row in fallback.iterrows():
-            merged.loc[(merged["player"] == row["player"]) & (merged["season"] == row["season"]), list(stats_df.columns)] = row[list(stats_df.columns)]
+    # Always use pos, player (as name), and price from squad, fill missing with '---'
+    merged["name"] = merged["player"].fillna("---")
+    merged["pos"] = merged["pos"].fillna("---")
+    merged["price"] = merged["price"].fillna("---")
 
-    # Prepare columns: default and all
+    # Optionally, if you want 'team' from squad (fantasy team), uncomment:
+        # Use 'team' from stats if available, otherwise '---'
+    merged["team"] = merged["team"].fillna("---")
+
     default_columns = ["pos", "name", "team", "price"]
     all_stat_columns = [col for col in stats_df.columns if col not in ("id", "name", "team", "season")]
-    # Ensure price is from squad, not stats
-    merged["price"] = merged["price"]
+
+    # Format stats: all as int except mv and fmv as two decimals
+    for col in all_stat_columns:
+        if col.lower() in ["mv", "fmv"]:
+            merged[col] = merged[col].apply(lambda x: f"{x:.2f}" if pd.notna(x) and x != '' else "---")
+        else:
+            merged[col] = merged[col].apply(lambda x: str(int(x)) if pd.notna(x) and x == x and x != '' else "---")
 
     players = merged.to_dict(orient="records")
+
+    # --- Quick summary calculation ---
+    summary = None
+    # Only try if selected_entity is not None
+    if selected_entity:
+        # Use standings logic for this season and group_by
+        df = pd.read_csv("data/matches.csv")
+        coaches_df = pd.read_csv("data/teams.csv")
+        df = df[df["season"] == selected_season]
+        # Merge coach names
+        df = pd.merge(df, coaches_df, how="left", left_on=["season", "team1"], right_on=["season", "team"])
+        df = df.rename(columns={"coach": "coach1"})
+        df = pd.merge(df, coaches_df, how="left", left_on=["season", "team2"], right_on=["season", "team"])
+        df = df.rename(columns={"coach": "coach2"})
+        stats = {}
+        for _, row in df.iterrows():
+            t1, t2 = row["team1"], row["team2"]
+            c1, c2 = row.get("coach1"), row.get("coach2")
+            key1 = c1 if group_by == "coach" else t1
+            key2 = c2 if group_by == "coach" else t2
+            if pd.isna(key1) or pd.isna(key2):
+                continue
+            for key in [key1, key2]:
+                if key not in stats:
+                    stats[key] = {"W": 0, "D": 0, "L": 0, "GF": 0, "GA": 0, "Pts": 0, "FP": 0}
+            g1, g2 = row["goal1"], row["goal2"]
+            stats[key1]["GF"] += g1
+            stats[key1]["GA"] += g2
+            stats[key2]["GF"] += g2
+            stats[key2]["GA"] += g1
+            if g1 > g2:
+                stats[key1]["W"] += 1
+                stats[key2]["L"] += 1
+                stats[key1]["Pts"] += 3
+            elif g1 < g2:
+                stats[key2]["W"] += 1
+                stats[key1]["L"] += 1
+                stats[key2]["Pts"] += 3
+            else:
+                stats[key1]["D"] += 1
+                stats[key2]["D"] += 1
+                stats[key1]["Pts"] += 1
+                stats[key2]["Pts"] += 1
+            # Add FP (Fantapunti) logic
+            if pd.notna(row.get("score1")) and pd.notna(row.get("score2")):
+                s1, s2 = row["score1"], row["score2"]
+                stats[key1]["FP"] += s1
+                stats[key2]["FP"] += s2
+        # Build standings for this season
+        standings = []
+        for key, s in stats.items():
+            s["entity"] = key
+            standings.append(s)
+        standings = sorted(standings, key=lambda x: (x["Pts"], x["GF"]-x["GA"], x["GF"]), reverse=True)
+        # Find selected entity's stats and position
+        for idx, s in enumerate(standings, 1):
+            if s["entity"] == selected_entity:
+                pos = idx
+                summary = f"{pos}° posto, {s['W']}W-{s['D']}D-{s['L']}L, {s['GF']}-{s['GA']} goal, {s['Pts']} punti, {int(s['FP'])} fantapunti"
+                break
+    # --- End summary calculation ---
 
     return render_template(
         "teams.html",
@@ -378,7 +439,8 @@ def teams():
         selected_entity=selected_entity,
         players=players,
         default_columns=default_columns,
-        all_stat_columns=all_stat_columns
+        all_stat_columns=all_stat_columns,
+        summary=summary
     )
 
 @app.route("/")
